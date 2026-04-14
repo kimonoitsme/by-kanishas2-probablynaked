@@ -111531,6 +111531,11 @@ file = "mods/rebindnarrator-forge-1.20.x-1.2.2.jar"
 hash = "6df2931b4a2613743861752c5fe7f5fb6d3cee8e2bd9639a265aa92e06269252"
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+hash = "ca5d254eded2a38a5db675f464d2fe355c633a2f774b9d4e2937163639a8b98e"
+metafile = true
+
+[[files]]
 file = "mods/ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar"
 hash = "5531ec454792f98993fa29d55f8810444ba3e9ef8f04331c5811b84ec8d0c3dc"
 
@@ -111589,6 +111594,11 @@ hash = "c6d75a2acd9b269524da4de35a1681535069f885e7a910b013962db3f7842709"
 [[files]]
 file = "mods/sootychimneys-1.20.1-1.2.4.jar"
 hash = "d87005c4c786385050a22ba6c15dfa0c3a2ac6f43592c7e680c33b144148dc44"
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "7292700f04a96dd5c0452832ed8d39adc75c4bed7747525bc6e88b3155e58325"
+metafile = true
 
 [[files]]
 file = "mods/soulslike-weaponry-1.3.1-1.20.1-forge.jar"
