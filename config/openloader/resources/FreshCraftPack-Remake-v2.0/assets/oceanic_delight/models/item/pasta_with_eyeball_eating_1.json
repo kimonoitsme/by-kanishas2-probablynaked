@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "oceanic_delight:item/pasta_with_eye_balls_eating_1"
+  }
+}

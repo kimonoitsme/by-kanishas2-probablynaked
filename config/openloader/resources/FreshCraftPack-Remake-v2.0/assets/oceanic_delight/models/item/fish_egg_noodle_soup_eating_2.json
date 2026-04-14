@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "oceanic_delight:item/fish_egg_noodle_soup_eating_2"
+  }
+}

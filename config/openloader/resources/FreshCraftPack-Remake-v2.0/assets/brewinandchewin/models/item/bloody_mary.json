@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "brewinandchewin:custom/base_eating",
+	  "textures": {
+		"0": "brewinandchewin:block/bloody_mary",
+		"particle": "brewinandchewin:block/bloody_mary"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/bloody_mary"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/bloody_mary"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/bloody_mary"
+		}
+	  }
+	}
+  }

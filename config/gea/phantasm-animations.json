@@ -1,0 +1,44 @@
+{
+  "phantasm:behemoth_meat": [
+    "phantasm:behemoth_meat",
+    "phantasm:behemoth_meat",
+    "phantasm:behemoth_meat_eating_0",
+    "phantasm:behemoth_meat_eating_1",
+    "phantasm:behemoth_meat_eating_2"
+  ],
+  "phantasm:behemoth_steak": [
+    "phantasm:behemoth_steak",
+    "phantasm:behemoth_steak",
+    "phantasm:behemoth_steak_eating_0",
+    "phantasm:behemoth_steak_eating_1",
+    "phantasm:behemoth_steak_eating_2"
+  ],
+  "phantasm:chorus_fruit_salad": [
+    "phantasm:chorus_fruit_salad",
+    "phantasm:chorus_fruit_salad",
+    "phantasm:chorus_fruit_salad_eating_0",
+    "phantasm:chorus_fruit_salad_eating_1",
+    "phantasm:chorus_fruit_salad_eating_2"
+  ],
+  "phantasm:oblifruit": [
+    "phantasm:oblifruit",
+    "phantasm:oblifruit",
+    "phantasm:oblifruit_eating_0",
+    "phantasm:oblifruit_eating_1",
+    "phantasm:oblifruit_eating_2"
+  ],
+  "phantasm:pome_slice": [
+    "phantasm:pome_slice",
+    "phantasm:pome_slice",
+    "phantasm:pome_slice_eating_0",
+    "phantasm:pome_slice_eating_1",
+    "phantasm:pome_slice_eating_2"
+  ],
+  "phantasm:pream_berry": [
+    "phantasm:pream_berry",
+    "phantasm:pream_berry",
+    "phantasm:pream_berry_eating_0",
+    "phantasm:pream_berry_eating_1",
+    "phantasm:pream_berry_eating_2"
+  ]
+}

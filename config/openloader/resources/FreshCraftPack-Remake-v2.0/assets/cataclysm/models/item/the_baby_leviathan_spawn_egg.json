@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "cataclysm:item/spawn_egg/the_baby_leviathan_spawn_egg"
+  }
+}

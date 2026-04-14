@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "creeperoverhaul:item/spawn_egg/badlands_creeper_spawn_egg"
+  }
+}

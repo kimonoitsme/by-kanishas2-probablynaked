@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rottencreatures:item/frozen_rotten_flesh_eating_1"
+  }
+}

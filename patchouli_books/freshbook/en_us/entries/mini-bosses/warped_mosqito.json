@@ -1,0 +1,21 @@
+{
+    "name": "§b§lИскажённый комар",
+    "icon": "alexsmobs:spawn_egg_warped_mosco",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 14,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oОгромный мутант, §oсоздать которого §oбудет не просто...  $(br)$(br)§o Понадобится §oстранное грибковое §oсущество, §oискажённые §oгрибы и §oкомар... §oПодробнее о §oего §oпризыве, можно §oпрочитать в §oэнциклопедии Алекса."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": " §oПоследствия могут §oбыть ужасающими!...",
+            "images": [
+                "patchouli:warped_mosco.png"
+            ]
+        }
+    ]
+}

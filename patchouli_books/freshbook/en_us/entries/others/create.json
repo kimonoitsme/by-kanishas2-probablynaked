@@ -1,0 +1,35 @@
+{
+    "name": "§6§lТехнологии...",
+    "icon": "create:goggles",
+    "category": "patchouli:other_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "§6§lРедкие механизмы",
+            "text": " §oКрайней редкостью §oявляются данные §oприблуды. Некоторые §oиз них можно только §oнайти в разных §oсооружениях по §oвсему §oмиру.$(br)$(br)§o Например, у §oпривалов §oнад §oземлёй и в §oпещерах...",
+            "item": "create:schematicannon,create:mechanical_drill,create:mechanical_saw,create:mechanical_harvester,create:mechanical_plough,create:mechanical_roller,create:netherite_backtank,create:netherite_diving_helmet,create:netherite_diving_boots"
+        },
+        {
+            "type": "text",
+            "text": " §oНо если тебе §oудастся отыскать §oлавку инженера §oТинкера, считай §oтебе §oповезло, §oвозможно, он §oещё там...$(br)$(br)§o Имей ввиду, что §oнекоторых, возможно, §oпривычных для тебя §oвещей тут просто §oнет, да, вот так-вот! §oНо всё же у меня §oесть, что §oрассказать тебе..."
+        },
+        {
+            "type": "text",
+            "text": " §oТак вот, что я тебе §oскажу...$(br)$(br)§o Есть и другие §oболее §oразвитые и §oдревние §oтехнологии и даже §oмогущественные §oартефакты, слышал §oчто-нибудь про §o<<Предвестника>>?... §oВозможно, нечто §oбольшое можно §oбудет §оотыскать §oсовершенно §oв §oдругих §oмирах..."
+        },
+        {
+            "type": "text",
+            "text": "§o Захочешь §oотправиться туда, §oтолько пожелай и я §oповедую тебе §oбольше... Это, всё-§oтаки, ведь не §oпростая §oкнижка!$(br)$(br) §oИнтересуют §oзабытые §oи §oпродвинутые §oтехнологии?"
+        },
+        {
+            "border": "false",
+            "title": "",
+            "type": "image",
+            "text": " §oУверен ли ты, что §oготов посетить$(br)  §oдругие миры?",
+            "images": [
+                "patchouli:steampunk.png"
+            ]
+        }
+    ]
+}

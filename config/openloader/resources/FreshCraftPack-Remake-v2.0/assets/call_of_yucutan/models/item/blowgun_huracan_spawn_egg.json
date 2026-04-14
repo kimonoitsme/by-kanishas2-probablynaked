@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "call_of_yucutan:item/spawn_egg/blowgun_huracan_spawn_egg"
+  }
+}

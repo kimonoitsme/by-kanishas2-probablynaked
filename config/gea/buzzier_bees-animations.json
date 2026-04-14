@@ -1,0 +1,23 @@
+{
+  "buzzier_bees:honey_apple": [
+    "buzzier_bees:honey_apple",
+    "buzzier_bees:honey_apple",
+    "buzzier_bees:honey_apple_eating_0",
+    "buzzier_bees:honey_apple_eating_1",
+    "buzzier_bees:honey_apple_eating_2"
+  ],
+  "buzzier_bees:glazed_porkchop": [
+    "buzzier_bees:glazed_porkchop",
+    "buzzier_bees:glazed_porkchop",
+    "buzzier_bees:glazed_porkchop_eating_0",
+    "buzzier_bees:glazed_porkchop_eating_1",
+    "buzzier_bees:glazed_porkchop_eating_2"
+  ],
+  "buzzier_bees:honey_bread": [
+    "buzzier_bees:honey_bread",
+    "buzzier_bees:honey_bread",
+    "buzzier_bees:honey_bread_eating_0",
+    "buzzier_bees:honey_bread_eating_1",
+    "buzzier_bees:honey_bread_eating_2"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "irons_spellbooks:item/netherite_spell_book_model",
+	  "textures": {
+		"layer0": "irons_spellbooks:item/netherite_spell_book"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "irons_spellbooks:item/netherite_spell_book"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "irons_spellbooks:item/netherite_spell_book"
+		}
+	  },
+	  "fixed": {
+		"parent": "irons_spellbooks:item/netherite_spell_book_model",
+	  "textures": {
+		"layer0": "irons_spellbooks:item/netherite_spell_book"
+		}
+	  }
+	}
+  }

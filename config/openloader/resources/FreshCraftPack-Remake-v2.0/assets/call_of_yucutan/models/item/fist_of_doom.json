@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "call_of_yucutan:item/fist_of_doom_hendheld",
+	  "textures": {
+    "2": "call_of_yucutan:block/fist_of_doom",
+    "particle": "call_of_yucutan:item/fist_of_doom"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "call_of_yucutan:item/fist_of_doom"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "call_of_yucutan:item/fist_of_doom"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "call_of_yucutan:item/fist_of_doom"
+		}
+	  }
+	}
+}

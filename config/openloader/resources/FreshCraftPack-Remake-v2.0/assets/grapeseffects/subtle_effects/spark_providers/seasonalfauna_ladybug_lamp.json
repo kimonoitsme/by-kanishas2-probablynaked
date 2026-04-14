@@ -1,0 +1,19 @@
+{
+  "states": [
+    {
+      "name": "seasonalfauna:ladybug_lamp"
+    }
+  ],
+  "options": {
+    "preset": "custom",
+    "spark": "short_life",
+    "count": 2,
+    "chance": 0.7,
+    "colors": [
+      [1.0, 0.353, 0.353],
+      [0.894, 0.173, 0.173],
+      [0.792, 0.051, 0.133],
+      [0.619, 0.039, 0.149]
+    ]
+  }
+}

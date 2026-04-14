@@ -1,0 +1,31 @@
+{
+    "name": "§6§lДекор и мебель",
+    "icon": "another_furniture:furniture_hammer",
+    "category": "patchouli:functional_category",
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "§7§lПростая мебель",
+            "text": " §oПостроил дом, и §oдумаешь, что чего-§oто §oне хватает?$(br)§o Давай, смастери §oчто-§oнибудь из §oмебели и §oобустрой §oего как §oследует!$(br)§o У тебя на выбор §oразные стулья, §oстолы, §oящики и §oмного §oчего §oещё...$(br)§o Да будет уют!",
+            "item": "another_furniture:red_sofa,another_furniture:red_tall_stool,another_furniture:red_lamp,another_furniture:red_curtain,another_furniture:oak_table,another_furniture:oak_bench,another_furniture:oak_drawer,another_furniture:oak_chair,another_furniture:oak_shelf,another_furniture:oak_shutter"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§7Разные узоры",
+            "text": " §oИзделия из дерева §oзачастую §oотличаются §oдруг §oот §oдруга не §oтолько §oтекстурой, §oно §oи §oузорами!$(br)§o Комбинируй разные §oварианты для того, §oчтобы создать §oнеповторимый §oдизайн §oинтерьера! ",
+            "item": "everycomp:c/ecologics/walnut_window_pane,everycomp:c/biomesoplenty/umbran_window_pane,everycomp:c/biomesoplenty/dead_window_pane,everycomp:c/biomesoplenty/palm_window_pane,everycomp:c/unusualend/chorus_nest_window_pane,everycomp:c/ecologics/azalea_window_pane,everycomp:c/vanillabackport/pale_oak_window_pane,everycomp:c/biomesoplenty/pine_window_pane"
+        },
+        {
+            "type": "spotlight",
+            "title": "§3§lЗима",
+            "text": " §oЯ нахожусь вне §oвремени, мне сложно §oсказать что сейчас - §oзима или лето..$(br)§o Однако я могу §oсказать лишь одно - §oесли у тебя на носу §oрождество, не §oзабудь §oнарядить §oёлочку и §oсам §oприодеться, §oпрокатись на коньках!",
+            "item": "grapesseasonstuff:skates,grapesseasonstuff:snowshoes,grapesseasonstuff:red_winter_hat,grapesseasonstuff:red_scarf,grapesseasonstuff:christmas_tree_empty,grapesseasonstuff:sockos,grapesseasonstuff:ugly_sweater_red"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lЛето",
+            "text": " §oА если лето, то §oделай себе шезлонг, §oпляжный зонтик и §oрасполагайся у моря!$(br)§o Сделай себе §oкрасивый бар для §oсоздания §oпрохладных §oлетних §oнапитков - и §oприятного отдыха!",
+            "item": "grapesseasonstuff:palm_bar,grapesseasonstuff:tall_palm_torch,grapesseasonstuff:beach_chair,grapesseasonstuff:palm_bar_stool,grapesseasonstuff:palm_bar_stool,grapesseasonstuff:palm_bar_stool"
+        }
+    ]
+}

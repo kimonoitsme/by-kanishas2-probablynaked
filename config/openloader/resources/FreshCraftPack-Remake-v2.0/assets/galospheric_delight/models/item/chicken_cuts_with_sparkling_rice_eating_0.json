@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "galospheric_delight:item/chicken_cuts_with_sparkling_rice_eating_0"
+  }
+}

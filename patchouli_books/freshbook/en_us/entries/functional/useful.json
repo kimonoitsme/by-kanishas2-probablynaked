@@ -1,0 +1,25 @@
+{
+    "name": "§7§lПолезности",
+    "icon": "supplementaries:faucet",
+    "category": "patchouli:functional_category",
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "§6§lРаз§2§lноо§3§lбра§5§lзие",
+            "text": " §oСуществует такой §oогромный выбор и §oразнообразие между §oразличными §oматериалами для §oстроительства, что §oты §oс лёгкостью §oсможешь §oстать §oстроителем, §oдизайнером и кем §oзахочешь, берись §oза §oинструменты и$(br)§o вперёд!",
+            "item": "quark:vertical_oak_planks,hearth_and_home:oak_vertical_trim,quark:oak_vertical_slab,supplementaries:checker_block,supplementaries:daub_brace,supplementaries:fine_wood,quark:granite_bricks,quark:cobblestone_bricks,quark:limestone_pillar,quark:shale_pillar,quark:dripstone_bricks,quark:cactus_block,quark:thatch,quark:red_framed_glass,quark:lime_framed_glass,quark:light_blue_framed_glass"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lМеханизмы и блоки",
+            "text": " §oДа, помимо простой §oмебели и §oпродвинутых §oмеханизмов, есть и §oпросто полезные §oблоки-инстументы, §oкоторые могут §oвыполнять, как §oфункциональную §oроль так и просто §oкосметическую...",
+            "item": "supplementaries:fire_pit,supplementaries:faucet,supplementaries:goblet,supplementaries:candle_holder,supplementaries:sconce,supplementaries:hat_stand,supplementaries:globe_sepia,supplementaries:flower_box,quark:abacus,quark:paper_lantern_sakura,quark:trowel,supplementaries:item_shelf"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lИнструменты",
+            "text": " §oИз самых удобных и §oважных в этом деле §oмогу отметить - §oабак §oи шпатель. §oОдин - §oпозволит §oудобно §oизмерять §oрасстояние, §oдругой §oесли §oиспользовать §oво §oвторой руке, §oпозволит более §oкрасиво укладывать §oматериал!",
+            "item": "quark:trowel,quark:abacus"
+        }
+    ]
+}

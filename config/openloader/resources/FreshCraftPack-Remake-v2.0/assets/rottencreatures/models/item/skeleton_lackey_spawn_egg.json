@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "rottencreatures:item/spawn_egg/skeleton_lackey_spawn_egg"
+  }
+}

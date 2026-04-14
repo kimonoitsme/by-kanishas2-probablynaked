@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "savage_and_ravage:item/spawn_egg/iceologer_spawn_egg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "§5§lЗапретная магия",
+    "icon": "forbidden_arcanus:reinforced_deorum_blacksmith_gavel",
+    "category": "patchouli:fantasy_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "text": "§oМножество §oразличных §oмистических §oпредметов позволят §oвам творить §oразличные §oмагические §oвыкрутасы. §oПопробуйте §oизучить §oих все."
+        },
+        {
+            "type": "text",
+            "text": "§oСоздайте Кузницу §oГефеста и §oначинайте §oтворить!"
+        }
+    ]
+}

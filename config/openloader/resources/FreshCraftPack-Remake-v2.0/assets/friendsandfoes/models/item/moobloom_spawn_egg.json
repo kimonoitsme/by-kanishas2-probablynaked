@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "friendsandfoes:item/spawn_egg/moobloom_spawn_egg"
+  }
+}

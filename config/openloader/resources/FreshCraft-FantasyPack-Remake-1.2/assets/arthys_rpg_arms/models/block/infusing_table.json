@@ -1,0 +1,9 @@
+{
+  "parent": "arthys_rpg_arms:custom/infusing_table",
+  "textures": {
+    "all": "arthys_rpg_arms:block/infusing_table",
+    "particle": "arthys_rpg_arms:block/infusing_table",
+    "1": "arthys_rpg_arms:block/infusing_table"
+  },
+  "render_type": "cutout"
+}

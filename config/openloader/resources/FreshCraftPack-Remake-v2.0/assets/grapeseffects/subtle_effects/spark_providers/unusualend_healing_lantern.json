@@ -1,0 +1,14 @@
+{
+  "states": [
+    {
+      "name": "unusualend:healing_lantern"
+    }
+  ],
+  "options": {
+    "preset": "lantern",
+    "colors": [
+      [0.7, 0.3, 1.0],
+      [0.4, 0.0, 0.8]
+    ]
+  }
+}

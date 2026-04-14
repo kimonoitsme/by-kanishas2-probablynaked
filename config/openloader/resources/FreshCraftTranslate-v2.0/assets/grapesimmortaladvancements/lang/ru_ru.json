@@ -1,0 +1,11 @@
+{
+  "key.grapesimmortaladvancements.open_gui": "Совместные достижения",
+  "key.categories.grapesimmortaladvancements": "Улучшенные достижения от Grape",
+  "screen.grapesimmortaladvancements.title": "Управление совеместными достижениями",
+  "screen.grapesimmortaladvancements.playername": "Имя игрока",
+  "screen.grapesimmortaladvancements.invite": "Пригласить игрока",
+  "screen.grapesimmortaladvancements.accept": "Принять приглашение",
+  "screen.grapesimmortaladvancements.list": "Показать участников группы",
+  "screen.grapesimmortaladvancements.leave": "Покинуть группу",
+  "gui.cancel": "Закрыть"
+}

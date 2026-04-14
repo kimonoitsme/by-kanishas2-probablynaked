@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "brewinandchewin:custom/base_eating_1",
+	  "textures": {
+		"0": "brewinandchewin:block/beer",
+		"particle": "brewinandchewin:block/beer"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/beer_1"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/beer_1"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/beer_1"
+		}
+	  }
+	}
+  }

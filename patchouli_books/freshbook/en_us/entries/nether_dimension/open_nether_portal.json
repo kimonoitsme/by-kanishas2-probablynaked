@@ -1,0 +1,20 @@
+{
+    "name": "§5§lОткрыть портал?",
+    "icon": "grapesadventures:portal_fluid_bottle",
+    "priority": true,
+    "category": "patchouli:nether_dimension_category",
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "§d§lНеобычная жижа",
+            "text": " §oЧтобы открыть §oпортал в Незер, §oпросто отыщи руины §oпортала. Если в §oсундуке найдёшь §oнеобычную жидкость §oв бутылочке - это §oто, §oчто ты искал.$(br)§o Дальше ты знаешь, §oчто нужно делать!",
+            "item": "grapesadventures:portal_fluid_bottle"
+        },
+        {
+            "type": "spotlight",
+            "title": "§5§lДобыча",
+            "text": " §oВозможно, когда-§oнибудь ты §oнаучишься §oсоздавать её...$(br)§o Поговаривают, что §oеё также можно §oдобыть с одного §oдревнего, §oмогущественного §oчудовища в §oзатопленном городе §oна дне океана...",
+            "item": "minecraft:crying_obsidian"
+        }
+    ]
+}

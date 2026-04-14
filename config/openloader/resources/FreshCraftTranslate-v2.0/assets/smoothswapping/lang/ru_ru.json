@@ -1,0 +1,16 @@
+{
+    "smoothswapping.config.menu": "Настройки Smooth Swapping",
+    "smoothswapping.config.toggle": "Переключить режим",
+    "smoothswapping.config.toggle.on": "Включено",
+    "smoothswapping.config.toggle.off": "Выключено",
+    "smoothswapping.config.testinventory": "Образец",
+    "smoothswapping.config.option.animationspeed.tooltip": "-Нажмите правую кнопку мыши на пустом месте, чтобы создать новую точку кривой\n-Нажмите левую кнопку мыши и перетащите точку, чтобы переместить её\n-Нажмите правую кнопку мыши на точку, чтобы удалить её",
+    "smoothswapping.config.option.animationspeed": "Скорость анимации",
+    "smoothswapping.config.option.animationspeed.speed": "Скорость",
+    "smoothswapping.config.option.animationspeed.reset": "Сброс",
+    "smoothswapping.config.save": "Готово",
+    "smoothswapping.config.exit": "Отмена",
+
+    "modmenu.summaryTranslation.smoothswapping": "Плавная анимация перемещения предметов.",
+    "modmenu.descriptionTranslation.smoothswapping": "На смену мгновенному перемещению предметов по инвентарям этот мод добавляет плавную анимацию их перелёта при удерживании Shift или использовании клавиш панели инструментов."
+}

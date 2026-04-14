@@ -1,0 +1,19 @@
+{
+    "subtitles.entity.wither.idle": "Визер рычит",
+    "subtitles.entity.wither.idle_weak": "Визер визжит",
+    "subtitles.entity.wither.hurt": "Визеру больно",
+    "subtitles.entity.wither.death": "Визер погибает",
+    "subtitles.entity.wither.spawn": "Визер высвобождён",
+    "subtitles.entity.wither.shoot": "Визер стреляет",
+    "subtitles.entity.wither.charge": "Визер готовится к атаке",
+    "subtitles.entity.wither.stun": "Визер оглушён",
+    "subtitles.entity.wither.barrage": "Визер обрушивает огонь",
+    "subtitles.entity.wither.deflect_skull": "Снаряд отражён",
+    "subtitles.entity.wither.projectile_explosion": "Отдалённый взрыв",
+    "subtitles.entity.wither.laser": "Визер заряжает душевный луч",
+    "subtitles.entity.wither.possess": "Визер вселяется в моба",
+
+    "subtitles.entity.possessed.idle": "Одержимый моб стонет",
+    "subtitles.entity.possessed.hurt": "Одержимому мобу больно",
+    "subtitles.entity.possessed.unpossess": "Одержимый моб освобождён"
+}

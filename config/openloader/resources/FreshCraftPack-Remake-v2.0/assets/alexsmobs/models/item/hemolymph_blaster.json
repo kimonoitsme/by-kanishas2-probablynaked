@@ -1,0 +1,31 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "alexsmobs:item/hemolymph_blaster_hendheld",
+	  "textures": {
+		"layer0": "alexsmobs:item/hemolymph_blaster"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "alexsmobs:item/hemolyph_blaster"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "alexsmobs:item/hemolyph_blaster"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "alexsmobs:item/hemolyph_blaster"
+		}
+	  }
+	}
+  }

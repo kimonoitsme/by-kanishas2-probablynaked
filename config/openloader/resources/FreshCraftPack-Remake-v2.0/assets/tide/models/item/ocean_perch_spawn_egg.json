@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "tide:item/spawn_egg/ocean_perch_spawn_egg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "ecologics:item/spawn_egg/penguin_spawn_egg"
+  }
+}

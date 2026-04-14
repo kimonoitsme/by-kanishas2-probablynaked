@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "cold_sweat:item/spawn_egg/chameleon_spawn_egg"
+  }
+}

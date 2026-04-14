@@ -1,0 +1,17 @@
+{
+  "states": [
+    {
+      "name": "galosphere:chandelier"
+    }
+  ],
+  "options": {
+    "preset": "custom",
+    "spark": "short_life",
+    "count": 1,
+    "chance": 0.45,
+    "colors": [
+      [1.0, 0.9, 0.7],
+      [1.0, 0.8, 0.4]
+    ]
+  }
+}

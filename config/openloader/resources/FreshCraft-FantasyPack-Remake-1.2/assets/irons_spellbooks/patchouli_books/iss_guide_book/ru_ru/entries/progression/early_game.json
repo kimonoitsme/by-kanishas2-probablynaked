@@ -1,0 +1,41 @@
+{
+  "name": "Ранняя игра",
+  "icon": "irons_spellbooks:inscription_table",
+  "category": "irons_spellbooks:root",
+  "sortnum": -3,
+  "read_by_default" : false,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Обзор",
+      "text": "В начале игры основное внимание уделяется исследованиям и грабежам. Мир полон магической добычи, особенно в новых магических сооружениях, которые можно найти по всему миру. Но будьте осторожны! Каждое магическое сооружение является домом для могущественного мага, который не будет к вам благосклонен."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:scroll",
+      "title": "Свитки",
+      "text": "Свитки станут вашим первым знакомством с магией. Хотя их можно использовать для произнесения содержащегося в них заклинания, лучше сохранить их до тех пор, пока вы не сможете записать их в книгу заклинаний, где их можно будет использовать повторно, с помощью начертательного стола >>>"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Начертательный стол",
+      "text": "Чтобы правильно использовать Книгу заклинаний, вы должны вписать в неё заклинания с помощью таблицы надписей, используя свитки. Свитки можно восстановить, если поместить их в Книгу заклинаний, но при этом заклинание не будет записано. Книги заклинаний для начинающих можно изготовить из обычных материалов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:inscription_table",
+      "recipe2": "irons_spellbooks:copper_spell_book"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:arcane_essence",
+      "title": "Основные материалы",
+      "text": "Некоторые основные материалы можно найти даже в обычных данжах.$(br2)Эссенцию волшебства можно комбинировать с кожаными доспехами для создания доспехов странствующего мага - раннего источника дополнительной максимальной маны."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Доспехи странствующего мага",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:wandering_magician_boots',Count:1b},{id:'irons_spellbooks:wandering_magician_leggings',Count:1b},{id:'irons_spellbooks:wandering_magician_chestplate',Count:1b},{id:'irons_spellbooks:wandering_magician_helmet',Count:1b}],NoBasePlate:1b}"
+    }
+  ]
+}

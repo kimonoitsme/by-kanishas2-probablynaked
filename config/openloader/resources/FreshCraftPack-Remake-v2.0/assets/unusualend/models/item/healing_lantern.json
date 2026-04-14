@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "unusualend:item/healing_lantern_hendheld",
+	  "textures": {
+		"0": "unusualend:block/healing_lantern",
+		"particle": "unusualend:block/healing_lantern"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "unusualend:item/healing_lantern"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "unusualend:item/healing_lantern"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "unusualend:item/healing_lantern"
+		}
+	  }
+	}
+  }

@@ -1,0 +1,17 @@
+filename = '[forge]aatrox_mod_1.20.1.16.jar'
+name = "GR's aatrox: epic fight & better combat"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1.16'
+
+[download]
+hash = 'e328989abbd330711b39b1a9946db2f3254e9f51399ed0603221ad83ffcc77c8cd331e7b0e0ca9483e067c72d79677149442681559b84c8f611fec0d906cc759'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BA1BBb3E/versions/EtggrSSN/%5Bforge%5Daatrox_mod_1.20.1.16.jar'
+
+[update.modrinth]
+mod-id = 'BA1BBb3E'
+version = 'EtggrSSN'

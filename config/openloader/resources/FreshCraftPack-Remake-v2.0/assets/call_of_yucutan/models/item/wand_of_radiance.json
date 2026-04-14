@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "call_of_yucutan:item/wand_of_radiance_hendheld",
+	  "textures": {
+    "0": "call_of_yucutan:block/wand",
+    "particle": "call_of_yucutan:item/wand"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "call_of_yucutan:item/wand_of_radiance"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "call_of_yucutan:item/wand_of_radiance"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "call_of_yucutan:item/wand_of_radiance"
+		}
+	  }
+	}
+  }

@@ -1,0 +1,6 @@
+{
+  "parent": "farmersdelight:item/mug",
+  "textures": {
+    "layer0": "delightful:item/ender_nectar_eating_2"
+  }
+}

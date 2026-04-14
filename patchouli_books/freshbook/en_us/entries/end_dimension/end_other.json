@@ -1,0 +1,19 @@
+{
+    "name": "§5§lТайны Энда",
+    "icon": "minecraft:end_crystal",
+    "sortnum": 3,
+    "category": "patchouli:end_dimension_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oЭнд, пожалуй, §oсамое §oтаинственное §oместо... §oЧересчур §oпустое, но, §oкак §oбудто, §oтак и §oдолжно §oбыть... $(br)$(br)§o Стоит хорошенько §oизучить и понять его!$(br)$(br)§o Будь внимателен... "
+        },
+        {
+            "type": "image",
+            "border": true,
+            "images": [
+                "patchouli:end_other.png"
+            ]
+        }
+    ]
+}

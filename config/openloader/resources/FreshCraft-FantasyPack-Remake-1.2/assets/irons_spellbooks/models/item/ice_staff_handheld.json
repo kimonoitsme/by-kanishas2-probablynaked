@@ -1,0 +1,6 @@
+{
+	"parent": "irons_spellbooks:item/staff_32",
+	"textures": {
+	  "layer0": "irons_spellbooks:item/ice_staff"
+	}
+  }

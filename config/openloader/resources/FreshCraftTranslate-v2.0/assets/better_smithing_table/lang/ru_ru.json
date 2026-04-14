@@ -1,0 +1,8 @@
+{
+  "better_smithing_table.midnightconfig.title": "Настройки BetterSmithingTable",
+  "better_smithing_table.midnightconfig.skin": "Тема интерфейса",
+  "better_smithing_table.midnightconfig.enum.Skin.DEFAULT": "По умолчанию",
+  "better_smithing_table.midnightconfig.enum.Skin.VT_DARK": "Тёмная (VanillaTweaks)",
+  "better_smithing_table.midnightconfig.enum.Skin.VT_TRANSPARENT": "Прозрачная (VanillaTweaks)",
+  "better_smithing_table.midnightconfig.rotationSpeed": "Скорость вращения"
+}

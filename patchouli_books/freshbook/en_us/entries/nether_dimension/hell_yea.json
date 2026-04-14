@@ -1,0 +1,20 @@
+{
+    "name": "§6§lАдское пекло",
+    "icon": "minecraft:blaze_powder",
+    "category": "patchouli:nether_dimension_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oЧто, сгораешь в §oнезере?$(br)§o Оно и не §oудивительно, §oучитывая, сколько §oтут §oраскалённой §oлавы...$(br)$(br)§o На твоём месте, я §oбы §oпозаботился о §oдобыче сердца моря, §oдля создания §oнужного инструмента!"
+        },
+        {
+            "type": "image",
+            "border": true,
+            "title": "§3§lДолины песка душ",
+            "text": "§oЕдинственное место §oс почти пригодной §oтемпературой",
+            "images": [
+                "patchouli:nether_temperature.png"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "call_of_yucutan:custom/hematite_shield_blocking",
+  "textures": {
+    "2": "call_of_yucutan:block/hematite_shield",
+    "particle": "call_of_yucutan:item/hematite"
+	}
+},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "call_of_yucutan:item/hematite_shield_item"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "call_of_yucutan:item/hematite_shield_item"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "call_of_yucutan:item/hematite_shield_item"
+		}
+	  }
+	}
+}

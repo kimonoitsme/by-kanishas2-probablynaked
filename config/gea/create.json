@@ -1,0 +1,37 @@
+{
+  "create:bar_of_chocolate": [
+    "create:bar_of_chocolate",
+    "create:bar_of_chocolate",
+    "create:bar_of_chocolate_eating_0",
+    "create:bar_of_chocolate_eating_1",
+    "create:bar_of_chocolate_eating_2"
+  ],
+  "create:chocolate_glazed_berries": [
+    "create:chocolate_glazed_berries",
+    "create:chocolate_glazed_berries",
+    "create:chocolate_glazed_berries_eating_0",
+    "create:chocolate_glazed_berries_eating_1",
+    "create:chocolate_glazed_berries_eating_2"
+  ],
+  "create:honeyed_apple": [
+    "create:honeyed_apple",
+    "create:honeyed_apple",
+    "create:honeyed_apple_eating_0",
+    "create:honeyed_apple_eating_1",
+    "create:honeyed_apple_eating_2"
+  ],
+  "create:sweet_roll": [
+    "create:sweet_roll",
+    "create:sweet_roll",
+    "create:sweet_roll_eating_0",
+    "create:sweet_roll_eating_1",
+    "create:sweet_roll_eating_2"
+  ],
+  "create:builders_tea": [
+    "create:builders_tea",
+    "create:builders_tea",
+    "create:builders_tea_eating_0",
+    "create:builders_tea_eating_1",
+    "create:builders_tea_eating_2"
+  ]
+}

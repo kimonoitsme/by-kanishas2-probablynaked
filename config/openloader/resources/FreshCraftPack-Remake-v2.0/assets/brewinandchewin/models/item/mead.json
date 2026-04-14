@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "brewinandchewin:custom/base_eating",
+	  "textures": {
+		"0": "brewinandchewin:block/mead",
+		"particle": "brewinandchewin:block/mead"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/mead"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/mead"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/mead"
+		}
+	  }
+	}
+  }

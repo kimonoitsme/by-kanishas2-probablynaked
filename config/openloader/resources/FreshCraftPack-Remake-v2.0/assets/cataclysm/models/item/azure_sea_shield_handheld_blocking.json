@@ -1,0 +1,49 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "builtin/entity",
+	"textures": {
+		"particle": "cataclysm:block/azure_seastone"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [4, 4, 4],
+			"color": 1,
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#missing"},
+				"east": {"uv": [0, 0, 4, 4], "texture": "#missing"},
+				"south": {"uv": [0, 0, 4, 4], "texture": "#missing"},
+				"west": {"uv": [0, 0, 4, 4], "texture": "#missing"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#missing"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-139.76, 46.08, -175.97],
+			"translation": [6.01, 11.5, -3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-139.26, 45.19, -176.61],
+			"translation": [17.01, 3.5, 4.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-15, 3, -12],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [5, 3, -9],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"gui": {
+			"rotation": [24, -45, -5],
+			"translation": [-0.5, 0.75, 0],
+			"scale": [0.65, 0.6, 0.9]
+		}
+	}
+}

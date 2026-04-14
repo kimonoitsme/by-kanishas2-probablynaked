@@ -1,0 +1,9 @@
+{
+  "attribute.name.ranged_weapon.damage": "Урон на расстоянии",
+  "attribute.name.ranged_weapon.haste": "Скорость натяжения",
+  "attribute.name.ranged_weapon.pull_time": "сек время натяжения",
+  "item.modifiers.both_hands": "Когда в руках:",
+  "effect.ranged_weapon.damage": "Удар",
+  "effect.ranged_weapon.haste": "Быстрая стрельба",
+  "item.ranged_weapon.pull_time": "%1$s секунд(ы) время натяжения"
+}

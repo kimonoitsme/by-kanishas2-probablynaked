@@ -1,0 +1,18 @@
+{
+    "name": "§5§lДраконы и мифол.",
+    "icon": "iceandfire:dragon_skull_ice",
+    "category": "patchouli:fantasy_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "text",
+            "text": "§oДраконы разных §oвидов, стихий, §oразмера и силы, а §oпомимо них вас ждут §oи другие мифические §oсущества, о которых §oходят легенды. О §oних §oвам поведает §oБестиарий."
+        },
+        {
+            "type": "crafting",
+            "text": "§oУдачи в приручении §oдракона, будь §oосторожен!",
+            "title": "§5§lБестиарий",
+            "recipe": "iceandfire:bestiary"
+        }
+    ]
+}

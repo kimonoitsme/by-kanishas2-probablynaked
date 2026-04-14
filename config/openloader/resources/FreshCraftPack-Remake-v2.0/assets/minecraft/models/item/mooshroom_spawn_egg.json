@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "minecraft:item/spawn_egg/mooshroom_spawn_egg"
+  }
+}

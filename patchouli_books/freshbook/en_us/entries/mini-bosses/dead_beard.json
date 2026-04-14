@@ -1,0 +1,21 @@
+{
+    "name": "§7§lМёртвая борода",
+    "icon": "rottencreatures:dead_beard_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oЙо-хо-хо и бутылка §oрома! $(br)$(br)§o Старые капитаны §oпиратских кораблей, §oили то, что осталось §oот тех времён...$(br)$(br)§o Способен §oпризывать §oпиратов §oприслужников, §oохраняя свои §oсокровища."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:dead_beard.png"
+            ]
+        }
+    ]
+}

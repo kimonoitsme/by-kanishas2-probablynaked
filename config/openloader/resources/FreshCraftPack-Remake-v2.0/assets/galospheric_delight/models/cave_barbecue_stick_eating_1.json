@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "galospheric_delight:item/cave_barbecue_stick_eating_1"
+  }
+}

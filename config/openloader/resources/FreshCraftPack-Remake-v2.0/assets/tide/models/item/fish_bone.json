@@ -1,0 +1,17 @@
+{
+	"parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tide:item/fish_bone"
+  },
+
+  "overrides": [
+
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.35
+      },
+      "model": "tide:item/fish_bone_eating_1"
+    }
+  ]
+}

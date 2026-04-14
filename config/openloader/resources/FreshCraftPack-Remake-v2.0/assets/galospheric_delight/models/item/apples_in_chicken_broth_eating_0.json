@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "galospheric_delight:item/apples_in_chicken_broth_eating_0"
+  }
+}

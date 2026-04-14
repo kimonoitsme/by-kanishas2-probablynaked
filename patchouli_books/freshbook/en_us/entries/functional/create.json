@@ -1,0 +1,47 @@
+{
+    "name": "§6§lИнженерия",
+    "icon": "create:brass_hand",
+    "category": "patchouli:functional_category",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oНачнём пожалуй с §oмеханизмов! §oНаверняка ты уже §oзнаком с красной §oпылью и энергией, §oкоторую она §oвырабатывает.$(br)§o Однако есть §oтехнологии ещё §oболее §oувлекательные, §oрасширяющие §oвозможности для §oсоздания §oчего-то$(br)  §o большего!"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lИнструменты",
+            "text": " §oСейчас я, конечно §oже, §oговорю про §oмеханимзы, §oработающие на §oпаровой и §oкинетической §oэнергии.$(br)§o Колёса, шестерни, §oконтейнеры и прочие §oтехнологические §oпрелести!",
+            "item": "create:cogwheel,create:water_wheel,create:crushing_wheel"
+        },
+        {
+            "type": "spotlight",
+            "text": " §oЧестно признаться, §oя §oне инженер, §oоднако §oя §oсомневаюсь, что ты §oнастолько глуп и не §oсможешь §oразобраться §oв этих §oмеханизмах.$(br)§o Самое главное в §oэтом деле это - §oРАЗМЫШЛЯТЬ и §oДОСТИГАТЬ, §oудачи §oтебе, молодой$(br) §o инженер!",
+            "title": "§6§lОбучение",
+            "item": "create:clipboard"  
+        },
+        {
+            "type": "image",
+            "border": true,
+            "title": "§6§lМысли, достигай!",
+            "text": " §oТеперь стало §oпонятнее?..",
+            "images": [
+                "patchouli:create.png",
+                "patchouli:create2.png",
+                "patchouli:create3.png"
+            ]
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lВозможности",
+            "item": "create:andesite_alloy,create:zinc_ingot,create:brass_ingot",
+            "text": " §oОсновными §oматериалами §oявляются медь, §oандезит, цинк и, §oконечно же, латунь. §oС §oих помощью ты §oсможешь создавать §oинструменты, §oкоторые §oпозволят §oтебе §oпостроить §oневероятные §oмеханизмы и заводы!"
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lРедкие находки",
+            "item": "create:mechanical_drill,create:mechanical_saw,create:mechanical_harvester,create:mechanical_plough,create:mechanical_roller",
+            "text": " §oО, ну и конечно же, §oесть и забытые §oтехнологии...$(br)§o Мехнизмы, которые §oпросто так получить §oне получится.. Но §oможно отыскать, §oесли §oсильно §oповезёт, §oпутешествуя и §oисследуя этот §oдивный мир.."
+        }
+    ]
+}

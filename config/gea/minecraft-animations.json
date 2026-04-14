@@ -1,0 +1,289 @@
+{
+  "minecraft:apple": [
+    "minecraft:apple",
+    "minecraft:apple",
+    "eatinganimation:apple_eating_0",
+    "eatinganimation:apple_eating_1",
+    "eatinganimation:apple_eating_2"
+  ],
+  "minecraft:baked_potato": [
+    "minecraft:baked_potato",
+    "minecraft:baked_potato",
+    "eatinganimation:baked_potato_eating_0",
+    "eatinganimation:baked_potato_eating_1",
+    "eatinganimation:baked_potato_eating_2"
+  ],
+  "minecraft:beef": [
+    "minecraft:beef",
+    "minecraft:beef",
+    "eatinganimation:beef_eating_0",
+    "eatinganimation:beef_eating_1",
+    "eatinganimation:beef_eating_2"
+  ],
+  "minecraft:beetroot": [
+    "minecraft:beetroot",
+    "minecraft:beetroot",
+    "eatinganimation:beetroot_eating_0",
+    "eatinganimation:beetroot_eating_1",
+    "eatinganimation:beetroot_eating_2"
+  ],
+  "minecraft:beetroot_soup": [
+    "minecraft:beetroot_soup",
+    "minecraft:beetroot_soup",
+    "eatinganimation:beetroot_soup_eating_0",
+    "eatinganimation:beetroot_soup_eating_1",
+    "eatinganimation:beetroot_soup_eating_2"
+  ],
+  "minecraft:bread": [
+    "minecraft:bread",
+    "minecraft:bread",
+    "eatinganimation:bread_eating_0",
+    "eatinganimation:bread_eating_1",
+    "eatinganimation:bread_eating_2"
+  ],
+  "minecraft:carrot": [
+    "minecraft:carrot",
+    "minecraft:carrot",
+    "eatinganimation:carrot_eating_0",
+    "eatinganimation:carrot_eating_1",
+    "eatinganimation:carrot_eating_2"
+  ],
+  "minecraft:chicken": [
+    "minecraft:chicken",
+    "minecraft:chicken",
+    "eatinganimation:chicken_eating_0",
+    "eatinganimation:chicken_eating_1",
+    "eatinganimation:chicken_eating_2"
+  ],
+  "minecraft:chorus_fruit": [
+    "minecraft:chorus_fruit",
+    "minecraft:chorus_fruit",
+    "eatinganimation:chorus_fruit_eating_0",
+    "eatinganimation:chorus_fruit_eating_1",
+    "eatinganimation:chorus_fruit_eating_2"
+  ],
+  "minecraft:cod": [
+    "minecraft:cod",
+    "minecraft:cod",
+    "eatinganimation:cod_eating_0",
+    "eatinganimation:cod_eating_1",
+    "eatinganimation:cod_eating_2"
+  ],
+  "minecraft:cooked_beef": [
+    "minecraft:cooked_beef",
+    "minecraft:cooked_beef",
+    "eatinganimation:cooked_beef_eating_0",
+    "eatinganimation:cooked_beef_eating_1",
+    "eatinganimation:cooked_beef_eating_2"
+  ],
+  "minecraft:cooked_chicken": [
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_chicken",
+    "eatinganimation:cooked_chicken_eating_0",
+    "eatinganimation:cooked_chicken_eating_1",
+    "eatinganimation:cooked_chicken_eating_2"
+  ],
+  "minecraft:cooked_cod": [
+    "minecraft:cooked_cod",
+    "minecraft:cooked_cod",
+    "eatinganimation:cooked_cod_eating_0",
+    "eatinganimation:cooked_cod_eating_1",
+    "eatinganimation:cooked_cod_eating_2"
+  ],
+  "minecraft:cooked_mutton": [
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_mutton",
+    "eatinganimation:cooked_mutton_eating_0",
+    "eatinganimation:cooked_mutton_eating_1",
+    "eatinganimation:cooked_mutton_eating_2"
+  ],
+  "minecraft:cooked_porkchop": [
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_porkchop",
+    "eatinganimation:cooked_porkchop_eating_0",
+    "eatinganimation:cooked_porkchop_eating_1",
+    "eatinganimation:cooked_porkchop_eating_2"
+  ],
+  "minecraft:cooked_rabbit": [
+    "minecraft:cooked_rabbit",
+    "minecraft:cooked_rabbit",
+    "eatinganimation:cooked_rabbit_eating_0",
+    "eatinganimation:cooked_rabbit_eating_1",
+    "eatinganimation:cooked_rabbit_eating_2"
+  ],
+  "minecraft:cookie": [
+    "minecraft:cookie",
+    "minecraft:cookie",
+    "eatinganimation:cookie_eating_0",
+    "eatinganimation:cookie_eating_1",
+    "eatinganimation:cookie_eating_2"
+  ],
+  "minecraft:dried_kelp": [
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "eatinganimation:dried_kelp_eating_0",
+    "eatinganimation:dried_kelp_eating_1",
+    "eatinganimation:dried_kelp_eating_2"
+  ],
+  "minecraft:glow_berries": [
+    "minecraft:glow_berries",
+    "minecraft:glow_berries",
+    "eatinganimation:glow_berries_eating_0",
+    "eatinganimation:glow_berries_eating_1",
+    "eatinganimation:glow_berries_eating_2"
+  ],
+  "minecraft:golden_apple": [
+    "minecraft:golden_apple",
+    "minecraft:golden_apple",
+    "eatinganimation:golden_apple_eating_0",
+    "eatinganimation:golden_apple_eating_1",
+    "eatinganimation:golden_apple_eating_2"
+  ],
+  "minecraft:enchanted_golden_apple": [
+    "minecraft:enchanted_golden_apple",
+    "minecraft:enchanted_golden_apple",
+    "eatinganimation:golden_apple_eating_0",
+    "eatinganimation:golden_apple_eating_1",
+    "eatinganimation:golden_apple_eating_2"
+  ],
+  "minecraft:golden_carrot": [
+    "minecraft:golden_carrot",
+    "minecraft:golden_carrot",
+    "eatinganimation:golden_carrot_eating_0",
+    "eatinganimation:golden_carrot_eating_1",
+    "eatinganimation:golden_carrot_eating_2"
+  ],
+  "minecraft:honey_bottle": [
+    "minecraft:honey_bottle",
+    "minecraft:honey_bottle",
+    "eatinganimation:honey_bottle_drinking_0",
+    "eatinganimation:honey_bottle_drinking_1",
+    "eatinganimation:honey_bottle_drinking_2"
+  ],
+  "minecraft:melon_slice": [
+    "minecraft:melon_slice",
+    "minecraft:melon_slice",
+    "eatinganimation:melon_slice_eating_0",
+    "eatinganimation:melon_slice_eating_1",
+    "eatinganimation:melon_slice_eating_2"
+  ],
+  "minecraft:milk_bucket": [
+    "minecraft:milk_bucket",
+    "minecraft:milk_bucket",
+    "eatinganimation:milk_bucket_drinking_0",
+    "eatinganimation:milk_bucket_drinking_1",
+    "eatinganimation:milk_bucket_drinking_2"
+  ],
+  "minecraft:mushroom_stew": [
+    "minecraft:mushroom_stew",
+    "minecraft:mushroom_stew",
+    "eatinganimation:mushroom_stew_eating_0",
+    "eatinganimation:mushroom_stew_eating_1",
+    "eatinganimation:mushroom_stew_eating_2"
+  ],
+  "minecraft:mutton": [
+    "minecraft:mutton",
+    "minecraft:mutton",
+    "eatinganimation:mutton_eating_0",
+    "eatinganimation:mutton_eating_1",
+    "eatinganimation:mutton_eating_2"
+  ],
+  "minecraft:poisonous_potato": [
+    "minecraft:poisonous_potato",
+    "minecraft:poisonous_potato",
+    "eatinganimation:poisonous_potato_eating_0",
+    "eatinganimation:poisonous_potato_eating_1",
+    "eatinganimation:poisonous_potato_eating_2"
+  ],
+  "minecraft:porkchop": [
+    "minecraft:porkchop",
+    "minecraft:porkchop",
+    "eatinganimation:porkchop_eating_0",
+    "eatinganimation:porkchop_eating_1",
+    "eatinganimation:porkchop_eating_2"
+  ],
+  "minecraft:potato": [
+    "minecraft:potato",
+    "minecraft:potato",
+    "eatinganimation:potato_eating_0",
+    "eatinganimation:potato_eating_1",
+    "eatinganimation:potato_eating_2"
+  ],
+  "minecraft:pufferfish": [
+    "minecraft:pufferfish",
+    "minecraft:pufferfish",
+    "eatinganimation:pufferfish_eating_0",
+    "eatinganimation:pufferfish_eating_1",
+    "eatinganimation:pufferfish_eating_2"
+  ],
+  "minecraft:pumpkin_pie": [
+    "minecraft:pumpkin_pie",
+    "minecraft:pumpkin_pie",
+    "eatinganimation:pumpkin_pie_eating_0",
+    "eatinganimation:pumpkin_pie_eating_1",
+    "eatinganimation:pumpkin_pie_eating_2"
+  ],
+  "minecraft:rabbit": [
+    "minecraft:rabbit",
+    "minecraft:rabbit",
+    "eatinganimation:rabbit_eating_0",
+    "eatinganimation:rabbit_eating_1",
+    "eatinganimation:rabbit_eating_2"
+  ],
+  "minecraft:rabbit_stew": [
+    "minecraft:rabbit_stew",
+    "minecraft:rabbit_stew",
+    "eatinganimation:rabbit_stew_eating_0",
+    "eatinganimation:rabbit_stew_eating_1",
+    "eatinganimation:rabbit_stew_eating_2"
+  ],
+  "minecraft:rotten_flesh": [
+    "minecraft:rotten_flesh",
+    "minecraft:rotten_flesh",
+    "eatinganimation:rotten_flesh_eating_0",
+    "eatinganimation:rotten_flesh_eating_1",
+    "eatinganimation:rotten_flesh_eating_2"
+  ],
+  "minecraft:salmon": [
+    "minecraft:salmon",
+    "minecraft:salmon",
+    "eatinganimation:salmon_eating_0",
+    "eatinganimation:salmon_eating_1",
+    "eatinganimation:salmon_eating_2"
+  ],
+  "minecraft:spider_eye": [
+    "minecraft:spider_eye",
+    "minecraft:spider_eye",
+    "eatinganimation:spider_eye_eating_0",
+    "eatinganimation:spider_eye_eating_1",
+    "eatinganimation:spider_eye_eating_2"
+  ],
+  "minecraft:suspicious_stew": [
+    "minecraft:suspicious_stew",
+    "minecraft:suspicious_stew",
+    "eatinganimation:suspicious_stew_eating_0",
+    "eatinganimation:suspicious_stew_eating_1",
+    "eatinganimation:suspicious_stew_eating_2"
+  ],
+  "minecraft:sweet_berries": [
+    "minecraft:sweet_berries",
+    "minecraft:sweet_berries",
+    "eatinganimation:sweet_berries_eating_0",
+    "eatinganimation:sweet_berries_eating_1",
+    "eatinganimation:sweet_berries_eating_2"
+  ],
+  "minecraft:tropical_fish": [
+    "minecraft:tropical_fish",
+    "minecraft:tropical_fish",
+    "eatinganimation:tropical_fish_eating_0",
+    "eatinganimation:tropical_fish_eating_1",
+    "eatinganimation:tropical_fish_eating_2"
+  ],
+  "minecraft:cooked_salmon": [
+    "minecraft:cooked_salmon",
+    "minecraft:cooked_salmon",
+    "minecraft:cooked_salmon_eating_0",
+    "minecraft:cooked_salmon_eating_1",
+    "minecraft:cooked_salmon_eating_2"
+  ]
+}

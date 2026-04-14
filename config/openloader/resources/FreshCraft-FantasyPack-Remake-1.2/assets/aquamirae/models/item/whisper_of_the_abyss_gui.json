@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+	  "layer0" : "aquamirae:item/whisper_of_the_abyss_item"
+	}
+  }

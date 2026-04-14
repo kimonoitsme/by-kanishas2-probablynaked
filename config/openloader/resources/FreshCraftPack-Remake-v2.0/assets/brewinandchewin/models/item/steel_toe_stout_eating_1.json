@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "brewinandchewin:custom/base_eating_1",
+	  "textures": {
+		"0": "brewinandchewin:block/steel_toe_stout",
+		"particle": "brewinandchewin:block/steel_toe_stout"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/steel_toe_stout_1"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/steel_toe_stout_1"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/steel_toe_stout_1"
+		}
+	  }
+	}
+  }

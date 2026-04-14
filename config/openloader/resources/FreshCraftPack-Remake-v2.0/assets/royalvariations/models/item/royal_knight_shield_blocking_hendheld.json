@@ -1,0 +1,57 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "royalvariations:item/royal_knight_shield",
+		"particle": "royalvariations:item/royal_knight_shield"
+	},
+	"elements": [
+		{
+			"from": [-8.55, -9.5, 1],
+			"to": [8.45, 9.5, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.05, 0, 0.25]},
+			"faces": {
+				"north": {"uv": [5.25, 0.5, 9.5, 5.25], "texture": "#0"},
+				"east": {"uv": [4.75, 0.5, 5.25, 5.25], "texture": "#0"},
+				"south": {"uv": [0.5, 0.5, 4.75, 5.25], "texture": "#0"},
+				"west": {"uv": [0, 0.5, 0.5, 5.25], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 4.75, 0], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4.75, 0, 9, 0.5], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [-1.55, -3.5, -5.5],
+			"to": [1.45, 3.5, 1.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.05, 0, -2]},
+			"faces": {
+				"north": {"uv": [3.25, 6.75, 4, 8.5], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [3.5, 6.75, 1.75, 8.5], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [3.25, 6.75, 4, 8.5], "texture": "#0"},
+				"west": {"uv": [0, 6.75, 1.75, 8.5], "texture": "#0"},
+				"up": {"uv": [3.25, 6.75, 4, 8.5], "texture": "#0"},
+				"down": {"uv": [3.25, 6.75, 4, 8.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, 135, 0],
+			"translation": [3, 14, -3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, 135, 0],
+			"translation": [14, 6, 5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, -5],
+			"translation": [-12, 1.5, -11],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, -5],
+			"translation": [7.25, 3.75, -11],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+    "name": "§8§lАметистовый краб",
+    "icon": "cataclysm:amethyst_crab_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 11,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oЭти огромные крабы §oобитают где-то в §oпышных пещерах. $(br)$(br)§o Их панцирь тяжело §oпробить. §oВыпущенные §oкристалы аметиста, §oспособны нанести §oурон. Их мясо можно §oблагословить на §oалтаре, что §oнаходиться в §oзатопленном городе..."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:amethyst_crab.png"
+            ]
+        }
+    ]
+}

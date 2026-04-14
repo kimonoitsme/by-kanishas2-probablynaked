@@ -1,0 +1,21 @@
+{
+    "name": "§7§lЗабытый",
+    "icon": "quark:forgotten_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "§oДавно потерянный §oгерой, считался §oубитым на поле боя §oв §oдалёкой войне...$(br)$(br)§o Встретить его §oможно §oв крепости с §oпорталом и под §oземлёй..$(br)§o Универсальный §oбоец, §oмастер лука и §oмеча."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:forgotten.png"
+            ]
+        }
+    ]
+}

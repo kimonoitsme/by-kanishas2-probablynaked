@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "brewinandchewin:custom/base_eating_0",
+	  "textures": {
+		"0": "brewinandchewin:block/salty_folly",
+		"particle": "brewinandchewin:block/salty_folly"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/salty_folly_0"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/salty_folly_0"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "brewinandchewin:item/salty_folly_0"
+		}
+	  }
+	}
+  }

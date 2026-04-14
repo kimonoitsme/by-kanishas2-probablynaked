@@ -1,0 +1,17 @@
+filename = 'fantasy_armor-forge-1.2.4-1.20.1.jar'
+name = 'Fantasy Armor (Medieval Series)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1', '1.20.2', '1.20.2', '1.20.3', '1.20.3', '1.20.4', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.4-1.20.1'
+
+[download]
+hash = '8337b0d3a1bd7296f716d8652e66aaf48a87a6011e7d497c7616c1cc85f4e263f1243bcef03c6453c7e4e253ec30f816a8a87980835d4eaf18c0c6a137ea87d9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oVmpjYQ5/versions/U65HntTA/fantasy_armor-forge-1.2.4-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'oVmpjYQ5'
+version = 'U65HntTA'

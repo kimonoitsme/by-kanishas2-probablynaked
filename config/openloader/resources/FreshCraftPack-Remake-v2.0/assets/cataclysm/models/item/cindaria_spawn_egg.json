@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cataclysm:item/spawn_egg/cindaria_spawn_egg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "call_of_yucutan:custom/fist_of_doom",
+  "textures": {
+    "2": "call_of_yucutan:block/fist_of_doom",
+    "particle": "call_of_yucutan:item/fist_of_doom"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "call_of_yucutan:fist_of_doom_in_charge": 1
+      },
+      "model": "call_of_yucutan:item/fist_of_doom_0"
+    }
+  ]
+}

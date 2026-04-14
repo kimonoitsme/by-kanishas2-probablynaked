@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "rottencreatures:item/spawn_egg/glacial_hunter_spawn_egg"
+  }
+}

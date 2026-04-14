@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "sn0wfrogs_capybaras:item/spawn_egg/capybara_spawn_egg"
+  }
+}

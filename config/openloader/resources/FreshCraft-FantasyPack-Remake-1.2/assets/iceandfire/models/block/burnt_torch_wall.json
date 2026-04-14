@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/wall_torch",
+	"textures": {
+		"torch": "iceandfire:block/burnt_torch"
+	},
+	"elements": [
+		{
+			"from": [1, 3, 7],
+			"to": [3, 13, 9],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [2, 8, 8]},
+			"faces": {
+				"north": {"uv": [9, 6, 7, 16], "texture": "#torch"},
+				"east": {"uv": [7, 6, 9, 16], "texture": "#torch"},
+				"south": {"uv": [9, 6, 7, 16], "texture": "#torch"},
+				"west": {"uv": [7, 6, 9, 16], "texture": "#torch"},
+				"up": {"uv": [9, 6, 7, 8], "texture": "#torch"},
+				"down": {"uv": [9, 14, 7, 16], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [0.75, 10, 6.75],
+			"to": [3.25, 11, 9.25],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [2, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 15, 0, 16], "texture": "#torch"},
+				"east": {"uv": [3, 13, 0, 14], "texture": "#torch"},
+				"south": {"uv": [3, 15, 0, 16], "texture": "#torch"},
+				"west": {"uv": [3, 14, 0, 15], "texture": "#torch"},
+				"up": {"uv": [3, 13, 0, 16], "texture": "#torch"},
+				"down": {"uv": [3, 13, 0, 16], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [0, 6, 6.375],
+			"to": [3.25, 7, 9.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.625, 6.5, 8]},
+			"faces": {
+				"north": {"uv": [9, 14, 13, 15], "texture": "#torch"},
+				"east": {"uv": [9, 13, 13, 14], "texture": "#torch"},
+				"south": {"uv": [9, 13, 13, 14], "texture": "#torch"},
+				"west": {"uv": [9, 14, 13, 15], "texture": "#torch", "cullface": "west"},
+				"up": {"uv": [9, 13, 12, 16], "texture": "#torch"},
+				"down": {"uv": [9, 13, 12, 16], "texture": "#torch"}
+			}
+		}
+	]
+}

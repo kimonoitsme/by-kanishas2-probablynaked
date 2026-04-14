@@ -1,0 +1,35 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "cold_sweat:item/soulspring_lamp_hendheld",
+	  "textures": {
+		"body": "cold_sweat:item/soulspring_lamp/soulspring_lamp_body_3",
+		"ornaments": "cold_sweat:item/soulspring_lamp/soulspring_lamp_ornaments",
+		"top": "cold_sweat:item/soulspring_lamp/soulspring_lamp_top",
+		"bottom_0": "cold_sweat:item/soulspring_lamp/soulspring_lamp_bottom_0",
+		"bottom_1": "cold_sweat:item/soulspring_lamp/soulspring_lamp_bottom_1"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "cold_sweat:item/soulspring_lamp"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "cold_sweat:item/soulspring_lamp"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "cold_sweat:item/soulspring_lamp"
+		}
+	  }
+	}
+  }

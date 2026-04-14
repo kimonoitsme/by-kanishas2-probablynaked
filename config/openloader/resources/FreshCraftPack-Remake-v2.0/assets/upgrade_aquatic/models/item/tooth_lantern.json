@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "upgrade_aquatic:item/tooth_lantern_hendheld",
+	  "textures": {
+		"0": "upgrade_aquatic:block/tooth_lantern",
+		"particle": "upgrade_aquatic:block/tooth_lantern"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "upgrade_aquatic:item/tooth_latern"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "upgrade_aquatic:item/tooth_latern"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "upgrade_aquatic:item/tooth_latern"
+		}
+	  }
+	}
+  }

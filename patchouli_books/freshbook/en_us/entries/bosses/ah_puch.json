@@ -1,0 +1,21 @@
+{
+    "name": "§2§lАх Пуч",
+    "icon": "call_of_yucutan:ah_puch_spawn_egg",
+    "category": "patchouli:bosses_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oБожество, которое §oты §oсможешь §oпризвать, §oсломав §oего идол в §oсклепе §oдревних §oацтеков, §oглубоко в §oджунглях!$(br)$(br) §oУ него §oмного имён §oи много §oнеожиданностей... §oБерегись §oсмертельной атаки!"
+        },
+        {
+            "type": "image",
+            "border": true,
+            "title": "§6§lСклеп ацтеков",
+            "text": " §oИдол Ах Пуча в §oсклепе...",
+            "images": [
+                "patchouli:ah_puch.png"
+            ]
+        }
+    ]
+}

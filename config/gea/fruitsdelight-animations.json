@@ -1,0 +1,751 @@
+{
+  "fruitsdelight:apple_jello": [
+    "fruitsdelight:apple_jello",
+    "fruitsdelight:apple_jello",
+    "fruitsdelight:apple_jello_eating_0",
+    "fruitsdelight:apple_jello_eating_1",
+    "fruitsdelight:apple_jello_eating_2"
+  ],
+  "fruitsdelight:baked_durian": [
+    "fruitsdelight:baked_durian",
+    "fruitsdelight:baked_durian",
+    "fruitsdelight:baked_durian_eating_0",
+    "fruitsdelight:baked_durian_eating_1",
+    "fruitsdelight:baked_durian_eating_2"
+  ],
+  "fruitsdelight:baked_pear": [
+    "fruitsdelight:baked_pear",
+    "fruitsdelight:baked_pear",
+    "fruitsdelight:baked_pear_eating_0",
+    "fruitsdelight:baked_pear_eating_1",
+    "fruitsdelight:baked_pear_eating_2"
+  ],
+  "fruitsdelight:bayberry": [
+    "fruitsdelight:bayberry",
+    "fruitsdelight:bayberry",
+    "fruitsdelight:bayberry_eating_0",
+    "fruitsdelight:bayberry_eating_1",
+    "fruitsdelight:bayberry_eating_2"
+  ],
+  "fruitsdelight:bayberry_cookie": [
+    "fruitsdelight:bayberry_cookie",
+    "fruitsdelight:bayberry_cookie",
+    "fruitsdelight:bayberry_cookie_eating_0",
+    "fruitsdelight:bayberry_cookie_eating_1",
+    "fruitsdelight:bayberry_cookie_eating_2"
+  ],
+  "fruitsdelight:bayberry_jello": [
+    "fruitsdelight:bayberry_jello",
+    "fruitsdelight:bayberry_jello",
+    "fruitsdelight:bayberry_jello_eating_0",
+    "fruitsdelight:bayberry_jello_eating_1",
+    "fruitsdelight:bayberry_jello_eating_2"
+  ],
+  "fruitsdelight:bayberry_soup": [
+    "fruitsdelight:bayberry_soup",
+    "fruitsdelight:bayberry_soup",
+    "fruitsdelight:bayberry_soup_eating_0",
+    "fruitsdelight:bayberry_soup_eating_1",
+    "fruitsdelight:bayberry_soup_eating_2"
+  ],
+  "fruitsdelight:bellini_cocktail": [
+    "fruitsdelight:bellini_cocktail",
+    "fruitsdelight:bellini_cocktail",
+    "fruitsdelight:bellini_cocktail_eating_0",
+    "fruitsdelight:bellini_cocktail_eating_1",
+    "fruitsdelight:bellini_cocktail_eating_2"
+  ],
+  "fruitsdelight:blueberry": [
+    "fruitsdelight:blueberry",
+    "fruitsdelight:blueberry",
+    "fruitsdelight:blueberry_eating_0",
+    "fruitsdelight:blueberry_eating_1",
+    "fruitsdelight:blueberry_eating_2"
+  ],
+  "fruitsdelight:blueberry_custard": [
+    "fruitsdelight:blueberry_custard",
+    "fruitsdelight:blueberry_custard",
+    "fruitsdelight:blueberry_custard_eating_0",
+    "fruitsdelight:blueberry_custard_eating_1",
+    "fruitsdelight:blueberry_custard_eating_2"
+  ],
+  "fruitsdelight:blueberry_jello": [
+    "fruitsdelight:blueberry_jello",
+    "fruitsdelight:blueberry_jello",
+    "fruitsdelight:blueberry_jello_eating_0",
+    "fruitsdelight:blueberry_jello_eating_1",
+    "fruitsdelight:blueberry_jello_eating_2"
+  ],
+  "fruitsdelight:blueberry_muffin": [
+    "fruitsdelight:blueberry_muffin",
+    "fruitsdelight:blueberry_muffin",
+    "fruitsdelight:blueberry_muffin_eating_0",
+    "fruitsdelight:blueberry_muffin_eating_1",
+    "fruitsdelight:blueberry_muffin_eating_2"
+  ],
+  "fruitsdelight:bowl_of_pineapple_fried_rice": [
+    "fruitsdelight:bowl_of_pineapple_fried_rice",
+    "fruitsdelight:bowl_of_pineapple_fried_rice",
+    "fruitsdelight:bowl_of_pineapple_fried_rice_eating_0",
+    "fruitsdelight:bowl_of_pineapple_fried_rice_eating_1",
+    "fruitsdelight:bowl_of_pineapple_fried_rice_eating_2"
+  ],
+  "fruitsdelight:chorus_jello": [
+    "fruitsdelight:chorus_jello",
+    "fruitsdelight:chorus_jello",
+    "fruitsdelight:chorus_jello_eating_0",
+    "fruitsdelight:chorus_jello_eating_1",
+    "fruitsdelight:chorus_jello_eating_2"
+  ],
+  "fruitsdelight:cranberry": [
+    "fruitsdelight:cranberry",
+    "fruitsdelight:cranberry",
+    "fruitsdelight:cranberry_eating_0",
+    "fruitsdelight:cranberry_eating_1",
+    "fruitsdelight:cranberry_eating_2"
+  ],
+  "fruitsdelight:cranberry_cookie": [
+    "fruitsdelight:cranberry_cookie",
+    "fruitsdelight:cranberry_cookie",
+    "fruitsdelight:cranberry_cookie_eating_0",
+    "fruitsdelight:cranberry_cookie_eating_1",
+    "fruitsdelight:cranberry_cookie_eating_2"
+  ],
+  "fruitsdelight:cranberry_jello": [
+    "fruitsdelight:cranberry_jello",
+    "fruitsdelight:cranberry_jello",
+    "fruitsdelight:cranberry_jello_eating_0",
+    "fruitsdelight:cranberry_jello_eating_1",
+    "fruitsdelight:cranberry_jello_eating_2"
+  ],
+  "fruitsdelight:cranberry_muffin": [
+    "fruitsdelight:cranberry_muffin",
+    "fruitsdelight:cranberry_muffin",
+    "fruitsdelight:cranberry_muffin_eating_0",
+    "fruitsdelight:cranberry_muffin_eating_1",
+    "fruitsdelight:cranberry_muffin_eating_2"
+  ],
+  "fruitsdelight:dried_persimmon": [
+    "fruitsdelight:dried_persimmon",
+    "fruitsdelight:dried_persimmon",
+    "fruitsdelight:dried_persimmon_eating_0",
+    "fruitsdelight:dried_persimmon_eating_1",
+    "fruitsdelight:dried_persimmon_eating_2"
+  ],
+  "fruitsdelight:durian_flesh": [
+    "fruitsdelight:durian_flesh",
+    "fruitsdelight:durian_flesh",
+    "fruitsdelight:durian_flesh_eating_0",
+    "fruitsdelight:durian_flesh_eating_1",
+    "fruitsdelight:durian_flesh_eating_2"
+  ],
+  "fruitsdelight:durian_jello": [
+    "fruitsdelight:durian_jello",
+    "fruitsdelight:durian_jello",
+    "fruitsdelight:durian_jello_eating_0",
+    "fruitsdelight:durian_jello_eating_1",
+    "fruitsdelight:durian_jello_eating_2"
+  ],
+  "fruitsdelight:durian_pie": [
+    "fruitsdelight:durian_pie",
+    "fruitsdelight:durian_pie",
+    "fruitsdelight:durian_pie_eating_0",
+    "fruitsdelight:durian_pie_eating_1",
+    "fruitsdelight:durian_pie_eating_2"
+  ],
+  "fruitsdelight:fig": [
+    "fruitsdelight:fig",
+    "fruitsdelight:fig",
+    "fruitsdelight:fig_eating_0",
+    "fruitsdelight:fig_eating_1",
+    "fruitsdelight:fig_eating_2"
+  ],
+  "fruitsdelight:fig_chicken_stew": [
+    "fruitsdelight:fig_chicken_stew",
+    "fruitsdelight:fig_chicken_stew",
+    "fruitsdelight:fig_chicken_stew_eating_0",
+    "fruitsdelight:fig_chicken_stew_eating_1",
+    "fruitsdelight:fig_chicken_stew_eating_2"
+  ],
+  "fruitsdelight:fig_jello": [
+    "fruitsdelight:fig_jello",
+    "fruitsdelight:fig_jello",
+    "fruitsdelight:fig_jello_eating_0",
+    "fruitsdelight:fig_jello_eating_1",
+    "fruitsdelight:fig_jello_eating_2"
+  ],
+  "fruitsdelight:fig_pudding_slice": [
+    "fruitsdelight:fig_pudding_slice",
+    "fruitsdelight:fig_pudding_slice",
+    "fruitsdelight:fig_pudding_slice_eating_0",
+    "fruitsdelight:fig_pudding_slice_eating_1",
+    "fruitsdelight:fig_pudding_slice_eating_2"
+  ],
+  "fruitsdelight:fig_tart": [
+    "fruitsdelight:fig_tart",
+    "fruitsdelight:fig_tart",
+    "fruitsdelight:fig_tart_eating_0",
+    "fruitsdelight:fig_tart_eating_1",
+    "fruitsdelight:fig_tart_eating_2"
+  ],
+  "fruitsdelight:glowberry_jello": [
+    "fruitsdelight:glowberry_jello",
+    "fruitsdelight:glowberry_jello",
+    "fruitsdelight:glowberry_jello_eating_0",
+    "fruitsdelight:glowberry_jello_eating_1",
+    "fruitsdelight:glowberry_jello_eating_2"
+  ],
+  "fruitsdelight:hamimelon_jello": [
+    "fruitsdelight:hamimelon_jello",
+    "fruitsdelight:hamimelon_jello",
+    "fruitsdelight:hamimelon_jello_eating_0",
+    "fruitsdelight:hamimelon_jello_eating_1",
+    "fruitsdelight:hamimelon_jello_eating_2"
+  ],
+  "fruitsdelight:hamimelon_juice": [
+    "fruitsdelight:hamimelon_juice",
+    "fruitsdelight:hamimelon_juice",
+    "fruitsdelight:hamimelon_juice_eating_0",
+    "fruitsdelight:hamimelon_juice_eating_1",
+    "fruitsdelight:hamimelon_juice_eating_2"
+  ],
+  "fruitsdelight:hamimelon_popsicle": [
+    "fruitsdelight:hamimelon_popsicle",
+    "fruitsdelight:hamimelon_popsicle",
+    "fruitsdelight:hamimelon_popsicle_eating_0",
+    "fruitsdelight:hamimelon_popsicle_eating_1",
+    "fruitsdelight:hamimelon_popsicle_eating_2"
+  ],
+  "fruitsdelight:hamimelon_shaved_ice": [
+    "fruitsdelight:hamimelon_shaved_ice",
+    "fruitsdelight:hamimelon_shaved_ice",
+    "fruitsdelight:hamimelon_shaved_ice_eating_0",
+    "fruitsdelight:hamimelon_shaved_ice_eating_1",
+    "fruitsdelight:hamimelon_shaved_ice_eating_2"
+  ],
+  "fruitsdelight:hamimelon_slice": [
+    "fruitsdelight:hamimelon_slice",
+    "fruitsdelight:hamimelon_slice",
+    "fruitsdelight:hamimelon_slice_eating_0",
+    "fruitsdelight:hamimelon_slice_eating_1",
+    "fruitsdelight:hamimelon_slice_eating_2"
+  ],
+  "fruitsdelight:hawberry": [
+    "fruitsdelight:hawberry",
+    "fruitsdelight:hawberry",
+    "fruitsdelight:hawberry_eating_0",
+    "fruitsdelight:hawberry_eating_1",
+    "fruitsdelight:hawberry_eating_2"
+  ],
+  "fruitsdelight:hawberry_jello": [
+    "fruitsdelight:hawberry_jello",
+    "fruitsdelight:hawberry_jello",
+    "fruitsdelight:hawberry_jello_eating_0",
+    "fruitsdelight:hawberry_jello_eating_1",
+    "fruitsdelight:hawberry_jello_eating_2"
+  ],
+  "fruitsdelight:hawberry_roll": [
+    "fruitsdelight:hawberry_roll",
+    "fruitsdelight:hawberry_roll",
+    "fruitsdelight:hawberry_roll_eating_0",
+    "fruitsdelight:hawberry_roll_eating_1",
+    "fruitsdelight:hawberry_roll_eating_2"
+  ],
+  "fruitsdelight:hawberry_sheet": [
+    "fruitsdelight:hawberry_sheet",
+    "fruitsdelight:hawberry_sheet",
+    "fruitsdelight:hawberry_sheet_eating_0",
+    "fruitsdelight:hawberry_sheet_eating_1",
+    "fruitsdelight:hawberry_sheet_eating_2"
+  ],
+  "fruitsdelight:hawberry_stick": [
+    "fruitsdelight:hawberry_stick",
+    "fruitsdelight:hawberry_stick",
+    "fruitsdelight:hawberry_stick_eating_0",
+    "fruitsdelight:hawberry_stick_eating_1",
+    "fruitsdelight:hawberry_stick_eating_2"
+  ],
+  "fruitsdelight:hawberry_tea": [
+    "fruitsdelight:hawberry_tea",
+    "fruitsdelight:hawberry_tea",
+    "fruitsdelight:hawberry_tea_eating_0",
+    "fruitsdelight:hawberry_tea_eating_1",
+    "fruitsdelight:hawberry_tea_eating_2"
+  ],
+  "fruitsdelight:jelly_bread": [
+    "fruitsdelight:jelly_bread",
+    "fruitsdelight:jelly_bread",
+    "fruitsdelight:jelly_bread_eating_0",
+    "fruitsdelight:jelly_bread_eating_1",
+    "fruitsdelight:jelly_bread_eating_2"
+  ],
+  "fruitsdelight:kiwi": [
+    "fruitsdelight:kiwi",
+    "fruitsdelight:kiwi",
+    "fruitsdelight:kiwi_eating_0",
+    "fruitsdelight:kiwi_eating_1",
+    "fruitsdelight:kiwi_eating_2"
+  ],
+  "fruitsdelight:kiwi_jello": [
+    "fruitsdelight:kiwi_jello",
+    "fruitsdelight:kiwi_jello",
+    "fruitsdelight:kiwi_jello_eating_0",
+    "fruitsdelight:kiwi_jello_eating_1",
+    "fruitsdelight:kiwi_jello_eating_2"
+  ],
+  "fruitsdelight:kiwi_juice": [
+    "fruitsdelight:kiwi_juice",
+    "fruitsdelight:kiwi_juice",
+    "fruitsdelight:kiwi_juice_eating_0",
+    "fruitsdelight:kiwi_juice_eating_1",
+    "fruitsdelight:kiwi_juice_eating_2"
+  ],
+  "fruitsdelight:kiwi_popsicle": [
+    "fruitsdelight:kiwi_popsicle",
+    "fruitsdelight:kiwi_popsicle",
+    "fruitsdelight:kiwi_popsicle_eating_0",
+    "fruitsdelight:kiwi_popsicle_eating_1",
+    "fruitsdelight:kiwi_popsicle_eating_2"
+  ],
+  "fruitsdelight:lemon": [
+    "fruitsdelight:lemon",
+    "fruitsdelight:lemon",
+    "fruitsdelight:lemon_eating_0",
+    "fruitsdelight:lemon_eating_1",
+    "fruitsdelight:lemon_eating_2"
+  ],
+  "fruitsdelight:lemon_cookie": [
+    "fruitsdelight:lemon_cookie",
+    "fruitsdelight:lemon_cookie",
+    "fruitsdelight:lemon_cookie_eating_0",
+    "fruitsdelight:lemon_cookie_eating_1",
+    "fruitsdelight:lemon_cookie_eating_2"
+  ],
+  "fruitsdelight:lemon_jello": [
+    "fruitsdelight:lemon_jello",
+    "fruitsdelight:lemon_jello",
+    "fruitsdelight:lemon_jello_eating_0",
+    "fruitsdelight:lemon_jello_eating_1",
+    "fruitsdelight:lemon_jello_eating_2"
+  ],
+  "fruitsdelight:lemon_juice": [
+    "fruitsdelight:lemon_juice",
+    "fruitsdelight:lemon_juice",
+    "fruitsdelight:lemon_juice_eating_0",
+    "fruitsdelight:lemon_juice_eating_1",
+    "fruitsdelight:lemon_juice_eating_2"
+  ],
+  "fruitsdelight:lemon_slice": [
+    "fruitsdelight:lemon_slice",
+    "fruitsdelight:lemon_slice",
+    "fruitsdelight:lemon_slice_eating_0",
+    "fruitsdelight:lemon_slice_eating_1",
+    "fruitsdelight:lemon_slice_eating_2"
+  ],
+  "fruitsdelight:lemon_tart": [
+    "fruitsdelight:lemon_tart",
+    "fruitsdelight:lemon_tart",
+    "fruitsdelight:lemon_tart_eating_0",
+    "fruitsdelight:lemon_tart_eating_1",
+    "fruitsdelight:lemon_tart_eating_2"
+  ],
+  "fruitsdelight:lychee": [
+    "fruitsdelight:lychee",
+    "fruitsdelight:lychee",
+    "fruitsdelight:lychee_eating_0",
+    "fruitsdelight:lychee_eating_1",
+    "fruitsdelight:lychee_eating_2"
+  ],
+  "fruitsdelight:lychee_cherry_tea": [
+    "fruitsdelight:lychee_cherry_tea",
+    "fruitsdelight:lychee_cherry_tea",
+    "fruitsdelight:lychee_cherry_tea_eating_0",
+    "fruitsdelight:lychee_cherry_tea_eating_1",
+    "fruitsdelight:lychee_cherry_tea_eating_2"
+  ],
+  "fruitsdelight:lychee_chicken": [
+    "fruitsdelight:lychee_chicken",
+    "fruitsdelight:lychee_chicken",
+    "fruitsdelight:lychee_chicken_eating_0",
+    "fruitsdelight:lychee_chicken_eating_1",
+    "fruitsdelight:lychee_chicken_eating_2"
+  ],
+  "fruitsdelight:lychee_jello": [
+    "fruitsdelight:lychee_jello",
+    "fruitsdelight:lychee_jello",
+    "fruitsdelight:lychee_jello_eating_0",
+    "fruitsdelight:lychee_jello_eating_1",
+    "fruitsdelight:lychee_jello_eating_2"
+  ],
+  "fruitsdelight:mango": [
+    "fruitsdelight:mango",
+    "fruitsdelight:mango",
+    "fruitsdelight:mango_eating_0",
+    "fruitsdelight:mango_eating_1",
+    "fruitsdelight:mango_eating_2"
+  ],
+  "fruitsdelight:mango_jello": [
+    "fruitsdelight:mango_jello",
+    "fruitsdelight:mango_jello",
+    "fruitsdelight:mango_jello_eating_0",
+    "fruitsdelight:mango_jello_eating_1",
+    "fruitsdelight:mango_jello_eating_2"
+  ],
+  "fruitsdelight:mango_milkshake": [
+    "fruitsdelight:mango_milkshake",
+    "fruitsdelight:mango_milkshake",
+    "fruitsdelight:mango_milkshake_eating_0",
+    "fruitsdelight:mango_milkshake_eating_1",
+    "fruitsdelight:mango_milkshake_eating_2"
+  ],
+  "fruitsdelight:mango_salad": [
+    "fruitsdelight:mango_salad",
+    "fruitsdelight:mango_salad",
+    "fruitsdelight:mango_salad_eating_0",
+    "fruitsdelight:mango_salad_eating_1",
+    "fruitsdelight:mango_salad_eating_2"
+  ],
+  "fruitsdelight:mango_tea": [
+    "fruitsdelight:mango_tea",
+    "fruitsdelight:mango_tea",
+    "fruitsdelight:mango_tea_eating_0",
+    "fruitsdelight:mango_tea_eating_1",
+    "fruitsdelight:mango_tea_eating_2"
+  ],
+  "fruitsdelight:mangosteen": [
+    "fruitsdelight:mangosteen",
+    "fruitsdelight:mangosteen",
+    "fruitsdelight:mangosteen_eating_0",
+    "fruitsdelight:mangosteen_eating_1",
+    "fruitsdelight:mangosteen_eating_2"
+  ],
+  "fruitsdelight:mangosteen_cake": [
+    "fruitsdelight:mangosteen_cake",
+    "fruitsdelight:mangosteen_cake",
+    "fruitsdelight:mangosteen_cake_eating_0",
+    "fruitsdelight:mangosteen_cake_eating_1",
+    "fruitsdelight:mangosteen_cake_eating_2"
+  ],
+  "fruitsdelight:mangosteen_jello": [
+    "fruitsdelight:mangosteen_jello",
+    "fruitsdelight:mangosteen_jello",
+    "fruitsdelight:mangosteen_jello_eating_0",
+    "fruitsdelight:mangosteen_jello_eating_1",
+    "fruitsdelight:mangosteen_jello_eating_2"
+  ],
+  "fruitsdelight:mangosteen_tea": [
+    "fruitsdelight:mangosteen_tea",
+    "fruitsdelight:mangosteen_tea",
+    "fruitsdelight:mangosteen_tea_eating_0",
+    "fruitsdelight:mangosteen_tea_eating_1",
+    "fruitsdelight:mangosteen_tea_eating_2"
+  ],
+  "fruitsdelight:melon_jello": [
+    "fruitsdelight:melon_jello",
+    "fruitsdelight:melon_jello",
+    "fruitsdelight:melon_jello_eating_0",
+    "fruitsdelight:melon_jello_eating_1",
+    "fruitsdelight:melon_jello_eating_2"
+  ],
+  "fruitsdelight:orange": [
+    "fruitsdelight:orange",
+    "fruitsdelight:orange",
+    "fruitsdelight:orange_eating_0",
+    "fruitsdelight:orange_eating_1",
+    "fruitsdelight:orange_eating_2"
+  ],
+  "fruitsdelight:orange_chicken": [
+    "fruitsdelight:orange_chicken",
+    "fruitsdelight:orange_chicken",
+    "fruitsdelight:orange_chicken_eating_0",
+    "fruitsdelight:orange_chicken_eating_1",
+    "fruitsdelight:orange_chicken_eating_2"
+  ],
+  "fruitsdelight:orange_jello": [
+    "fruitsdelight:orange_jello",
+    "fruitsdelight:orange_jello",
+    "fruitsdelight:orange_jello_eating_0",
+    "fruitsdelight:orange_jello_eating_1",
+    "fruitsdelight:orange_jello_eating_2"
+  ],
+  "fruitsdelight:orange_juice": [
+    "fruitsdelight:orange_juice",
+    "fruitsdelight:orange_juice",
+    "fruitsdelight:orange_juice_eating_0",
+    "fruitsdelight:orange_juice_eating_1",
+    "fruitsdelight:orange_juice_eating_2"
+  ],
+  "fruitsdelight:orange_marinated_pork": [
+    "fruitsdelight:orange_marinated_pork",
+    "fruitsdelight:orange_marinated_pork",
+    "fruitsdelight:orange_marinated_pork_eating_0",
+    "fruitsdelight:orange_marinated_pork_eating_1",
+    "fruitsdelight:orange_marinated_pork_eating_2"
+  ],
+  "fruitsdelight:orange_slice": [
+    "fruitsdelight:orange_slice",
+    "fruitsdelight:orange_slice",
+    "fruitsdelight:orange_slice_eating_0",
+    "fruitsdelight:orange_slice_eating_1",
+    "fruitsdelight:orange_slice_eating_2"
+  ],
+  "fruitsdelight:peach": [
+    "fruitsdelight:peach",
+    "fruitsdelight:peach",
+    "fruitsdelight:peach_eating_0",
+    "fruitsdelight:peach_eating_1",
+    "fruitsdelight:peach_eating_2"
+  ],
+  "fruitsdelight:peach_jello": [
+    "fruitsdelight:peach_jello",
+    "fruitsdelight:peach_jello",
+    "fruitsdelight:peach_jello_eating_0",
+    "fruitsdelight:peach_jello_eating_1",
+    "fruitsdelight:peach_jello_eating_2"
+  ],
+  "fruitsdelight:peach_tea": [
+    "fruitsdelight:peach_tea",
+    "fruitsdelight:peach_tea",
+    "fruitsdelight:peach_tea_eating_0",
+    "fruitsdelight:peach_tea_eating_1",
+    "fruitsdelight:peach_tea_eating_2"
+  ],
+  "fruitsdelight:pear": [
+    "fruitsdelight:pear",
+    "fruitsdelight:pear",
+    "fruitsdelight:pear_eating_0",
+    "fruitsdelight:pear_eating_1",
+    "fruitsdelight:pear_eating_2"
+  ],
+  "fruitsdelight:pear_jello": [
+    "fruitsdelight:pear_jello",
+    "fruitsdelight:pear_jello",
+    "fruitsdelight:pear_jello_eating_0",
+    "fruitsdelight:pear_jello_eating_1",
+    "fruitsdelight:pear_jello_eating_2"
+  ],
+  "fruitsdelight:pear_juice": [
+    "fruitsdelight:pear_juice",
+    "fruitsdelight:pear_juice",
+    "fruitsdelight:pear_juice_eating_0",
+    "fruitsdelight:pear_juice_eating_1",
+    "fruitsdelight:pear_juice_eating_2"
+  ],
+  "fruitsdelight:pear_with_rock_sugar": [
+    "fruitsdelight:pear_with_rock_sugar",
+    "fruitsdelight:pear_with_rock_sugar",
+    "fruitsdelight:pear_with_rock_sugar_eating_0",
+    "fruitsdelight:pear_with_rock_sugar_eating_1",
+    "fruitsdelight:pear_with_rock_sugar_eating_2"
+  ],
+  "fruitsdelight:persimmon": [
+    "fruitsdelight:persimmon",
+    "fruitsdelight:persimmon",
+    "fruitsdelight:persimmon_eating_0",
+    "fruitsdelight:persimmon_eating_1",
+    "fruitsdelight:persimmon_eating_2"
+  ],
+  "fruitsdelight:persimmon_cookie": [
+    "fruitsdelight:persimmon_cookie",
+    "fruitsdelight:persimmon_cookie",
+    "fruitsdelight:persimmon_cookie_eating_0",
+    "fruitsdelight:persimmon_cookie_eating_1",
+    "fruitsdelight:persimmon_cookie_eating_2"
+  ],
+  "fruitsdelight:persimmon_jello": [
+    "fruitsdelight:persimmon_jello",
+    "fruitsdelight:persimmon_jello",
+    "fruitsdelight:persimmon_jello_eating_0",
+    "fruitsdelight:persimmon_jello_eating_1",
+    "fruitsdelight:persimmon_jello_eating_2"
+  ],
+  "fruitsdelight:pineapple_jello": [
+    "fruitsdelight:pineapple_jello",
+    "fruitsdelight:pineapple_jello",
+    "fruitsdelight:pineapple_jello_eating_0",
+    "fruitsdelight:pineapple_jello_eating_1",
+    "fruitsdelight:pineapple_jello_eating_2"
+  ],
+  "fruitsdelight:pineapple_marinated_pork": [
+    "fruitsdelight:pineapple_marinated_pork",
+    "fruitsdelight:pineapple_marinated_pork",
+    "fruitsdelight:pineapple_marinated_pork_eating_0",
+    "fruitsdelight:pineapple_marinated_pork_eating_1",
+    "fruitsdelight:pineapple_marinated_pork_eating_2"
+  ],
+  "fruitsdelight:pineapple_pie": [
+    "fruitsdelight:pineapple_pie",
+    "fruitsdelight:pineapple_pie",
+    "fruitsdelight:pineapple_pie_eating_0",
+    "fruitsdelight:pineapple_pie_eating_1",
+    "fruitsdelight:pineapple_pie_eating_2"
+  ],
+  "fruitsdelight:pineapple_slice": [
+    "fruitsdelight:pineapple_slice",
+    "fruitsdelight:pineapple_slice",
+    "fruitsdelight:pineapple_slice_eating_0",
+    "fruitsdelight:pineapple_slice_eating_1",
+    "fruitsdelight:pineapple_slice_eating_2"
+  ],
+  "fruitsdelight:sweetberry_jello": [
+    "fruitsdelight:sweetberry_jello",
+    "fruitsdelight:sweetberry_jello",
+    "fruitsdelight:sweetberry_jello_eating_0",
+    "fruitsdelight:sweetberry_jello_eating_1",
+    "fruitsdelight:sweetberry_jello_eating_2"
+  ],
+  "fruitsdelight:apple_jelly": [
+    "fruitsdelight:apple_jelly",
+    "fruitsdelight:apple_jelly",
+    "fruitsdelight:apple_jelly_eating_0",
+    "fruitsdelight:apple_jelly_eating_1",
+    "fruitsdelight:apple_jelly_eating_2"
+  ],
+  "fruitsdelight:bayberry_jelly": [
+    "fruitsdelight:bayberry_jelly",
+    "fruitsdelight:bayberry_jelly",
+    "fruitsdelight:bayberry_jelly_eating_0",
+    "fruitsdelight:bayberry_jelly_eating_1",
+    "fruitsdelight:bayberry_jelly_eating_2"
+  ],
+  "fruitsdelight:blueberry_jelly": [
+    "fruitsdelight:blueberry_jelly",
+    "fruitsdelight:blueberry_jelly",
+    "fruitsdelight:blueberry_jelly_eating_0",
+    "fruitsdelight:blueberry_jelly_eating_1",
+    "fruitsdelight:blueberry_jelly_eating_2"
+  ],
+  "fruitsdelight:chorus_jelly": [
+    "fruitsdelight:chorus_jelly",
+    "fruitsdelight:chorus_jelly",
+    "fruitsdelight:chorus_jelly_eating_0",
+    "fruitsdelight:chorus_jelly_eating_1",
+    "fruitsdelight:chorus_jelly_eating_2"
+  ],
+  "fruitsdelight:cranberry_jelly": [
+    "fruitsdelight:cranberry_jelly",
+    "fruitsdelight:cranberry_jelly",
+    "fruitsdelight:cranberry_jelly_eating_0",
+    "fruitsdelight:cranberry_jelly_eating_1",
+    "fruitsdelight:cranberry_jelly_eating_2"
+  ],
+  "fruitsdelight:durian_jelly": [
+    "fruitsdelight:durian_jelly",
+    "fruitsdelight:durian_jelly",
+    "fruitsdelight:durian_jelly_eating_0",
+    "fruitsdelight:durian_jelly_eating_1",
+    "fruitsdelight:durian_jelly_eating_2"
+  ],
+  "fruitsdelight:fig_jelly": [
+    "fruitsdelight:fig_jelly",
+    "fruitsdelight:fig_jelly",
+    "fruitsdelight:fig_jelly_eating_0",
+    "fruitsdelight:fig_jelly_eating_1",
+    "fruitsdelight:fig_jelly_eating_2"
+  ],
+  "fruitsdelight:glowberry_jelly": [
+    "fruitsdelight:glowberry_jelly",
+    "fruitsdelight:glowberry_jelly",
+    "fruitsdelight:glowberry_jelly_eating_0",
+    "fruitsdelight:glowberry_jelly_eating_1",
+    "fruitsdelight:glowberry_jelly_eating_2"
+  ],
+  "fruitsdelight:hawberry_jelly": [
+    "fruitsdelight:hawberry_jelly",
+    "fruitsdelight:hawberry_jelly",
+    "fruitsdelight:hawberry_jelly_eating_0",
+    "fruitsdelight:hawberry_jelly_eating_1",
+    "fruitsdelight:hawberry_jelly_eating_2"
+  ],
+  "fruitsdelight:hamimelon_jelly": [
+    "fruitsdelight:hamimelon_jelly",
+    "fruitsdelight:hamimelon_jelly",
+    "fruitsdelight:hamimelon_jelly_eating_0",
+    "fruitsdelight:hamimelon_jelly_eating_1",
+    "fruitsdelight:hamimelon_jelly_eating_2"
+  ],
+  "fruitsdelight:kiwi_jelly": [
+    "fruitsdelight:kiwi_jelly",
+    "fruitsdelight:kiwi_jelly",
+    "fruitsdelight:kiwi_jelly_eating_0",
+    "fruitsdelight:kiwi_jelly_eating_1",
+    "fruitsdelight:kiwi_jelly_eating_2"
+  ],
+  "fruitsdelight:lemon_jelly": [
+    "fruitsdelight:lemon_jelly",
+    "fruitsdelight:lemon_jelly",
+    "fruitsdelight:lemon_jelly_eating_0",
+    "fruitsdelight:lemon_jelly_eating_1",
+    "fruitsdelight:lemon_jelly_eating_2"
+  ],
+  "fruitsdelight:lychee_jelly": [
+    "fruitsdelight:lychee_jelly",
+    "fruitsdelight:lychee_jelly",
+    "fruitsdelight:lychee_jelly_eating_0",
+    "fruitsdelight:lychee_jelly_eating_1",
+    "fruitsdelight:lychee_jelly_eating_2"
+  ],
+  "fruitsdelight:mango_jelly": [
+    "fruitsdelight:mango_jelly",
+    "fruitsdelight:mango_jelly",
+    "fruitsdelight:mango_jelly_eating_0",
+    "fruitsdelight:mango_jelly_eating_1",
+    "fruitsdelight:mango_jelly_eating_2"
+  ],
+  "fruitsdelight:mangosteen_jelly": [
+    "fruitsdelight:mangosteen_jelly",
+    "fruitsdelight:mangosteen_jelly",
+    "fruitsdelight:mangosteen_jelly_eating_0",
+    "fruitsdelight:mangosteen_jelly_eating_1",
+    "fruitsdelight:mangosteen_jelly_eating_2"
+  ],
+  "fruitsdelight:melon_jelly": [
+    "fruitsdelight:melon_jelly",
+    "fruitsdelight:melon_jelly",
+    "fruitsdelight:melon_jelly_eating_0",
+    "fruitsdelight:melon_jelly_eating_1",
+    "fruitsdelight:melon_jelly_eating_2"
+  ],
+  "fruitsdelight:orange_jelly": [
+    "fruitsdelight:orange_jelly",
+    "fruitsdelight:orange_jelly",
+    "fruitsdelight:orange_jelly_eating_0",
+    "fruitsdelight:orange_jelly_eating_1",
+    "fruitsdelight:orange_jelly_eating_2"
+  ],
+  "fruitsdelight:peach_jelly": [
+    "fruitsdelight:peach_jelly",
+    "fruitsdelight:peach_jelly",
+    "fruitsdelight:peach_jelly_eating_0",
+    "fruitsdelight:peach_jelly_eating_1",
+    "fruitsdelight:peach_jelly_eating_2"
+  ],
+  "fruitsdelight:pear_jelly": [
+    "fruitsdelight:pear_jelly",
+    "fruitsdelight:pear_jelly",
+    "fruitsdelight:pear_jelly_eating_0",
+    "fruitsdelight:pear_jelly_eating_1",
+    "fruitsdelight:pear_jelly_eating_2"
+  ],
+  "fruitsdelight:persimmon_jelly": [
+    "fruitsdelight:persimmon_jelly",
+    "fruitsdelight:persimmon_jelly",
+    "fruitsdelight:persimmon_jelly_eating_0",
+    "fruitsdelight:persimmon_jelly_eating_1",
+    "fruitsdelight:persimmon_jelly_eating_2"
+  ],
+  "fruitsdelight:pineapple_jelly": [
+    "fruitsdelight:pineapple_jelly",
+    "fruitsdelight:pineapple_jelly",
+    "fruitsdelight:pineapple_jelly_eating_0",
+    "fruitsdelight:pineapple_jelly_eating_1",
+    "fruitsdelight:pineapple_jelly_eating_2"
+  ],
+  "fruitsdelight:sweetberry_jelly": [
+    "fruitsdelight:sweetberry_jelly",
+    "fruitsdelight:sweetberry_jelly",
+    "fruitsdelight:sweetberry_jelly_eating_0",
+    "fruitsdelight:sweetberry_jelly_eating_1",
+    "fruitsdelight:sweetberry_jelly_eating_2"
+  ]
+}

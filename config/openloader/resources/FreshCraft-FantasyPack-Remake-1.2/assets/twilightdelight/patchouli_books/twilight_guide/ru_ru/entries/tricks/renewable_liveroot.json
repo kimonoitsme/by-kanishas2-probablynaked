@@ -1,0 +1,12 @@
+{
+  "name": "Получение печеночного сока",
+  "icon": "twilightforest:liveroot",
+  "category": "twilightdelight:tricks",
+  "pages": [
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "twilightforest:liveroot_block",
+	  "text": "Корневые блоки, прилегающие к плодородной почве, будут постепенно превращаться в печеночный блок, что сделает его пригодным для выращивания."
+	}
+  ]
+}

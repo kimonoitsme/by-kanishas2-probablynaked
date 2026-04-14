@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "wan_ancient_beasts:item/spawn_egg/eater_spawn_egg"
+  }
+}

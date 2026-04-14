@@ -1,0 +1,41 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "nethers_exoticism:custom/rambutan_shield",
+  "textures": {
+    "1": "nethers_exoticism:block/rambutan_shield",
+    "particle": "nethers_exoticism:item/rambutan_shield"
+	}
+},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "nethers_exoticism:item/rambutan_shield_item"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "nethers_exoticism:item/rambutan_shield_item"
+		}
+	  },
+	  "fixed": {
+	  "parent": "nethers_exoticism:custom/rambutan_shield",
+  "textures": {
+    "1": "nethers_exoticism:block/rambutan_shield",
+    "particle": "nethers_exoticism:item/rambutan_shield"
+		}
+	  }
+	},
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "nethers_exoticism:item/rambutan_shield_0"
+    }
+  ]
+}

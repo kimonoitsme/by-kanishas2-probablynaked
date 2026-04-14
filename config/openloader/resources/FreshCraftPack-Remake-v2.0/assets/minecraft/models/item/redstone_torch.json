@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "item/redstone_torch_hendheld",
+	  "textures": {
+		"0": "block/torch/redstone_torch_on",
+		"particle": "block/torch/redstone_torch_on"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "item/redstone_torch"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "item/redstone_torch"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "item/redstone_torch"
+		}
+	  }
+	}
+  }

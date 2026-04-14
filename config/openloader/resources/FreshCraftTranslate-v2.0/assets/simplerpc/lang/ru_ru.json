@@ -1,0 +1,91 @@
+{
+  "cl.config.clientconfig": "Конфигурация Simple RPC клиента",
+
+  "cl.config.clientconfig.general": "Основные настройки",
+  "cl.config.clientconfig.init": "RPC загрузки игры",
+  "cl.config.clientconfig.main_menu": "RPC главного меню",
+  "cl.config.clientconfig.server_list": "RPC браузера серверов",
+  "cl.config.clientconfig.realmsscreensection": "RPC браузера Realms",
+  "cl.config.clientconfig.join_game": "RPC подключения к игре",
+  "cl.config.clientconfig.single_player": "RPC одиночной игры",
+  "cl.config.clientconfig.multi_player": "RPC многопользовательской игры",
+  "cl.config.clientconfig.realmsgamesection": "RPC игры в Realms",
+  "cl.config.clientconfig.generic": "Общий RPC",
+  "cl.config.clientconfig.variablesconfig": "Пользовательские плейсхолдеры",
+  "cl.config.clientconfig.dimension_overrides": "Переопределения биомов/измерений",
+
+  "cl.config.clientconfig.generalconfig": "Основные настройки",
+  "cl.config.clientconfig.generalconfig.discordid": "ID приложения",
+  "cl.config.clientconfig.generalconfig.enabled": "Включить RPC",
+  "cl.config.clientconfig.generalconfig.debugging": "Отладка",
+  "cl.config.clientconfig.generalconfig.launcherintegration": "Интеграция с лаунчером",
+
+  "cl.config.clientconfig.initsection": "RPC загрузки игры",
+  "cl.config.clientconfig.initsection.enabled": "Включено",
+  "cl.config.clientconfig.initsection.presence": "Статус",
+
+  "cl.config.clientconfig.mainmenusection": "RPC главного меню",
+  "cl.config.clientconfig.mainmenusection.enabled": "Включено",
+  "cl.config.clientconfig.mainmenusection.presence": "Статус",
+
+  "cl.config.clientconfig.serverlistsection": "RPC браузера серверов",
+  "cl.config.clientconfig.serverlistsection.enabled": "Включено",
+  "cl.config.clientconfig.serverlistsection.presence": "Статус",
+
+  "cl.config.clientconfig.realmsscreensection.enabled": "Включено",
+  "cl.config.clientconfig.realmsscreensection.presence": "Статус",
+
+  "cl.config.clientconfig.joingamesection": "RPC подключения к игре",
+  "cl.config.clientconfig.joingamesection.enabled": "Включено",
+  "cl.config.clientconfig.joingamesection.presence": "Статус",
+
+  "cl.config.clientconfig.singleplayersection": "RPC одиночной игры",
+  "cl.config.clientconfig.singleplayersection.enabled": "Включено",
+  "cl.config.clientconfig.singleplayersection.presence": "Статус",
+
+  "cl.config.clientconfig.multiplayersection": "RPC многопользовательской игры",
+  "cl.config.clientconfig.multiplayersection.enabled": "Включено",
+  "cl.config.clientconfig.multiplayersection.presence": "Статус",
+
+  "cl.config.clientconfig.realmsgamesection.enabled": "Включено",
+  "cl.config.clientconfig.realmsgamesection.presence": "Статус",
+
+  "cl.config.clientconfig.pausesection": "RPC паузы",
+  "cl.config.clientconfig.pausesection.enabled": "Включено",
+  "cl.config.clientconfig.pausesection.presence": "Статус",
+
+  "cl.config.clientconfig.genericsection": "Общий RPC",
+  "cl.config.clientconfig.genericsection.enabled": "Включено",
+  "cl.config.clientconfig.genericsection.presence": "Статус",
+
+  "cl.config.clientconfig.customvariablesconfig": "Пользовательские переменные",
+  "cl.config.clientconfig.customvariablesconfig.enabled": "Включено",
+  "cl.config.clientconfig.customvariablesconfig.variables": "Пользовательские переменные",
+
+  "cl.config.clientconfig.dimensionsection": "Переопределения биомов/измерений",
+  "cl.config.clientconfig.dimensionsection.enabled": "Включено",
+  "cl.config.clientconfig.dimensionsection.dimensions": "Переопределения",
+
+  "cl.config.clientconfig.richpresencemodel": "Редактор Rich Presence",
+  "cl.config.clientconfig.richpresencemodel.type": "Тип статуса",
+  "cl.config.clientconfig.richpresencemodel.description": "Описание",
+  "cl.config.clientconfig.richpresencemodel.state": "Состояние",
+  "cl.config.clientconfig.richpresencemodel.largeimagekey": "Ключ большой иконки",
+  "cl.config.clientconfig.richpresencemodel.largeimagetext": "Текст большой иконки",
+  "cl.config.clientconfig.richpresencemodel.smallimagekey": "Ключ маленькой иконки",
+  "cl.config.clientconfig.richpresencemodel.smallimagetext": "Текст маленькой иконки",
+  "cl.config.clientconfig.richpresencemodel.streamingactivityurl": "Ссылка на стрим",
+  "cl.config.clientconfig.richpresencemodel.buttons": "Кнопки",
+
+  "cl.config.clientconfig.buttonwrapper": "Редактор кнопок",
+  "cl.config.clientconfig.buttonwrapper.label": "Подпись кнопки",
+  "cl.config.clientconfig.buttonwrapper.url": "Ссылка кнопки",
+
+  "cl.config.clientconfig.customvariable": "Редактор переменных",
+  "cl.config.clientconfig.customvariable.name": "Имя переменной",
+  "cl.config.clientconfig.customvariable.value": "Значение переменной",
+
+  "cl.config.clientconfig.dimension": "Переопределение биома/измерения",
+  "cl.config.clientconfig.dimension.name": "Название",
+  "cl.config.clientconfig.dimension.presence": "Статус"
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "oceanic_delight:item/raw_shrimp_eating_1"
+  }
+}

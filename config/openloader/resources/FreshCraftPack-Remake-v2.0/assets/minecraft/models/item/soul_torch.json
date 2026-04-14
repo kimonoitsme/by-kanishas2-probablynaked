@@ -1,0 +1,33 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "item/soul_torch_hendheld",
+	  "textures": {
+		"0": "block/torch/soul_torch",
+		"2": "block/torch/soul_torch_fire",
+		"particle": "block/torch/soul_torch"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "item/soul_torch"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "item/soul_torch"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "item/soul_torch"
+		}
+	  }
+	}
+  }

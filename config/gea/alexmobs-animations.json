@@ -1,0 +1,310 @@
+{
+  "alexsmobs:banana": [
+    "alexsmobs:banana",
+    "alexsmobs:banana",
+    "eatinganimation:am_banana_eating_0",
+    "eatinganimation:am_banana_eating_1",
+    "eatinganimation:am_banana_eating_2"
+  ],
+  "alexsmobs:blobfish": [
+    "alexsmobs:blobfish",
+    "alexsmobs:blobfish",
+    "eatinganimation:am_blobfish_eating_0",
+    "eatinganimation:am_blobfish_eating_1",
+    "eatinganimation:am_blobfish_eating_2"
+  ],
+  "alexsmobs:boiled_emu_egg": [
+    "alexsmobs:boiled_emu_egg",
+    "alexsmobs:boiled_emu_egg",
+    "eatinganimation:am_boiled_emu_egg_eating_0",
+    "eatinganimation:am_boiled_emu_egg_eating_1",
+    "eatinganimation:am_boiled_emu_egg_eating_2"
+  ],
+  "alexsmobs:cooked_catfish": [
+    "alexsmobs:cooked_catfish",
+    "alexsmobs:cooked_catfish",
+    "eatinganimation:am_cooked_catfish_eating_0",
+    "eatinganimation:am_cooked_catfish_eating_1",
+    "eatinganimation:am_cooked_catfish_eating_2"
+  ],
+  "alexsmobs:cooked_kangaroo_meat": [
+    "alexsmobs:cooked_kangaroo_meat",
+    "alexsmobs:cooked_kangaroo_meat",
+    "eatinganimation:am_cooked_kangaroo_meat_eating_0",
+    "eatinganimation:am_cooked_kangaroo_meat_eating_1",
+    "eatinganimation:am_cooked_kangaroo_meat_eating_2"
+  ],
+  "alexsmobs:cooked_lobster_tail": [
+    "alexsmobs:cooked_lobster_tail",
+    "alexsmobs:cooked_lobster_tail",
+    "eatinganimation:am_cooked_lobster_tail_eating_0",
+    "eatinganimation:am_cooked_lobster_tail_eating_1",
+    "eatinganimation:am_cooked_lobster_tail_eating_2"
+  ],
+  "alexsmobs:cooked_moose_ribs": [
+    "alexsmobs:cooked_moose_ribs",
+    "alexsmobs:cooked_moose_ribs",
+    "eatinganimation:am_cooked_moose_ribs_eating_0",
+    "eatinganimation:am_cooked_moose_ribs_eating_1",
+    "eatinganimation:am_cooked_moose_ribs_eating_2"
+  ],
+  "alexsmobs:cosmic_cod": [
+    "alexsmobs:cosmic_cod",
+    "alexsmobs:cosmic_cod",
+    "eatinganimation:am_cosmic_cod_eating_0",
+    "eatinganimation:am_cosmic_cod_eating_1",
+    "eatinganimation:am_cosmic_cod_eating_2"
+  ],
+  "alexsmobs:fish_oil": [
+    "alexsmobs:fish_oil",
+    "alexsmobs:fish_oil",
+    "eatinganimation:am_fish_oil_eating_0",
+    "eatinganimation:am_fish_oil_eating_1",
+    "eatinganimation:am_fish_oil_eating_2"
+  ],
+  "alexsmobs:flying_fish": [
+    "alexsmobs:flying_fish",
+    "alexsmobs:flying_fish",
+    "eatinganimation:am_flying_fish_eating_0",
+    "eatinganimation:am_flying_fish_eating_1",
+    "eatinganimation:am_flying_fish_eating_2"
+  ],
+  "alexsmobs:gongylidia": [
+    "alexsmobs:gongylidia",
+    "alexsmobs:gongylidia",
+    "eatinganimation:am_gongylidia_eating_0",
+    "eatinganimation:am_gongylidia_eating_1",
+    "eatinganimation:am_gongylidia_eating_2"
+  ],
+  "alexsmobs:kangaroo_burger": [
+    "alexsmobs:kangaroo_burger",
+    "alexsmobs:kangaroo_burger",
+    "eatinganimation:am_kangaroo_burger_eating_0",
+    "eatinganimation:am_kangaroo_burger_eating_1",
+    "eatinganimation:am_kangaroo_burger_eating_2"
+  ],
+  "alexsmobs:kangaroo_meat": [
+    "alexsmobs:kangaroo_meat",
+    "alexsmobs:kangaroo_meat",
+    "eatinganimation:am_kangaroo_meat_eating_0",
+    "eatinganimation:am_kangaroo_meat_eating_1",
+    "eatinganimation:am_kangaroo_meat_eating_2"
+  ],
+  "alexsmobs:mosquito_repellent_stew ": [
+    "alexsmobs:mosquito_repellent_stew ",
+    "alexsmobs:mosquito_repellent_stew ",
+    "eatinganimation:mosquito_repellent_stew_eating_0",
+    "eatinganimation:mosquito_repellent_stew_eating_1",
+    "eatinganimation:mosquito_repellent_stew_eating_2"
+  ],
+  "alexsmobs:lobster_tail": [
+    "alexsmobs:lobster_tail",
+    "alexsmobs:lobster_tail",
+    "eatinganimation:am_lobster_tail_eating_0",
+    "eatinganimation:am_lobster_tail_eating_1",
+    "eatinganimation:am_lobster_tail_eating_2"
+  ],
+  "alexsmobs:maggot": [
+    "alexsmobs:maggot",
+    "alexsmobs:maggot",
+    "eatinganimation:am_maggot_eating_0",
+    "eatinganimation:am_maggot_eating_1",
+    "eatinganimation:am_maggot_eating_2"
+  ],
+  "alexsmobs:moose_ribs": [
+    "alexsmobs:moose_ribs",
+    "alexsmobs:moose_ribs",
+    "eatinganimation:am_moose_ribs_eating_0",
+    "eatinganimation:am_moose_ribs_eating_1",
+    "eatinganimation:am_moose_ribs_eating_2"
+  ],
+  "alexsmobs:rainbow_jelly": [
+    "alexsmobs:rainbow_jelly",
+    "alexsmobs:rainbow_jelly",
+    "eatinganimation:am_rainbow_jelly_eating_0",
+    "eatinganimation:am_rainbow_jelly_eating_1",
+    "eatinganimation:am_rainbow_jelly_eating_2"
+  ],
+  "alexsmobs:raw_catfish": [
+    "alexsmobs:raw_catfish",
+    "alexsmobs:raw_catfish",
+    "eatinganimation:am_raw_catfish_eating_0",
+    "eatinganimation:am_raw_catfish_eating_1",
+    "eatinganimation:am_raw_catfish_eating_2"
+  ],
+  "alexsmobs:shrimp_fried_rice": [
+    "alexsmobs:shrimp_fried_rice",
+    "alexsmobs:shrimp_fried_rice",
+    "eatinganimation:am_shrimp_fried_rice_eating_0",
+    "eatinganimation:am_shrimp_fried_rice_eating_1",
+    "eatinganimation:am_shrimp_fried_rice_eating_2"
+  ],
+  "alexsmobs:sopa_de_macaco": [
+    "alexsmobs:sopa_de_macaco",
+    "alexsmobs:sopa_de_macaco",
+    "eatinganimation:am_sopa_de_macaco_eating_0",
+    "eatinganimation:am_sopa_de_macaco_eating_1",
+    "eatinganimation:am_sopa_de_macaco_eating_2"
+  ],
+  "alexsdelight:acacia_blossom_soup": [
+    "alexsdelight:acacia_blossom_soup",
+    "alexsdelight:acacia_blossom_soup",
+    "eatinganimation:al_acacia_blossom_soup_eating_0",
+    "eatinganimation:al_acacia_blossom_soup_eating_1",
+    "eatinganimation:al_acacia_blossom_soup_eating_2"
+  ],
+  "alexsdelight:bison_burger": [
+    "alexsdelight:bison_burger",
+    "alexsdelight:bison_burger",
+    "eatinganimation:al_bison_burger_eating_0",
+    "eatinganimation:al_bison_burger_eating_1",
+    "eatinganimation:al_bison_burger_eating_2"
+  ],
+  "alexsdelight:bison_mince": [
+    "alexsdelight:bison_mince",
+    "alexsdelight:bison_mince",
+    "eatinganimation:al_bison_mince_eating_0",
+    "eatinganimation:al_bison_mince_eating_1",
+    "eatinganimation:al_bison_mince_eating_2"
+  ],
+  "alexsdelight:bison_patty": [
+    "alexsdelight:bison_patty",
+    "alexsdelight:bison_patty",
+    "eatinganimation:al_bison_patty_eating_0",
+    "eatinganimation:al_bison_patty_eating_1",
+    "eatinganimation:al_bison_patty_eating_2"
+  ],
+  "alexsdelight:bunfungus_sandwich": [
+    "alexsdelight:bunfungus_sandwich",
+    "alexsdelight:bunfungus_sandwich",
+    "eatinganimation:al_bunfungus_sandwich_eating_0",
+    "eatinganimation:al_bunfungus_sandwich_eating_1",
+    "eatinganimation:al_bunfungus_sandwich_eating_2"
+  ],
+  "alexsdelight:cooked_bison": [
+    "alexsdelight:cooked_bison",
+    "alexsdelight:cooked_bison",
+    "eatinganimation:al_cooked_bison_eating_0",
+    "eatinganimation:al_cooked_bison_eating_1",
+    "eatinganimation:al_cooked_bison_eating_2"
+  ],
+  "alexsdelight:cooked_bunfungus_drumstick": [
+    "alexsdelight:cooked_bunfungus_drumstick",
+    "alexsdelight:cooked_bunfungus_drumstick",
+    "eatinganimation:al_cooked_bunfungus_drumstick_eating_0",
+    "eatinganimation:al_cooked_bunfungus_drumstick_eating_1",
+    "eatinganimation:al_cooked_bunfungus_drumstick_eating_2"
+  ],
+  "alexsdelight:cooked_bunfungus": [
+    "alexsdelight:cooked_bunfungus",
+    "alexsdelight:cooked_bunfungus",
+    "eatinganimation:al_cooked_bunfungus_eating_0",
+    "eatinganimation:al_cooked_bunfungus_eating_1",
+    "eatinganimation:al_cooked_bunfungus_eating_2"
+  ],
+  "alexsdelight:cooked_catfish_slice": [
+    "alexsdelight:cooked_catfish_slice",
+    "alexsdelight:cooked_catfish_slice",
+    "eatinganimation:al_cooked_catfish_slice_eating_0",
+    "eatinganimation:al_cooked_catfish_slice_eating_1",
+    "eatinganimation:al_cooked_catfish_slice_eating_2"
+  ],
+  "alexsdelight:cooked_centipede_leg": [
+    "alexsdelight:cooked_centipede_leg",
+    "alexsdelight:cooked_centipede_leg",
+    "eatinganimation:al_cooked_centipede_leg_eating_0",
+    "eatinganimation:al_cooked_centipede_leg_eating_1",
+    "eatinganimation:al_cooked_centipede_leg_eating_2"
+  ],
+  "alexsdelight:cooked_kangaroo_shank": [
+    "alexsdelight:cooked_kangaroo_shank",
+    "alexsdelight:cooked_kangaroo_shank",
+    "eatinganimation:al_cooked_kangaroo_shank_eating_0",
+    "eatinganimation:al_cooked_kangaroo_shank_eating_1",
+    "eatinganimation:al_cooked_kangaroo_shank_eating_2"
+  ],
+  "alexsdelight:cooked_loose_moose_rib": [
+    "alexsdelight:cooked_loose_moose_rib",
+    "alexsdelight:cooked_loose_moose_rib",
+    "eatinganimation:al_cooked_loose_moose_ribs_eating_0",
+    "eatinganimation:al_cooked_loose_moose_ribs_eating_1",
+    "eatinganimation:al_cooked_loose_moose_ribs_eating_2"
+  ],
+  "alexsdelight:gongylidia_bruschetta": [
+    "alexsdelight:gongylidia_bruschetta",
+    "alexsdelight:gongylidia_bruschetta",
+    "eatinganimation:al_gongylidia_bruschetta_eating_0",
+    "eatinganimation:al_gongylidia_bruschetta_eating_1",
+    "eatinganimation:al_gongylidia_bruschetta_eating_2"
+  ],
+  "alexsdelight:kangaroo_pasta": [
+    "alexsdelight:kangaroo_pasta",
+    "alexsdelight:kangaroo_pasta",
+    "eatinganimation:al_kangaroo_pasta_eating_0",
+    "eatinganimation:al_kangaroo_pasta_eating_1",
+    "eatinganimation:al_kangaroo_pasta_eating_2"
+  ],
+  "alexsdelight:kangaroo_shank": [
+    "alexsdelight:kangaroo_shank",
+    "alexsdelight:kangaroo_shank",
+    "eatinganimation:al_kangaroo_shank_eating_0",
+    "eatinganimation:al_kangaroo_shank_eating_1",
+    "eatinganimation:al_kangaroo_shank_eating_2"
+  ],
+  "alexsdelight:kangaroo_stew": [
+    "alexsdelight:kangaroo_stew",
+    "alexsdelight:kangaroo_stew",
+    "eatinganimation:al_kangaroo_stew_eating_0",
+    "eatinganimation:al_kangaroo_stew_eating_1",
+    "eatinganimation:al_kangaroo_stew_eating_2"
+  ],
+  "alexsdelight:lobster_pasta": [
+    "alexsdelight:lobster_pasta",
+    "alexsdelight:lobster_pasta",
+    "eatinganimation:al_lobster_pasta_eating_0",
+    "eatinganimation:al_lobster_pasta_eating_1",
+    "eatinganimation:al_lobster_pasta_eating_2"
+  ],
+  "alexsdelight:loose_moose_rib": [
+    "alexsdelight:loose_moose_rib",
+    "alexsdelight:loose_moose_rib",
+    "eatinganimation:al_loose_moose_rib_eating_0",
+    "eatinganimation:al_loose_moose_rib_eating_1",
+    "eatinganimation:al_loose_moose_rib_eating_2"
+  ],
+  "alexsdelight:maggot_salad": [
+    "alexsdelight:maggot_salad",
+    "alexsdelight:maggot_salad",
+    "eatinganimation:al_maggot_salad_eating_0",
+    "eatinganimation:al_maggot_salad_eating_1",
+    "eatinganimation:al_maggot_salad_eating_2"
+  ],
+  "alexsdelight:raw_bison": [
+    "alexsdelight:raw_bison",
+    "alexsdelight:raw_bison",
+    "eatinganimation:al_raw_bison_eating_0",
+    "eatinganimation:al_raw_bison_eating_1",
+    "eatinganimation:al_raw_bison_eating_2"
+  ],
+  "alexsdelight:raw_bunfungus_drumstick": [
+    "alexsdelight:raw_bunfungus_drumstick",
+    "alexsdelight:raw_bunfungus_drumstick",
+    "eatinganimation:al_raw_bunfungus_drumstick_eating_0",
+    "eatinganimation:al_raw_bunfungus_drumstick_eating_1",
+    "eatinganimation:al_raw_bunfungus_drumstick_eating_2"
+  ],
+  "alexsdelight:raw_bunfungus": [
+    "alexsdelight:raw_bunfungus",
+    "alexsdelight:raw_bunfungus",
+    "eatinganimation:al_raw_bunfungus_eating_0",
+    "eatinganimation:al_raw_bunfungus_eating_1",
+    "eatinganimation:al_raw_bunfungus_eating_2"
+  ],
+  "alexsdelight:raw_catfish_slice": [
+    "alexsdelight:raw_catfish_slice",
+    "alexsdelight:raw_catfish_slice",
+    "eatinganimation:al_raw_catfish_slice_eating_0",
+    "eatinganimation:al_raw_catfish_slice_eating_1",
+    "eatinganimation:al_raw_catfish_slice_eating_2"
+  ]
+}

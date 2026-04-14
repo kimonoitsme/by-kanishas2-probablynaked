@@ -1,0 +1,37 @@
+{
+    "text.autoconfig.twod_projectiles.title": "2D Снаряды",
+
+    "text.autoconfig.twod_projectiles.category.arrow": "Стрела",
+    "text.autoconfig.twod_projectiles.option.renderTwoDArrow": "Отображать 2D стрелу",
+    "text.autoconfig.twod_projectiles.option.arrowDirectionList": "Список направлений текстур стрел",
+    "text.autoconfig.twod_projectiles.option.ArrowDirection": "Запись:",
+    "text.autoconfig.twod_projectiles.option.ArrowDirection.arrow": "Пространство имён:",
+    "text.autoconfig.twod_projectiles.option.ArrowDirection.direction": "Направление текстуры стрелы:",
+    "text.autoconfig.twod_projectiles.option.arrowScale": "Масштаб модели стрелы",
+    "text.autoconfig.twod_projectiles.option.arrowOffset": "Смещение модели стрелы",
+    "text.autoconfig.twod_projectiles.option.arrowShakePowerFactor": "Коэффициент силы дрожания стрелы (0 — отключить)",
+    "text.autoconfig.twod_projectiles.option.arrowShakeSpeedFactor": "Коэффициент скорости дрожания стрелы (0 — отключить)",
+    "text.autoconfig.twod_projectiles.option.arrowRoll": "Градусы вращения стрелы за тик (0 — отключить)",
+    "text.autoconfig.twod_projectiles.option.renderTippedArrow": "Отображать ли стрелы с эффектами",
+    "text.autoconfig.twod_projectiles.option.renderCriticalParticles": "Отображать ли критические частицы",
+
+    "text.autoconfig.twod_projectiles.category.fireworkRocket": "Фейерверк",
+    "text.autoconfig.twod_projectiles.option.renderTwoDFireworkRocket": "Отображать 2D фейерверк",
+    "text.autoconfig.twod_projectiles.option.fireworkRocketDirection": "Направление текстуры фейерверка",
+    "text.autoconfig.twod_projectiles.option.fireworkRocketScale": "Масштаб модели фейерверка",
+    "text.autoconfig.twod_projectiles.option.fireworkRocketOffset": "Смещение модели фейерверка",
+    "text.autoconfig.twod_projectiles.option.fireworkRocketRoll": "Градусы вращения фейерверка за тик (0 — отключить)",
+
+    "text.autoconfig.twod_projectiles.category.trident": "Трезубец",
+    "text.autoconfig.twod_projectiles.option.renderTwoDTrident": "Отображать 2D трезубец",
+    "text.autoconfig.twod_projectiles.option.tridentDirection": "Направление текстуры трезубца",
+    "text.autoconfig.twod_projectiles.option.tridentScale": "Масштаб модели трезубца",
+    "text.autoconfig.twod_projectiles.option.tridentOffset": "Смещение модели трезубца",
+    "text.autoconfig.twod_projectiles.option.tridentShakePowerFactor": "Коэффициент силы дрожания трезубца (0 — отключить)",
+    "text.autoconfig.twod_projectiles.option.tridentShakeSpeedFactor": "Коэффициент скорости дрожания трезубца (0 — отключить)",
+    "text.autoconfig.twod_projectiles.option.tridentRoll": "Градусы вращения трезубца за тик (0 — отключить)",
+
+    "text.autoconfig.twod_projectiles.category.projectileItem": "Бросаемый предмет",
+    "text.autoconfig.twod_projectiles.option.renderTwoDProjectileItem": "Отображать 2D бросаемые предметы (снежок, яйцо, жемчуг Края и т. д.)",
+    "text.autoconfig.twod_projectiles.option.projectileItemScale": "Масштаб модели бросаемого предмета"
+}

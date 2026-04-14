@@ -1,0 +1,7 @@
+{
+  "parent": "call_of_yucutan:custom/fist_of_doom",
+  "textures": {
+    "2": "call_of_yucutan:block/fist_of_doom_in_charge",
+    "particle": "call_of_yucutan:item/fist_of_doom"
+  }
+}

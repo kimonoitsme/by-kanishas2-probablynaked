@@ -1,0 +1,34 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "minecraft:item/map_hendheld",
+	  "textures": {
+		"layer0": "minecraft:item/map_handheld"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+        "layer0": "item/filled_map",
+        "layer1": "item/filled_map_markings"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+        "layer0": "item/filled_map",
+        "layer1": "item/filled_map_markings"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+        "layer0": "item/filled_map",
+        "layer1": "item/filled_map_markings"
+		}
+	  }
+	}
+  }

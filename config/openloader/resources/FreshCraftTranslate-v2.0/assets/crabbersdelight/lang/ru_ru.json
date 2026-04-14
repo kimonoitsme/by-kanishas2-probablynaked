@@ -1,0 +1,120 @@
+{
+    "itemGroup.crabbersdelight": "Кухня фермера: Ракообразные",
+
+    "item.crabbersdelight.crab": "Краб",
+    "item.crabbersdelight.cooked_crab": "Жареный краб",
+
+    "item.crabbersdelight.clawster": "Рак",
+    "item.crabbersdelight.cooked_clawster": "Приготовленный рак",
+
+    "item.crabbersdelight.shrimp": "Креветка",
+    "item.crabbersdelight.cooked_shrimp": "Варёная креветка",
+
+    "item.crabbersdelight.clam": "Гребешок",
+    "item.crabbersdelight.raw_clam_meat": "Сырой гребешок",
+    "item.crabbersdelight.cooked_clam_meat": "Жареный гребешок",
+
+    "item.crabbersdelight.raw_squid_tentacles": "Сырые щупальца спрута",
+    "item.crabbersdelight.cooked_squid_tentacles": "Жареные щупальца спрута",
+
+    "item.crabbersdelight.raw_glow_squid_tentacles": "Сырые щупальца светящегося спрута",
+    "item.crabbersdelight.cooked_glow_squid_tentacles": "Жареные щупальца светящегося спрута",
+
+    "item.crabbersdelight.raw_frog_leg": "Сырая лягушачья лапка",
+    "item.crabbersdelight.cooked_frog_leg": "Жареная лягушачья лапка",
+
+    "item.crabbersdelight.kelp_shake": "Коктейль из ламинарии",
+    "item.crabbersdelight.crab_cakes": "Крабовые котлеты",
+    "item.crabbersdelight.crab_legs": "Крабовые ножки",
+    "item.crabbersdelight.cooked_tropical_fish": "Жареная тропическая рыба",
+    "item.crabbersdelight.shrimp_skewer": "Шашлык из креветок",
+    "item.crabbersdelight.surf_and_turf": "Жаркое «Море и суша»",
+    "item.crabbersdelight.fish_stick": "Рыба на палке",
+    "item.crabbersdelight.clam_bake": "Морская запеканка",
+    "item.crabbersdelight.clam_chowder": "Суп с гребешками",
+    "item.crabbersdelight.tropical_fish_slice": "Филе тропической рыбы",
+    "item.crabbersdelight.cooked_tropical_fish_slice": "Жареное филе тропической рыбы",
+    "item.crabbersdelight.pufferfish_slice": "Сырое филе иглобрюха",
+    "item.crabbersdelight.cooked_pufferfish_slice": "Жареное филе иглобрюха",
+    "item.crabbersdelight.bisque": "Биск",
+    "item.crabbersdelight.seafood_gumbo": "Гамбо из морепродуктов",
+    "item.crabbersdelight.stuffed_nautilus_shell": "Фаршированная раковина наутилуса",
+    "item.crabbersdelight.shrimp_fried_rice": "Жареный рис с креветками",
+    "item.crabbersdelight.jar_of_pickles": "Банка морских огурцов",
+    "item.crabbersdelight.sea_pickle_juice": "Сок из морских огурцов",
+    "item.crabbersdelight.squid_kebob": "Кебаб из спрута",
+    "item.crabbersdelight.frog_leg_kebob": "Кебаб из лягушачьих лапок",
+    "item.crabbersdelight.coral_crunch": "Коралловые хлопья",
+
+    "item.crabbersdelight.soggy_flesh": "Сырая плоть",
+    "item.crabbersdelight.arid_flesh": "Сухая плоть",
+
+    "item.crabbersdelight.pearl": "Жемчуг",
+    "item.crabbersdelight.can": "Жестянка",
+    "item.crabbersdelight.coral_fragments": "Осколки кораллов",
+
+    "item.minecraft.potion.effect.inky_potion": "Зелье чернильности",
+    "item.minecraft.splash_potion.effect.inky_potion": "Взрывное зелье чернильности",
+    "item.minecraft.lingering_potion.effect.inky_potion": "Туманное зелье чернильности",
+    "item.minecraft.tipped_arrow.effect.inky_potion": "Стрела чернильности",
+
+    "item.crabbersdelight.bucket_of_crab_chum": "Ведро приманки на крабов",
+    "item.crabbersdelight.bucket_of_clawster_chum": "Ведро приманки на раков",
+    "item.crabbersdelight.bucket_of_clam_chum": "Ведро приманки на гребешков",
+    "item.crabbersdelight.bucket_of_shrimp_chum": "Ведро приманки на креветок",
+
+    "item.crabbersdelight.crab_claw": "Клешня краба",
+
+    "item.crabbersdelight.crab_spawn_egg": "Яйцо призыва атлантического краба",
+    "item.crabbersdelight.crab_bucket": "Атлантический краб в ведре",
+
+    "block.crabbersdelight.crab_trap": "Краболовка",
+    "block.crabbersdelight.crab_barrel": "Бочонок с крабами",
+    "block.crabbersdelight.clam_barrel": "Бочонок с гребешками",
+    "block.crabbersdelight.clawster_barrel": "Бочонок с раками",
+    "block.crabbersdelight.shrimp_barrel": "Бочонок с креветками",
+    "block.crabbersdelight.cod_barrel": "Бочонок с треской",
+    "block.crabbersdelight.salmon_barrel": "Бочонок с лососем",
+    "block.crabbersdelight.pufferfish_barrel": "Бочонок с иглобрюхами",
+    "block.crabbersdelight.tropical_fish_barrel": "Бочонок с тропической рыбой",
+    "block.crabbersdelight.squid_barrel": "Бочонок с спрутом",
+    "block.crabbersdelight.glow_squid_barrel": "Бочонок со светящимся спрутом",
+    "block.crabbersdelight.frog_leg_barrel": "Бочонок с лягушачьими лапками",
+    "block.crabbersdelight.lanternfish_barrel": "Бочонок с рыбой-фонарём",
+    "block.crabbersdelight.nautilus_shell_block": "Блок раковин наутилуса",
+    "block.crabbersdelight.pearl_block": "Жемчужный блок",
+
+    "entity.crabbersdelight.crab": "Атлантический краб",
+
+    "crabbersdelight.jei.crab_trap_loot": "Ловля в краболовку",
+
+    "crabbersdelight.advancement.root": "Морская кухня",
+    "crabbersdelight.advancement.root.desc": "Приготовьтесь стать поваром-сушистом",
+
+    "crabbersdelight.advancement.craft_crab_trap": "Это ловушка!",
+    "crabbersdelight.advancement.craft_crab_trap.desc": "Используйте страховочную сеть, плиты и палки, чтобы сделать свою первую краболовку",
+
+    "crabbersdelight.advancement.cook_crustaceans": "Время ракообразных",
+    "crabbersdelight.advancement.cook_crustaceans.desc": "Приготовьте крабов, креветок и раков, отварив их в кухонном котле",
+
+    "crabbersdelight.advancement.get_pearl": "Нежные жемчужные переливы!",
+    "crabbersdelight.advancement.get_pearl.desc": "Получите свой первый жемчуг, разрезав гребешок на разделочной доске. Может быть, таинственный торговец найдёт его ценным…",
+
+    "crabbersdelight.advancement.a_shrimp_fried_this_rice": "Как креветка жарила рис",
+    "crabbersdelight.advancement.a_shrimp_fried_this_rice.desc": "Приготовьте жареный рис с креветками",
+
+    "crabbersdelight.advancement.reach_for_the_sea_stars": "Потянись к морским звёздам!",
+    "crabbersdelight.advancement.reach_for_the_sea_stars.desc": "Раздобудьте клешню краба и увеличьте радиус действия",
+
+    "crabbersdelight.advancement.frog_killer": "На вкус как курица",
+    "crabbersdelight.advancement.frog_killer.desc": "Используйте нож, чтобы получить лягушачьи лапки с лягушки",
+
+    "crabbersdelight.advancement.squid_killer": "Убийца морских глубин",
+    "crabbersdelight.advancement.squid_killer.desc": "Используйте нож, чтобы получить щупальца из спрута",
+
+    "crabbersdelight.advancement.glow_squid_killer": "Убийца глубоководья",
+    "crabbersdelight.advancement.glow_squid_killer.desc": "Используйте нож, чтобы получить светящиеся щупальца из светящегося спрута",
+
+    "crabbersdelight.block.crab_trap.not_waterlogged": "Краболовка должна находиться в воде",
+    "crabbersdelight.block.crab_trap.insufficient_surrounding_water": "Краболовке нужно пространство 3x3 с водой вокруг, чтобы работать!"
+}

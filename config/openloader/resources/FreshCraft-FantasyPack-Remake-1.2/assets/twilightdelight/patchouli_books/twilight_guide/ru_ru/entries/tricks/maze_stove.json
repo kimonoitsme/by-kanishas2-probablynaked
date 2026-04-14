@@ -1,0 +1,15 @@
+{
+  "name": "Плита-лабиринт",
+  "icon": "twilightdelight:maze_stove",
+  "category": "twilightdelight:tricks",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Готовьте блюда с добавлением Twilight Forest или Twilight's Flavour & Delight с удвоенной скоростью"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "twilightdelight:maze_stove"
+	}
+  ]
+}

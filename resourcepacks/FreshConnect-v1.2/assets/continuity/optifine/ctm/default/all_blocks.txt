@@ -1,0 +1,16 @@
+minecraft:sandstone minecraft:red_sandstone biomesoplenty:white_sandstone \
+biomesoplenty:orange_sandstone biomesoplenty:black_sandstone quark:soul_sandstone \
+yungscavebiomes:ancient_sandstone yungscavebiomes:brittle_red_sandstone yungscavebiomes:brittle_sandstone \
+minecraft:amethyst_block galosphere:allurite_block galosphere:lumiere_block minecraft:crying_obsidian \
+minecraft:obsidian minecraft:magma_block minecraft:glowstone \
+galosphere:pink_salt galosphere:rose_pink_salt galosphere:pastel_pink_salt minecraft:farmland \
+immersive_weathering:loamy_farmland immersive_weathering:earthen_clay_farmland immersive_weathering:sandy_farmland \
+immersive_weathering:silty_farmland minecraft:ice minecraft:packed_ice minecraft:blue_ice \
+ecologics:thin_ice yungscavebiomes:rare_ice wan_ancient_beasts:suspicious_ice \
+minecraft:terracotta minecraft:white_terracotta minecraft:light_gray_terracotta \
+minecraft:gray_terracotta minecraft:black_terracotta minecraft:brown_terracotta \
+minecraft:red_terracotta minecraft:orange_terracotta minecraft:yellow_terracotta \
+minecraft:lime_terracotta minecraft:green_terracotta minecraft:cyan_terracotta \
+minecraft:light_blue_terracotta minecraft:blue_terracotta minecraft:purple_terracotta \
+minecraft:magenta_terracotta minecraft:pink_terracotta atmospheric:arid_sandstone suspicious_gravel atmospheric:red_arid_sandstone \
+immersive_weathering:earthen_clay dirt_path atmospheric:crustose_path

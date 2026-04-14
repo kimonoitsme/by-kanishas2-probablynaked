@@ -1,0 +1,15 @@
+{
+  "parent": "call_of_yucutan:custom/wand_of_randiance",
+  "textures": {
+    "0": "call_of_yucutan:block/wand",
+    "particle": "call_of_yucutan:item/wand"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "call_of_yucutan:wand_of_radiance_is_in_charge": 1
+      },
+      "model": "call_of_yucutan:item/wand_of_radiance_0"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+	  "layer0" : "arthys_rpg_arms:item/wraithreach_item"
+	}
+  }

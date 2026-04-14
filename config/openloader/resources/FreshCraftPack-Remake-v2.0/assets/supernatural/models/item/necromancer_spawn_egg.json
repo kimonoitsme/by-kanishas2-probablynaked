@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "supernatural:item/spawn_egg/necromancer_spawn_egg"
+  }
+}

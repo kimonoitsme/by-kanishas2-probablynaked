@@ -1,0 +1,14 @@
+* -text
+*.toml text eol=lf
+*.pw.toml text eol=lf
+*.json text eol=lf
+*.json5 text eol=lf
+*.cfg text eol=lf
+*.properties text eol=lf
+*.txt text eol=lf
+*.mcmeta text eol=lf
+*.zs text eol=lf
+*.js text eol=lf
+*.lang text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf

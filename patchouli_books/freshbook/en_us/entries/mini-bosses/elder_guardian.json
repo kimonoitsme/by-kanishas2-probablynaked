@@ -1,0 +1,21 @@
+{
+    "name": "§3§lДревний страж",
+    "icon": "minecraft:elder_guardian_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oОгромный, §oзатопленный §oмонумент из §oпризмарина, его §oохраняют - стражи, §oсущества, похожие §oна §oрыб... $(br)$(br)§o Но их предводитель §oкуда больше, его око §oзащищает храм от §oразрушения, охраняя §oлегендарный §oтрезубец..."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:elden_guardian.png"
+            ]
+        }
+    ]
+}

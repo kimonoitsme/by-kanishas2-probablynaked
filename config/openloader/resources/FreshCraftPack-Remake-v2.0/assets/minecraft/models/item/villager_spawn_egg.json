@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "minecraft:item/spawn_egg/villager_spawn_egg"
+  }
+}

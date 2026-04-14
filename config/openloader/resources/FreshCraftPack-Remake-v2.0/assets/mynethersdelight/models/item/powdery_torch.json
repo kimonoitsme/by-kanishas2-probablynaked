@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "mynethersdelight:item/powdery_torch_hendheld",
+	  "textures": {
+		"0": "mynethersdelight:block/powdery_torch",
+		"particle": "mynethersdelight:block/powdery_torch"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "mynethersdelight:item/powdery_torch"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "mynethersdelight:item/powdery_torch"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "mynethersdelight:item/powdery_torch"
+		}
+	  }
+	}
+  }

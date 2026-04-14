@@ -1,0 +1,6 @@
+{
+    "key.horsecombatcontrols.toggle": "Переключить бой верхом",
+    "key.horsecombatcontrols.category": "Управление боем верхом",
+
+    "message.horsecombatcontrols.locked": "Управление боем верхом зафиксировано настройками мира"
+}

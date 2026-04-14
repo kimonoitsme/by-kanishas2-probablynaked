@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "takesapillage:item/spawn_egg/skirmisher_spawn_egg"
+  }
+}

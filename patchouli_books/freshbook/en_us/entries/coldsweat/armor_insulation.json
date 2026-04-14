@@ -1,0 +1,52 @@
+{
+    "name": "§6§lОдежда",
+    "icon": "cold_sweat:sewing_table",
+    "category": "patchouli:coldsweat_category",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oБроню можно §oподшивать, чтобы §oсохранять тепло §oили §oне §oперегреваться.$(br2)§o Существует §oмножество разных §oматериалов, §oподшивая §oи §oкомбинируя которые §oможно обеспечить §oоптимальную защиту §oот жары или холода."
+        },
+        {
+            "type": "image",
+            "text": "§oДля этого вам §oпонадобится сама §oброня и материал",
+            "title": "§7§lПодшивание",
+            "border": true,
+            "images": [
+                "patchouli:sewing_table2.png"
+            ]
+
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lШвейный стол",
+            "text": " §oПодшивание брони §oпроисходит на §oШвейном столе.$(br2)§o Изоляция бывает §oразных видов: $(li)§9§l§oОт холода $(li)§c§l§oОт жары $(li)§d§l§oУниверсальная $(li)§2§l§oАдаптивная",
+            "item": "cold_sweat:sewing_table"
+        },
+        {
+            "type": "image",
+            "text": "§oОтличаются в §oзависимости от §oматериала.",
+            "title": "§7§lВиды изоляции",
+            "border": true,
+            "images": [
+                "patchouli:armor_ut1.png",
+                "patchouli:armor_ut2.png",
+                "patchouli:armor_ut3.png",
+                "patchouli:armor_ut4.png"
+            ]
+        },
+        {
+            "title": "§7§lОсобенности",
+            "type": "spotlight",
+            "item": "minecraft:shears,minecraft:leather",
+            "text": " §oПодшить броню §oможно несколько раз, §oчтобы усилить §oсвойства материала.$(br2)§o Один из лучших §oвариантов брони - §oкожаная.$(br2)§o Ножницами можно §oснимать подшивку."
+        },
+        {
+            "title": "§7§lСпец. одежда",
+            "type": "spotlight",
+            "item": "cold_sweat:hoglin_headpiece,cold_sweat:hoglin_tunic,cold_sweat:goat_fur_cap,cold_sweat:goat_fur_parka,wardrobe:desert_helmet,wardrobe:desert_chestplate,seasonalfauna:manul_fur_coat_chestplate,wardrobe:snowy_chestplate,wardrobe:snowy_helmet",
+            "text": " §oНу и конечно, есть §oразные вещи и §oброня, которая и без §oподшивания может §oхорошо тебя §oсогреть §oили §oохлаждить!$(br2)§o Некоторые из них §oуникальные и очень §oхорошо выполняют §oэти функции!"
+        }
+    ]
+}

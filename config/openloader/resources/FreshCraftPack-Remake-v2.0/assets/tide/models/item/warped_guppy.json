@@ -1,0 +1,33 @@
+{
+	"parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tide:item/warped_guppy"
+  },
+
+  "overrides": [
+
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.35
+      },
+      "model": "tide:item/warped_guppy_eating_0"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.7
+      },
+      "model": "tide:item/warped_guppy_eating_1"
+    },
+
+    {
+      "predicate": {
+
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.9
+      },
+      "model": "tide:item/warped_guppy_eating_2"
+    }
+  ]
+}

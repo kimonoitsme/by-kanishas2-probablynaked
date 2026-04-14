@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "cataclysm:item/spawn_egg/royal_draugr_spawn_egg"
+  }
+}

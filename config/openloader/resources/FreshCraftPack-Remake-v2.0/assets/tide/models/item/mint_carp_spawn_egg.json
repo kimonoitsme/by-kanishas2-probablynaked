@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "tide:item/spawn_egg/mint_carp_spawn_egg"
+  }
+}

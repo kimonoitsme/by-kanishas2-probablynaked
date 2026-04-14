@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+	  "layer0": "iceandfire:item/dragon_horn_ice_item"
+	}
+  }

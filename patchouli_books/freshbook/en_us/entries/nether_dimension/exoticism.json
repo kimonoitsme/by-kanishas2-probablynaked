@@ -1,0 +1,41 @@
+{
+    "name": "§6§lЭкзотика",
+    "icon": "nethers_exoticism:ramboutan",
+    "category": "patchouli:nether_dimension_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oПутешествуя по §oНезеру, можно найти §oмножество §oпривычных §oна §oпервый взгляд, но §oнеобычных §oэкзотических §oфруктов!$(br)$(br)§o Но не стоит их §oнедооценивать, они §oнамного полезнее, §oчем кажутся на §oпервый взгляд!"
+        },
+        {
+            "type": "spotlight",
+            "title": "§e§lРука Будды",
+            "text": " §oРастёт в Долинах §oпеска душ на костях. §oПри поедании §oпозволяет видеть в §oтемноте.$(br)$(br)§o Можно сделать §oсалат, который §oдарует ночное §oзрение аж на целую §oминуту!",
+            "item": "nethers_exoticism:bouddha_s_hand"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lКивано",
+            "text": " §oРастёт на кустах в §oискажённом лесу. §oПри §oпоедании §oстанешь §oогнестойким, но §oможешь отравиться.$(br)§o Из его кожуры §oможно §oсделать §oброню, §oзащищающую §oот §oвысоких §oтемператур! §oА также §oинстурменты §oс §oособыми эффектами.",
+            "item": "nethers_exoticism:kiwano,nethers_exoticism:kiwano_peel"
+        },
+        {
+            "type": "spotlight",
+            "title": "§c§lРамбутан",
+            "text": " §oМожно встретить в §oбиоме Пустоши §oНезера. Даст эффект §oрегенерации, если §oсъесть, но при этом §oбольно уколит.$(br)$(br)§o Из него можно §oсделать щит, ковёр §oи §oшлем.",
+            "item": "nethers_exoticism:ramboutan,nethers_exoticism:ramboutan_helmet,nethers_exoticism:rambutan_shield"
+        },
+        {
+            "type": "spotlight",
+            "title": "§9§lЖаботикаба",
+            "text": " §oРастёт на коре §oдеревьев в §oБазальтовых дельтах.$(br)§o Ведро сока §oжаботикабы можно §oиспользовать как §oжидкость, которая §oне §oиспаряется сразу...",
+            "item": "nethers_exoticism:jaboticaba,nethers_exoticism:jabuticaba_bucket"
+        },
+        {
+            "type": "spotlight",
+            "title": "§3§lПитайя",
+            "text": " §oРастёт в багровом §oлесу, сам ствол §oочень §oпохож на §oнастоящий §oкактус.$(br)$(br)§o При поедании даст §oэффект иммунитета к §oиссушению.$(br)$(br)§o Вот такие фрукты...",
+            "item": "nethers_exoticism:pitaya"
+        }
+    ]
+}

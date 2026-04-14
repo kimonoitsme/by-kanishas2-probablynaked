@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "warriorsofpastepoch:item/spawn_egg/skeleton_musketeer_spawn_egg"
+  }
+}

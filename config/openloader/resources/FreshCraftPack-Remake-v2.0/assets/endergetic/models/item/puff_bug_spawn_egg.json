@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "endergetic:item/spawn_egg/puff_bug_spawn_egg"
+  }
+}

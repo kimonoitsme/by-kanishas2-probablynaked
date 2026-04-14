@@ -1,0 +1,21 @@
+{
+    "name": "§8§lПадший рыцарь",
+    "icon": "royalvariations:fallen_royal_guard_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oСтражи королей §oдалёкой войны.$(br)$(br)§o Элитные рыцари, §oпревосходные воины.$(br)$(br)§o Опасный противник с §oнепробиваемой §oбронёй и §oагрессивным §oстилем §oбоя."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:knight.png"
+            ]
+        }
+    ]
+}

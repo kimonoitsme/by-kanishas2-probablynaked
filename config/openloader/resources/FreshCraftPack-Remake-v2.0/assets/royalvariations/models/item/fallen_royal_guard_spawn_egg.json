@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "royalvariations:item/fallen_royal_knight_spawn_egg"
+  }
+}

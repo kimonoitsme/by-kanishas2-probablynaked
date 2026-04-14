@@ -1,0 +1,34 @@
+{
+  "name": "Посохи",
+  "icon": "irons_spellbooks:graybeard_staff",
+  "category": "irons_spellbooks:root",
+  "sortnum": 3,
+  "read_by_default" : true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Посохи",
+      "text": "Посохи - это предметы, которыми можно щелкнуть ПКМ (использовать) для наложения активного заклинания. Чаще всего они также предоставляют пассивные преимущества, позволяя использовать особый стиль игры волшебника."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:graybeard_staff",
+      "text": "Посох старца - это всё, что нужно, чтобы привести хрустальный шар в движение."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:artificer_cane",
+      "text": "Иногда для того, чтобы поднять ваш кастинг на новый уровень, достаточно дополнительного стиля."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:ice_staff",
+      "text": "Ходят слухи, что осколки мистического матового посоха рассказывают о потустороннем мире. Возможно, у криоманта в башне хранятся исследования, которые могут раскрыть больше информации."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blood_staff",
+      "text": "Древний скипетр с непревзойденными способностями к призыву, только забрав у его владельца-нежити."
+    }
+  ]
+}

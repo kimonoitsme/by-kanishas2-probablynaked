@@ -1,0 +1,21 @@
+{
+    "name": "§6§lКоболедиатор",
+    "icon": "cataclysm:kobolediator_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "text",
+            "text": "§oЭти здоровые §oдревние воины §oохраняют останки §oсвоего повелителя. $(br)$(br)§o Их можно встретить §oв проклятой §oпирамиде...$(br)$(br)§o Наносят §oсмертельные атаки §oсвоими огромными §oклинками."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:kobolediator.png"
+            ]
+        }
+    ]
+}

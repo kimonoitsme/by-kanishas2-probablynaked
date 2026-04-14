@@ -1,0 +1,17 @@
+filename = 'projectile_damage-forge-3.2.2+1.20.1.jar'
+name = 'Projectile Damage Attribute'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.2.2+1.20.1-forge'
+
+[download]
+hash = 'a6576a0b971f38f95ac1ff587d12d7f26fcbc1f64bf216f5bae873eb069c97e7b350ad76605aa6a9df5a6ad6821edc9a17672a5f93767e624669f25be4cc9536'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AOyJhFvl/versions/KgTLAkfq/projectile_damage-forge-3.2.2%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'AOyJhFvl'
+version = 'KgTLAkfq'

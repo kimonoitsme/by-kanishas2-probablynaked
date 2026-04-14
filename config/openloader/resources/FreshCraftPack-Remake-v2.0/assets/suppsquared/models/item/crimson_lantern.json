@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "suppsquared:item/crimson_latern_hendheld",
+	  "textures": {
+		"0": "suppsquared:block/crimson_lantern",
+		"particle": "suppsquared:block/crimson_lantern"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "suppsquared:item/crimson_latern"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "suppsquared:item/crimson_latern"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "suppsquared:item/crimson_latern"
+		}
+	  }
+	}
+  }

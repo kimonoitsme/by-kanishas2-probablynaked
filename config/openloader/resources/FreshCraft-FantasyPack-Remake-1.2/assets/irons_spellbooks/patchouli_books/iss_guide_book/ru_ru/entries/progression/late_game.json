@@ -1,0 +1,75 @@
+{
+  "name": "Поздняя игра",
+  "icon": "irons_spellbooks:arcane_anvil",
+  "category": "irons_spellbooks:root",
+  "sortnum": -1,
+  "read_by_default" : true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Волшебная наковальня",
+      "text": "Продвинуться в игре можно, добыв незерит и огромное количество базовых ресурсов, а также используя Волшебную наковальню.$(br2)Волшебная наковальня - это самый мощный инструмент для крафта, используемая для повышения уровня ваших свитков, улучшения брони и книг заклинаний, а также для наполнения оружия заклинаниями."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:arcane_anvil"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ещё книги с заклинаниями",
+      "text": "Здесь представлены лучшие книги заклинаний, которые можно создать. Древний трактат найден в древних городах",
+      "recipe": "irons_spellbooks:netherite_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:dragonskin_spell_book",
+      "text": "Драконий кодекс падает с Эндер-дракона"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:cryomancer_helmet",
+      "recipe2": "irons_spellbooks:pyromancer_helmet",
+      "title": "Школьная броня"
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Пример: Броня криоманта",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:cryomancer_boots',Count:1b},{id:'irons_spellbooks:cryomancer_leggings',Count:1b},{id:'irons_spellbooks:cryomancer_chestplate',Count:1b},{id:'irons_spellbooks:cryomancer_helmet',Count:1b}],NoBasePlate:1b}",
+      "text": "Школьная броня изготавливается из магической ткани в соответствии с особым школьным правилом по этому шаблону"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:upgrade_orb",
+      "title": "Улучшения",
+      "text": "Улучшения - это конечная форма продвижения. По умолчанию, любая броня, а также книги заклинаний могут быть улучшены.$(br2)Сферы улучшения определенного атрибута изготавливаются из сферы базового улучшения и 8 рун нужного атрибута."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:upgrade_orb",
+      "recipe2": "irons_spellbooks:fire_upgrade_orb"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Волшебные обломки",
+      "enable_visualize" : false,
+      "multiblock": {
+        "pattern": [
+          [ " D S ", "DA0PF"]
+        ],
+        "mapping": {
+          "D": "minecraft:deepslate",
+          "A": "irons_spellbooks:arcane_debris",
+          "P": "irons_spellbooks:armor_pile",
+          "S": "minecraft:soul_sand",
+          "F": "minecraft:soul_fire"
+        }
+      },
+      "text": "Волшебные обломки - это надземный эквивалент древних обломков, найденных ниже y=-38. Для этого требуется незеритовая кирка."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "irons_spellbooks:citadel_keeper",
+      "text": "С Древних рыцарей выпадает Золовая эссенция, которую можно пробудить, разбив груды доспехов в Незере."
+    }
+  ]
+}

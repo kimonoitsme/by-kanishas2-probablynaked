@@ -1,0 +1,16 @@
+{
+    "text.autoconfig.smoothboot.title": "Smooth Boot",
+    "text.autoconfig.smoothboot.option.threadCount": "Количество потоков",
+    "text.autoconfig.smoothboot.option.threadCount.bootstrap": "Количество рабочих потоков загрузки",
+    "text.autoconfig.smoothboot.option.threadCount.bootstrap.@Tooltip[0]": "Примечание: Известно, что увеличение этого значения снижает производительность.",
+    "text.autoconfig.smoothboot.option.threadCount.bootstrap.@Tooltip[1]": "Лучше оставить на 1.",
+    "text.autoconfig.smoothboot.option.threadCount.main": "Количество основных рабочих потоков",
+    "text.autoconfig.smoothboot.option.threadCount.main.@Tooltip[0]": "Это значение сильно влияет на время загрузки.",
+    "text.autoconfig.smoothboot.option.threadCount.main.@Tooltip[1]": "Также может влиять на производительность в игре.",
+    "text.autoconfig.smoothboot.option.threadPriority": "Приоритет потоков",
+    "text.autoconfig.smoothboot.option.threadPriority.game": "Приоритет игрового потока",
+    "text.autoconfig.smoothboot.option.threadPriority.bootstrap": "Приоритет рабочего потока загрузки",
+    "text.autoconfig.smoothboot.option.threadPriority.main": "Приоритет основного рабочего потока",
+    "text.autoconfig.smoothboot.option.threadPriority.io": "Приоритет рабочего потока ввода/вывода",
+    "text.autoconfig.smoothboot.option.threadPriority.integratedServer": "Приоритет потока интегрированного сервера"
+}

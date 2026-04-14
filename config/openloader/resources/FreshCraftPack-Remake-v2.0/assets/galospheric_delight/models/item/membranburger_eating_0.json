@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "galospheric_delight:item/membranburger_eating_0"
+  }
+}

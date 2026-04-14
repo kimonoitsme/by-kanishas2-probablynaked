@@ -1,0 +1,16 @@
+{
+  "name": "Временная печаль",
+  "icon": "twilightdelight:teardrop_sword",
+  "category": "twilightdelight:effects",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Этот эффект уменьшит атаку на 10 и вдвое снизит скорость передвижения целевой сущности."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "twilightdelight:teardrop_sword",
+	  "text": "Наносите удары врагу, используя каплевидный меч."
+	}
+  ]
+}

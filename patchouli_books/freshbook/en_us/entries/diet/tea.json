@@ -1,0 +1,30 @@
+{
+    "name": "§6§lЧаи и десерты",
+    "icon": "farmersrespite:kettle",
+    "sortnum": 3,
+    "category": "patchouli:diet_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oЛюбишь чаи гонять, §oлюби и его §oвыращивать!$(br)§o Тут немного §oрасскажу про §oзаваривание чая, §oкофе и не только...$(br)$(br)§o Про то, как его §oварить, как §oвыращивать, и что §oтакого §oинтересного §oв §oнём §oесть. "
+        },
+        {
+            "type": "crafting",
+            "title": "§6§lЧайник",
+            "text": " §oВсё происходит §oтут, §oты сможешь §oзаварить §oчай, §oиспользуя §oлистья §oчёрного, §oзелёного и §oжёлтого §oчая и §oсварить кофе, §oиспользуя кофейные §oзёрна.",
+            "recipe": "farmersrespite:kettle"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lЧай и кофе",
+            "text": " §oЧтобы вырастить §oчай или кофе, §oнеобходимо их §oотыскать, что будет §oне так просто, §oдобыть семена и §oдальше дело за §oмалым!$(br)§o Чтобы получить §oжёлтый и чёрный §oчай, §oнужно всего-лишь$(br)§o подождать...",
+            "item": "farmersrespite:wild_tea_bush,farmersrespite:tea_seeds,farmersrespite:wild_coffee_bush,farmersrespite:coffee_beans"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lБлюда",
+            "text": "$(br)§o Ты можешь сварить §oне только разные §oвиды чая, но и §oприготовить разные §oблюда, десерты и §oугощения к чаю...$(br)$(br)§o Приятного чаепития!",
+            "item": "farmersrespite:green_tea,farmersrespite:coffee_berries,farmersrespite:yellow_tea,farmersrespite:coffee_cake_slice,farmersrespite:black_tea,farmersrespite:rose_hip_pie_slice,farmersrespite:rose_hip_tea,farmersrespite:green_tea_cookie,farmersrespite:tea_curry,farmersrespite:dandelion_tea,farmersrespite:blazing_chili"
+        }
+    ]
+}

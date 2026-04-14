@@ -1,0 +1,6 @@
+{
+  "parent": "farmersdelight:item/mug",
+  "textures": {
+    "layer0": "fruitsdelight:item/hawberry_tea_eating_0"
+  }
+}

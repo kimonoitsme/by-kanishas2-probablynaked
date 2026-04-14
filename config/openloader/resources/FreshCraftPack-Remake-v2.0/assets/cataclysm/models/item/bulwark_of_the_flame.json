@@ -1,0 +1,39 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "cataclysm:item/bulwark_of_the_flame_handheld",
+   "textures": {
+        "particle": "minecraft:block/nether_bricks"
+	}
+},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "cataclysm:item/bulwark_of_the_flame_item"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "cataclysm:item/bulwark_of_the_flame_item"
+		}
+	  },
+	  "fixed": {
+	  "parent": "cataclysm:item/bulwark_of_the_flame_handheld",
+   "textures": {
+        "particle": "minecraft:block/nether_bricks"
+		}
+	  }
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"blocking": 1
+			},
+			"model": "cataclysm:item/bulwark_of_the_flame_blocking"
+		}
+	]
+  }

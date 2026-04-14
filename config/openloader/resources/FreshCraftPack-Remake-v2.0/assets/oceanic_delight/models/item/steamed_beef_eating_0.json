@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "oceanic_delight:item/steamed_beef_eating_0"
+  }
+}

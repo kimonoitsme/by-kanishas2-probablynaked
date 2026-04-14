@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [ { "model": "yungscavebiomes:block/ancient_sand", "weight":100 }
+,{ "model": "yungscavebiomes:block/ancient_sand2", "weight":20 }
+,{ "model": "yungscavebiomes:block/ancient_sand3", "weight":30 }
+,{ "model": "yungscavebiomes:block/ancient_sand4", "weight":60 }
+
+ ]   }
+}

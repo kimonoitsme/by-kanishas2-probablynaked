@@ -1,0 +1,89 @@
+{
+  "upgrade_aquatic:boiled_pickerelweed": [
+    "upgrade_aquatic:boiled_pickerelweed",
+    "upgrade_aquatic:boiled_pickerelweed",
+    "upgrade_aquatic:boiled_pickerelweed_eating_0",
+    "upgrade_aquatic:boiled_pickerelweed_eating_1",
+    "upgrade_aquatic:boiled_pickerelweed_eating_2"
+  ],
+
+  "upgrade_aquatic:cooked_lionfish": [
+    "upgrade_aquatic:cooked_lionfish",
+    "upgrade_aquatic:cooked_lionfish",
+    "eatinganimation:ua_cooked_lionfish_eating_0",
+    "eatinganimation:ua_cooked_lionfish_eating_1",
+    "eatinganimation:ua_cooked_lionfish_eating_2"
+  ],
+
+  "upgrade_aquatic:cooked_perch": [
+    "upgrade_aquatic:cooked_perch",
+    "upgrade_aquatic:cooked_perch",
+    "eatinganimation:ua_cooked_perch_eating_0",
+    "eatinganimation:ua_cooked_perch_eating_1",
+    "eatinganimation:ua_cooked_perch_eating_2"
+  ],
+
+  "upgrade_aquatic:cooked_pike": [
+    "upgrade_aquatic:cooked_pike",
+    "upgrade_aquatic:cooked_pike",
+    "eatinganimation:ua_cooked_pike_eating_0",
+    "eatinganimation:ua_cooked_pike_eating_1",
+    "eatinganimation:ua_cooked_pike_eating_2"
+  ],
+
+  "upgrade_aquatic:lionfish": [
+    "upgrade_aquatic:lionfish",
+    "upgrade_aquatic:lionfish",
+    "eatinganimation:ua_lionfish_eating_0",
+    "eatinganimation:ua_lionfish_eating_1",
+    "eatinganimation:ua_lionfish_eating_2"
+  ],
+
+  "upgrade_aquatic:mulberry_bread": [
+    "upgrade_aquatic:mulberry_bread",
+    "upgrade_aquatic:mulberry_bread",
+    "eatinganimation:ua_mulberry_bread_eating_0",
+    "eatinganimation:ua_mulberry_bread_eating_1",
+    "eatinganimation:ua_mulberry_bread_eating_2"
+  ],
+
+  "upgrade_aquatic:mulberry": [
+    "upgrade_aquatic:mulberry",
+    "upgrade_aquatic:mulberry",
+    "upgrade_aquatic:mulberry_eating_0",
+    "upgrade_aquatic:mulberry_eating_1",
+    "upgrade_aquatic:mulberry_eating_2"
+  ],
+
+  "upgrade_aquatic:mulberry_jam_bottle": [
+    "upgrade_aquatic:mulberry_jam_bottle",
+    "upgrade_aquatic:mulberry_jam_bottle",
+    "eatinganimation:ua_mulberry_jam_bottle_eating_0",
+    "eatinganimation:ua_mulberry_jam_bottle_eating_1",
+    "eatinganimation:ua_mulberry_jam_bottle_eating_2"
+  ],
+
+  "upgrade_aquatic:mulberry_pie": [
+    "upgrade_aquatic:mulberry_pie",
+    "upgrade_aquatic:mulberry_pie",
+    "eatinganimation:ua_mulberry_pie_eating_0",
+    "eatinganimation:ua_mulberry_pie_eating_1",
+    "eatinganimation:ua_mulberry_pie_eating_2"
+  ],
+
+  "upgrade_aquatic:perch": [
+    "upgrade_aquatic:perch",
+    "upgrade_aquatic:perch",
+    "eatinganimation:ua_perch_eating_0",
+    "eatinganimation:ua_perch_eating_1",
+    "eatinganimation:ua_perch_eating_2"
+  ],
+
+  "upgrade_aquatic:pike": [
+    "upgrade_aquatic:pike",
+    "upgrade_aquatic:pike",
+    "eatinganimation:ua_pike_eating_0",
+    "eatinganimation:ua_pike_eating_1",
+    "eatinganimation:ua_pike_eating_2"
+  ]
+}

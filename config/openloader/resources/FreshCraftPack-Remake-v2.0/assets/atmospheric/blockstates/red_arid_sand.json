@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [ { "model": "atmospheric:block/red_arid_sand", "weight":100 }
+,{ "model": "atmospheric:block/red_arid_sand2", "weight":20 }
+,{ "model": "atmospheric:block/red_arid_sand3", "weight":30 }
+,{ "model": "atmospheric:block/red_arid_sand4", "weight":70 }
+
+ ]   }
+}

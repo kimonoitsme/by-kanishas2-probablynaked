@@ -1,0 +1,41 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "shieldexp:item/griefer_shield_handheld",
+   "textures": {
+		"1": "shieldexp:item/griefer",
+		"particle": "shieldexp:item/griefer"
+	}
+},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "shieldexp:item/griefer_shield_item"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "shieldexp:item/griefer_shield_item"
+		}
+	  },
+	  "fixed": {
+		"parent": "shieldexp:item/griefer_shield_handheld",
+		"textures": {
+		"1": "shieldexp:item/griefer",
+		"particle": "shieldexp:item/griefer"
+		}
+	  }
+	},
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "shieldexp:item/griefer_shield_blocking"
+    }
+  ]
+  }

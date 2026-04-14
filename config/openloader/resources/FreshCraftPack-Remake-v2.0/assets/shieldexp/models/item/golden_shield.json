@@ -1,0 +1,41 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "shieldexp:item/golden_shield_handheld",
+   "textures": {
+		"1": "shieldexp:item/golden",
+		"particle": "shieldexp:item/golden"
+	}
+},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "shieldexp:item/golden_shield_item"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "shieldexp:item/golden_shield_item"
+		}
+	  },
+	  "fixed": {
+	  "parent": "shieldexp:item/golden_shield_handheld",
+   "textures": {
+		"1": "shieldexp:item/golden",
+		"particle": "shieldexp:item/golden"
+		}
+	  }
+	},
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "shieldexp:item/golden_shield_blocking"
+    }
+  ]
+  }

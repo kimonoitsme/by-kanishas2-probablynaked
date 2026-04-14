@@ -1,0 +1,21 @@
+{
+    "name": "§5§lБегемотище",
+    "icon": "phantasm:behemoth_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oГде-то с островов §oэнда, ты можешь §oуслышать храп... $(br)$(br)§o Когда найдёшь §oисточник - не §oразбуди, §oоно §oпросто §oочень §oхочет §oпоспать, §oхоть и §oспит §oуже §oтысячи лет..."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "§oГоворят, §oэти §oчудища - далёкие §oпредки §oДракона Края...",
+            "images": [
+                "patchouli:behenmoth.png"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+minecraft:coal_ore spelunkery:andesite_coal_ore spelunkery:diorite_coal_ore \
+spelunkery:granite_coal_ore spelunkery:tuff_coal_ore minecraft:deepslate_coal_ore \
+minecraft:iron_ore spelunkery:andesite_iron_ore spelunkery:diorite_iron_ore \
+spelunkery:granite_iron_ore spelunkery:tuff_iron_ore minecraft:deepslate_iron_ore \
+galosphere:silver_ore galosphere:deepslate_silver_ore \
+minecraft:copper_ore spelunkery:andesite_copper_ore spelunkery:granite_copper_ore \
+spelunkery:tuff_copper_ore minecraft:deepslate_copper_ore \
+minecraft:gold_ore spelunkery:granite_gold_ore spelunkery:andesite_gold_ore \
+spelunkery:diorite_gold_ore spelunkery:tuff_gold_ore minecraft:deepslate_gold_ore \
+minecraft:redstone_ore spelunkery:andesite_redstone_ore spelunkery:diorite_redstone_ore \
+spelunkery:granite_redstone_ore spelunkery:tuff_redstone_ored spelunkery:calcite_redstone_ore \
+minecraft:deepslate_redstone_ore \
+minecraft:emerald_ore spelunkery:andesite_emerald_ore spelunkery:diorite_emerald_ore \
+spelunkery:tuff_emerald_ore minecraft:deepslate_emerald_ore \
+minecraft:lapis_ore spelunkery:andesite_lapis_ore spelunkery:diorite_lapis_ore \
+spelunkery:granite_lapis_ore spelunkery:tuff_lapis_ore spelunkery:sandstone_lapis_ore \
+minecraft:deepslate_lapis_ore \
+minecraft:diamond_ore spelunkery:andesite_diamond_ore spelunkery:diorite_diamond_ore \
+spelunkery:granite_diamond_ore spelunkery:tuff_diamond_ore spelunkery:smooth_basalt_diamond_ore \
+minecraft:deepslate_diamond_ore \
+spelunkery:andesite_zinc_ore spelunkery:diorite_zinc_ore spelunkery:granite_zinc_ore \

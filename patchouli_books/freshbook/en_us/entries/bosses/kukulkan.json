@@ -1,0 +1,21 @@
+{
+    "name": "§2§lКукулкан",
+    "icon": "call_of_yucutan:kukulkan_spawn_egg",
+    "category": "patchouli:bosses_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oБожество, которое §oты §oсможешь §oпризвать, §oсломав §oего идол в §oхраме §oдревних §oацтеков §oглубоко в §oджунглях!$(br)$(br) §oГоворят, он §oбессмертен, но, §oвозможно, получится §oнаправить его же §oсилу против него §oсамого?..  "
+        },
+        {
+            "type": "image",
+            "border": true,
+            "title": "§6§lХрам ацтеков",
+            "text": " §oИдол Кукулкана в §oпирамиде...",
+            "images": [
+                "patchouli:kukulkan.png"
+            ]
+        }
+    ]
+}

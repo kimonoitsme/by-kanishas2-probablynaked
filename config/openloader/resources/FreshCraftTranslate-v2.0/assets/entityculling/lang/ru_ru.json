@@ -1,0 +1,23 @@
+{
+    "modmenu.descriptionTranslation.entityculling": "Мод, использующий параллельную трассировку путей для определения видимости сущностей и блоков-сущностей, скрытых за блоками.",
+    "text.entityculling.title": "Отбраковка сущностей",
+    "key.entityculling.toggle": "Переключить отбраковку",
+    "key.entityculling.toggleBoxes": "Показать поля отбраковки",
+    "text.entityculling.tab.general_options": "Общие",
+    "text.entityculling.tab.tick_culling": "Пропуск тиков",
+    "text.entityculling.tab.tick_culling.tooltip": "Сущности, выбранные на этой вкладке, не будут иметь оптимизированный метод тикания при скрытии. Это полезно для сущностей, которым нужно тикать для своей работы, например, лодки.",
+    "text.entityculling.tab.entity_culling": "Пропуск сущностей",
+    "text.entityculling.tab.entity_culling.tooltip": "Сущности, выбранные на этой вкладке, вообще не будут скрываться. Это в основном нужно для клиентских сущностей или тех, которые нужно отображать независимо от видимости.",
+    "text.entityculling.tab.block_entity_culling": "Пропуск блочных сущ.",
+    "text.entityculling.tab.block_entity_culling.tooltip": "Блочные сущности, выбранные на этой вкладке, вообще не будут скрываться. Это нужно для тех, что должны отображаться независимо от видимости.",
+    "text.entityculling.renderNametagsThroughWalls": "Отображать имена сквозь стены",
+    "text.entityculling.renderNametagsThroughWalls.tooltip": "Если выключено, скрытые сущности не будут показывать свои имена сквозь стены.",
+    "text.entityculling.tickCulling": "Отключение тиков при скрытии",
+    "text.entityculling.tickCulling.tooltip": "Если включено, скрытые сущности не будут тикать. Это может улучшить производительность, но вызвать ошибки с некоторыми модами. Лучше использовать настройки на других вкладках.",
+    "text.entityculling.disableF3": "Отключить отладку F3",
+    "text.entityculling.disableF3.tooltip": "Если включено, в отладочной информации F3 не будет показываться информация о скрытии сущностей.",
+    "text.entityculling.skipEntityCulling": "Отключить скрытие сущностей",
+    "text.entityculling.skipEntityCulling.tooltip": "Если включено, скрытие сущностей будет полностью отключено. Это может быть полезно для отладки или временного отключения.",
+    "text.entityculling.skipBlockEntityCulling": "Отключить скрытие блочных сущностей",
+    "text.entityculling.skipBlockEntityCulling.tooltip": "Если включено, скрытие блочных сущностей будет полностью отключено. Это может быть полезно для отладки или временного отключения."
+}

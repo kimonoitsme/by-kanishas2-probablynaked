@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "conjurer_illager:item/spawn_egg/conjurer_spawn_egg"
+  }
+}

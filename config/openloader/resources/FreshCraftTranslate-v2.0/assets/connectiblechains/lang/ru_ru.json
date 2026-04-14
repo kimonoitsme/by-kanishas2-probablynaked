@@ -1,0 +1,7 @@
+{
+    "entity.connectiblechains.chain_knot": "Цепной узел",
+    "entity.connectiblechains.chain_collision": "Цепное соединение",
+
+    "message.connectiblechains.connectible_chain": "Совместимо с цепной связью [Shift]",
+    "message.connectiblechains.connectible_chain_detailed": " Кликайте по заборам/оградам, чтобы создать цепную связь!"
+}

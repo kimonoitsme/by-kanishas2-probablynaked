@@ -1,0 +1,6 @@
+{
+  "options.verticalstretch": "Вертикальный масштаб дальности прорисовки",
+  "options.horizontalstretch": "Горизонтальный масштаб дальности прорисовки",
+  "options.verticalstretch.tooltip": "Изменяет вертикальный масштаб (По переменной Y)",
+  "options.horizontalstretch.tooltip": "Изменяет горизонтальный масштаб (По переменным X и Z)"
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "quark:item/spawn_egg/forgotten_spawn_egg"
+  }
+}

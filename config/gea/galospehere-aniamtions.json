@@ -1,0 +1,30 @@
+{
+  "galosphere:golden_lichen_cordyceps": [
+    "galosphere:golden_lichen_cordyceps",
+    "galosphere:golden_lichen_cordyceps",
+    "eatinganimation:ga_golden_lichen_cordyceps_eating_0",
+    "eatinganimation:ga_golden_lichen_cordyceps_eating_1",
+    "eatinganimation:ga_golden_lichen_cordyceps_eating_2"
+  ],
+  "galosphere:lichen_cordyceps": [
+    "galosphere:lichen_cordyceps",
+    "galosphere:lichen_cordyceps",
+    "eatinganimation:ga_lichen_cordyceps_eating_0",
+    "eatinganimation:ga_lichen_cordyceps_eating_1",
+    "eatinganimation:ga_lichen_cordyceps_eating_2"
+  ],
+  "galosphere:preserved_flesh": [
+    "galosphere:preserved_flesh",
+    "galosphere:preserved_flesh",
+    "galosphere:preserved_flesh_animations_0",
+    "galosphere:preserved_flesh_animations_1",
+    "galosphere:preserved_flesh_animations_2"
+  ],
+  "galosphere:salted_jerky": [
+    "galosphere:salted_jerky",
+    "galosphere:salted_jerky",
+    "galosphere:salted_jerky_animations_0",
+    "galosphere:salted_jerky_animations_1",
+    "galosphere:salted_jerky_animations_2"
+  ]
+}

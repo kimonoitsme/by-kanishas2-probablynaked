@@ -1,0 +1,21 @@
+{
+    "name": "§7§lАптрагангр",
+    "icon": "cataclysm:aptrgangr_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 13,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oОгромные воины §oсевера. Стражники §oсамого Маледиктума $(br)$(br)§o Сильнейшие воины и §oохрана... $(br)$(br)§o Сокрушительными §oударами сносят §oжертву с ног."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:aptrgangr.png"
+            ]
+        }
+    ]
+}

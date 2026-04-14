@@ -1,0 +1,17 @@
+{
+  "states": [
+    {
+      "name": "suppsquared:crimson_lantern"
+    }
+  ],
+  "options": {
+    "preset": "custom",
+    "spark": "short_life",
+    "count": 2,
+    "chance": 0.65,
+    "colors": [
+      [0.9, 0.15, 0.2],
+      [0.7, 0.0, 0.4]
+    ]
+  }
+}

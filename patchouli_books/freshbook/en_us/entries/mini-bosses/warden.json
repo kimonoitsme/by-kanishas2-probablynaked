@@ -1,0 +1,21 @@
+{
+    "name": "§3§lХранитель",
+    "icon": "minecraft:warden_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 15,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oСтраж проклятого §oместа, тёмных §oглубин...$(br)§o Никто не должен §oтревожить тишину в §oэтой таинственной §oтьме...$(br)§o Я рекомендую не §oвступать с ним в §oбой, §oа просто тихо §oспрятаться... Он §oслепой, однако всё §oслышит и может$(br)  §oучуять тебя..."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:warden.png"
+            ]
+        }
+    ]
+}

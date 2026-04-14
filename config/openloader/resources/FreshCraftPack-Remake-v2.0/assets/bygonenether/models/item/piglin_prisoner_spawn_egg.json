@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "bygonenether:item/spawn_egg/piglin_prisoner_spawn_egg"
+  }
+}

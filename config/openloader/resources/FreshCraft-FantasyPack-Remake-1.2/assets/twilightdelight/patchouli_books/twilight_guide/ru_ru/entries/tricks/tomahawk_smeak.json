@@ -1,0 +1,16 @@
+{
+  "name": "Вкусности с томагавком",
+  "icon": "twilightdelight:raw_tomahawk_smeak",
+  "category": "twilightdelight:tricks",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "С разной вероятностью вы можете добыть Томагавк у Минотавра и Миношницу с алмазным топором Минотавра."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "twilightdelight:raw_tomahawk_smeak",
+	  "text": "Это ингредиент для приготовления бефстрогановов."
+	}
+  ]
+}

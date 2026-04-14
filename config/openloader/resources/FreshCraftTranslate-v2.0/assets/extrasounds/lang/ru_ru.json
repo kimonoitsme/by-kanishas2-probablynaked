@@ -1,0 +1,16 @@
+{
+  "soundCategory.extrasounds$master": "Дополнительные звуки",
+  "soundCategory.extrasounds$inventory": "Инвентарь",
+  "soundCategory.extrasounds$action": "Действия с предметами",
+  "soundCategory.extrasounds$chat": "Сообщения в чате",
+  "soundCategory.extrasounds$chat_mention": "Упоминания в чате",
+  "soundCategory.extrasounds$effects": "Эффекты/Зелья",
+  "soundCategory.extrasounds$hotbar": "Быстрый доступ",
+  "soundCategory.extrasounds$typing": "Ввод",
+  "soundCategory.extrasounds$item_drop": "Выброс предмета",
+  "soundCategory.extrasounds$empty_hotbar": "Пустой слот панели",
+  "soundCategory.extrasounds$enabled_footstep": "Шаги",
+  "soundCategory.extrasounds$enabled_effects": "Эффекты",
+  "soundCategory.extrasounds$enabled_poof": "Пух!",
+  "tooltip.soundCategory.extrasounds_action": "Эта громкость применяется к взаимодействиям с предметами, блоками и существами."
+}

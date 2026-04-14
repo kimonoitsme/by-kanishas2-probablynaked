@@ -1,0 +1,21 @@
+filename = 'DarkestSouls-Forge1.20.1-1.2.2.5.jar'
+name = 'Darkest Souls'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.2.5'
+
+[download]
+hash = '6c0c10ed8c5bb04e27a8b1e68d849559f22fa3cfb4a9ad18b577f5123a1f95793a75ed284fa3c6e7ca0b96cb19811f123a69442f90238184f688ade4a7226c5d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/w57LPWu0/versions/PB0VpbQD/DarkestSouls-Forge1.20.1-1.2.2.5.jar'
+
+[update.modrinth]
+mod-id = 'w57LPWu0'
+version = 'PB0VpbQD'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'

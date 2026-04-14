@@ -1,0 +1,35 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "builtin/entity",
+	"textures": {
+		"particle": "endermanoverhaul:item/enderman_tooth"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [33, -35, -15],
+			"translation": [3, -5, -2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [33, -35, -15],
+			"translation": [3, -5, -2]
+		},
+		"firstperson_righthand": {
+			"rotation": [10, 0, 7],
+			"translation": [-1.75, -2.25, 1.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [10, 0, 7],
+			"translation": [-1.75, -2.25, 1.75]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [-1.5, -1, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"translation": [0, -2, -3]
+		}
+	}
+}

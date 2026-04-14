@@ -1,0 +1,35 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "twilightforest:item/claymore_32",
+	  "textures": {
+		"layer0": "twilightforest:item/glass_sword_solid_handheld",
+    "layer1": "twilightforest:item/glass_sword_clear_handheld"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "twilightforest:item/glass_sword_solid",
+     "layer1": "twilightforest:item/glass_sword_clear"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "twilightforest:item/glass_sword_solid",
+     "layer1": "twilightforest:item/glass_sword_clear"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "twilightforest:item/glass_sword_solid",
+      "layer1": "twilightforest:item/glass_sword_clear"
+		}
+	  }
+	}
+  }

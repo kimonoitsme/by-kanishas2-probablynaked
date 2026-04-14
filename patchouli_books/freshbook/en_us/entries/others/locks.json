@@ -1,0 +1,40 @@
+{
+    "name": "§7§lКлючи и замки",
+    "icon": "grapeslocks:lock_blank",
+    "category": "patchouli:other_category",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oХочешь спрятать §oчто-то от лишних §oглаз и запереть это §oбез доступа для §oдругих?$(br)$(br)§o Замки и ключи тебе §oв §oпомощь!$(br)$(br)§o Сейчас расскажу, §oкак §oстать §oнастоящим §oключником!"
+        },
+        {
+            "type": "crafting",
+            "title": "§c§lСтол ключника",
+            "text": "$(br)§o Для создания §oключей и замков$(br)§o потребуется §oспециальный стол. §oДалее создай §oзаготовки для ключа §oи замка.",
+            "recipe": "grapeslocks:keymaker_table"
+        },
+        {
+            "type": "crafting",
+            "title": "§7§lЗаготовки",
+            "text": " §oДелаются не сложно",
+            "recipe": "grapeslocks:key_blank",
+            "recipe2": "grapeslocks:lock_blank"
+        },
+        {
+            "border": "true",
+            "title": "§7§lКодирование",
+            "type": "image",
+            "text": "§oДалее соедини их §oвместе на столе, §oчтобы закодировать",
+            "images": [
+                "patchouli:locks.png"
+            ]
+        },
+        {
+            "type": "spotlight",
+            "text": " §oКлючи ты можешь §oобъединять вместе §oдо 4 разных в одной §oсвязке, но да... $(br)$(br)§o Конечно же, замки §oможно взламывать, §oоднако сделать это §oбудет не так-то §oпросто, даже с §oотмычкой...",
+            "title": "§8§lСвязки и §7§lотмычки",
+            "item": "grapeslocks:keyring,grapeslocks:lockpick"
+        }
+    ]
+}

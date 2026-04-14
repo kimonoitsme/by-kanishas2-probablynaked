@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "naturalist:item/spawn_egg/snail_spawn_egg"
+  }
+}

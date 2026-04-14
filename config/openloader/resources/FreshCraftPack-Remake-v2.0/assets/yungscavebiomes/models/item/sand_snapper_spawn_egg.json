@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "yungscavebiomes:item/spawn_egg/sand_snapper_spawn_egg"
+  }
+}

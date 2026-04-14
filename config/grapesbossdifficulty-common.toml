@@ -1,0 +1,12 @@
+
+["Настройки"]
+	#Список сущностей, для которых будет применяться особая логика
+	entities = ["cataclysm:scylla", "cataclysm:ancient_remnant", "cataclysm:maledictus", "cataclysm:ignis", "cataclysm:ender_guardian", "cataclysm:netherite_monstrosity", "cataclysm:the_leviathan", "alexsmobs:void_worm", "minecraft:wither", "call_of_yucutan:ah_puch", "call_of_yucutan:kukulkan"]
+	#Радиус вокруг сущности для подсчета игроков при масштабировании сложности
+	#Range: 1 ~ 200
+	radius = 100
+	#Разрешить ли убивать сущность МНОГО раз?
+	canKillMultipleTimes = false
+	#Список количества раз, сколько можно убить каждую сущность, соответствует порядку в entities
+	numberOfBossKills = [2, 3, 3, 2, 2, 2, 3, 2, 2, 2]
+

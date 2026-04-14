@@ -1,0 +1,28 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "friendsandfoes:block/weathered_lightning_rod"
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "friendsandfoes:item/weathered_lightning_rod"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "friendsandfoes:item/weathered_lightning_rod"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "friendsandfoes:item/weathered_lightning_rod"
+		}
+	  }
+	}
+  }

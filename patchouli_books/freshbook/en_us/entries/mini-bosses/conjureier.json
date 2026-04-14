@@ -1,0 +1,21 @@
+{
+    "name": "§7§lФокусник",
+    "icon": "conjurer_illager:conjurer_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oЛовкость рук и §oникакой магии! Ну §oили §oпочти... $(br)$(br)§o Все зловреды §oсобрались в театре §oради этого §oпредставления, §oосталось только §oотыскать этот театр...$(br)$(br)§o Смертельные карты, §oмагические мячики и §oпрочие трюки..."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:conjurer.png"
+            ]
+        }
+    ]
+}

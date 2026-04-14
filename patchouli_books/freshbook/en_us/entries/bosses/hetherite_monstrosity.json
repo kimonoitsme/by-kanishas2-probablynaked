@@ -1,0 +1,27 @@
+{
+    "name": "§c§lНезер чудище",
+    "icon": "cataclysm:monstrous_horn",
+    "category": "patchouli:bosses_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oГолем-титан, для §oего §oпризыва §oдостаточно §oпросто §oпробудить §oего, §oпройдя на его §oтерриторию.$(br)$(br) §oВстертить его §oможно §oв Кузнице §oдуши..$(br) §oНаносит §oсокрушительные §oудары, ломая кости.$(br)  §oЛава - лечит его. "
+        },
+        {
+            "border": "true",
+            "title": "§6§lКузня Душ",
+            "type": "image",
+            "text": "§oМожно найти в §oНезере...",
+            "images": [
+                "patchouli:kyzn_soul.png"
+            ]
+        },
+        {
+            "type": "crafting",
+            "title": "§6§lЧудовищное Око",
+            "text": "§oПонадобится для §oпоиска Кузни Душ...",
+            "recipe": "cataclysm:monstrous_eye"
+        }
+    ]
+}

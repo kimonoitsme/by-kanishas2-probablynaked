@@ -1,0 +1,51 @@
+{
+    "name": "§c§lКулинария и еда",
+    "icon": "farmersdelight:netherite_knife",
+    "category": "patchouli:diet_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oХочешь заняться §oкулинарией и стать §oнастоящим поваром?$(br)§o Что-ж, вперёд! Ты §oможешь приготовить §oочень много разной §oеды и напитков:$(br)§o начиная от простой §oжрачки, заканчивая §oсложными, §oмногосоставными §oблюдами, дающими §oразные эффекты.."
+        },
+        {
+            "type": "crafting",
+            "title": "§6§lКухонная плита",
+            "recipe": "farmersdelight:stove",
+            "text": "$(br)§o Основным рабочим §oместом любого §oуважающего себя §oповара является, §oконечно же, §oкухонная плита!"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lРазные плиты",
+            "text": " §oТы можешь сделать §oразные плиты в §oНезере и Энде, для §oприготовления §oнеобычных блюд!$(br)$(br)§o Помимо плит, §oпонадобится §oспециальная посуда, §oв которой готовятся §oэти самые блюда.",
+            "item": "farmersdelight:stove,mynethersdelight:nether_bricks_stove,endersdelight:endstone_stove"
+        },
+        {
+            "type": "crafting",
+            "title": "§6§lПосуда для готовки",
+            "recipe": "farmersdelight:skillet",
+            "recipe2": "farmersdelight:cooking_pot",
+            "text": " §oРазогревай масло!"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lРазделочная доска",
+            "text": " §oУникальный §oинструмент, §oпозволяющий не §oтолько разделать §oпродукты с §oпомощью ножа,$(br)§o но и расколоть, §oразрубить, или §oраздробить что-§oлибо §oна части, с §oпомощью §oкирки, §oтопора или §oножниц...",
+            "item": "farmersdelight:cutting_board"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lРазные кухни",
+            "text": " §oРазные рецепты в §oразных уголках и §oмирах, готовь где §oугодно: в пещерах, в §oнезере, в энде или §oдаже в море!$(br)§o Разная еда по-§oразному влияет на §oдиету, накрывай на §oстол и устраивай §oпиры!",
+            "item": "galospheric_delight:allurite_pie,oceanic_delight:stuffed_pufferfish,mynethersdelight:chilidog,miners_delight:pasta_with_veggieballs,endersdelight:pearl_pasta"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lКухня и хранение",
+            "text": " §oСуществует §oмножество §oразнообразных §oящиков, тумбочек, §oполочек и столешниц.$(br)§o С их помощью ты §oсможешь §oприобразить §oсвою §oкухню и §oготовить с §oуютом.$(br)$(br)§o Удачной готовки!",
+            "item": "storagedelight:glass_spruce_cabinet,storagedelight:spruce_cabinet_with_glass_doors,storagedelight:spruce_bookshelf_with_door"
+        }
+
+        
+    ]
+}

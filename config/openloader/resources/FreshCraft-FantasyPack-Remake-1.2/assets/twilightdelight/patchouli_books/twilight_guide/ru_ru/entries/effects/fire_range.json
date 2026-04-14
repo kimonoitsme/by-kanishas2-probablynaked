@@ -1,0 +1,16 @@
+{
+  "name": "Воспламенение",
+  "icon": "twilightforest:torchberries",
+  "category": "twilightdelight:effects",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Этот эффект предотвратит воспламенение игрока и подожжет всех врагов вокруг вас. Обратите внимание, что этот эффект не защищает вас от урона от огня.$(br2)Диапазон действия эффекта отмечен частицами пламени."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "twilightforest:torchberries",
+	  "text": "Можно использовать в напитках и десертах, приготовленных из факелонта"
+	}
+  ]
+}

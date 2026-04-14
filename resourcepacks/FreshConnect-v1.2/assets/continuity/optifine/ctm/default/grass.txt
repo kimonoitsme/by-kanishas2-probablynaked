@@ -1,0 +1,5 @@
+minecraft:sculk minecraft:moss_block immersive_weathering:grassy_earthen_clay minecraft:grass_block \
+minecraft:podzol immersive_weathering:loam minecraft:mycelium atmospheric:crustose \
+immersive_weathering:rooted_grass_block immersive_weathering:grassy_sandy_dirt \
+immersive_weathering:grassy_silt immersive_weathering:grassy_permafrost \
+biomesoplenty:mossy_black_sand 

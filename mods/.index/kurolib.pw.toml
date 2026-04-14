@@ -1,0 +1,17 @@
+filename = 'kurolib-0.2-forge-1.20.1.jar'
+name = 'KuroLIB'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2'
+
+[download]
+hash = 'db978ed9e6ef1678671f09a0c932508ac8aaa3e5f86cb745f7d1012cd6bfbd24d0800a8f0706b9246900c129aa4b45454225567026b26557c41d8e63f3c1ad2c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aNPQU8kd/versions/Vdhf0J0Z/kurolib-0.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'aNPQU8kd'
+version = 'Vdhf0J0Z'

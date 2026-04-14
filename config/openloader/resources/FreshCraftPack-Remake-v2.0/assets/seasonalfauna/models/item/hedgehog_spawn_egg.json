@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "seasonalfauna:item/spawn_egg/hedgehog_spawn_egg"
+  }
+}

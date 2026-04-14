@@ -1,0 +1,21 @@
+{
+    "name": "§c§lКлешниан",
+    "icon": "cataclysm:clawdian_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 12,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oСвоей мощной §oклешнёй они §oкидают огромные §oвалуны. $(br)$(br)§o А своей секирой §oспособны §oраздробить §oжертву §oодним лишь §oударом...$(br)$(br)§o Верные слуги и §oстражи §oбогини §oшторма и §oхаоса."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:clawdian.png"
+            ]
+        }
+    ]
+}

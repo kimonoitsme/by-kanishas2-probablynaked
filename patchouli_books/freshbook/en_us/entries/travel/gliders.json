@@ -1,0 +1,52 @@
+{
+    "name": "§2§lПланеры",
+    "icon": "vc_gliders:paraglider_wood",
+    "category": "patchouli:travel_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oДля удобных и §oбезопасных §oпутешествий тебе §oможет пригодиться §oпланер.$(br)§o Он позволит плавно §oспускаться вниз, §oпрыгая с высоких §oмест.$(br)$(br)§o Горячий воздух §oпоможет взлететь."
+        },
+        {
+            "type": "crafting",
+            "title": "§6§lУлучшенная бумага",
+            "text": "$(br)§o Для создания §oпланера$()§o §oпонадобится §oармированная бумага.$(br) §oОна нужна, в том §oчисле, и для его §oпочинки.",
+            "recipe": "vc_gliders:reinforced_paper"
+        },
+        {
+            "type": "crafting",
+            "title": "§6§lБазовый планер",
+            "text": " §oСоздать §oпланер$()§o уже §oне составит §oособых проблем, за §oисключением одного §oважного §oингридиента...",
+            "recipe": "kubejs:paraglider_wood"
+        },
+        {
+            "type": "spotlight",
+            "text": " §oЭто дивное перо ты §oсможешь раздобыть, §oвырастив §oтаинственное §oсущество из яйца.$(br) §oДам подсказку - §oего можно найти где §oто в джунглях...",
+            "title": "§a§lПеро глайдера",
+            "item": "wan_ancient_beasts:glider_feather"
+        },
+        {
+            "type": "spotlight",
+            "text": " §oАрмированную §oбумагу можно §oукреплять, обложив §oеё нужным §oматериалом на §oверстаке",
+            "title": "§7§lУкрепление",
+            "item": "vc_gliders:reinforced_paper_iron,vc_gliders:reinforced_paper_gold,vc_gliders:reinforced_paper_diamond,vc_gliders:reinforced_paper_netherite"
+        },
+            {
+            "type": "spotlight",
+            "text": " §oМожно создать §oболее прочные §oпланеры$()§o, §oиспользуя §oвместо обычной §oармированной §oбумаги - §oукреплённую. Такие §oпланеры$() §oпрочнее §oобычного.",
+            "title": "§7§lПрочность",
+            "item": "vc_gliders:paraglider_iron,vc_gliders:paraglider_gold,vc_gliders:paraglider_diamond,vc_gliders:paraglider_netherite"
+        },
+        {
+            "type": "text",
+            "text": " §oОднако будь §oосторожен! §oПланер §oможет$() §oсгореть в §oНезере §oили от §oпопадания §oмолнии!$(br)$(br)§o Его можно починить §oна наковальне §oармированной §oбумагой, из которой §oон изготовлен, и на §oней же его можно §oулучшить!$(br)$(br) §oВот как смастерить §oтакие улучшения..."
+        },
+        {
+            "type": "crafting",
+            "title": "§6§lУлучшения",
+            "recipe": "vc_gliders:nether_upgrade",
+            "recipe2": "vc_gliders:copper_upgrade"
+        }
+    ]
+}

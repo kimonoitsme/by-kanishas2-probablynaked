@@ -1,0 +1,10 @@
+{
+  "states": [
+    {
+      "name": "amendments:wall_lantern"
+    }
+  ],
+  "options": {
+    "preset": "lantern"
+  }
+}

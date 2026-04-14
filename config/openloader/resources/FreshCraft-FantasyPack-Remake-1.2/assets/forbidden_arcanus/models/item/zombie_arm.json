@@ -1,0 +1,31 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "forbidden_arcanus:item/zombie_arm_hendheld",
+	  "textures": {
+		"layer0": "forbidden_arcanus:item/zombie_arm"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "forbidden_arcanus:item/zombie_arm_item"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "forbidden_arcanus:item/zombie_arm_item"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "forbidden_arcanus:item/zombie_arm_item"
+		}
+	  }
+	}
+  }

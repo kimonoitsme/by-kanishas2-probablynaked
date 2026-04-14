@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "galosphere:item/spawn_egg/preserved_spawn_egg"
+  }
+}

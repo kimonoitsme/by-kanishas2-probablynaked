@@ -1,0 +1,43 @@
+{
+    "name": "§6§lПиво и закуски",
+    "icon": "brewinandchewin:beer",
+    "sortnum": 4,
+    "category": "patchouli:diet_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oВот ты и спалился, §oподпивас!$(br)§o Ладно, ладно..$(br)§o Пиво - дело §oхорошее, §oно давай §oнемного §oрасскажу, §oкак его §oварить и §oчто §oдля §oэтого нужно!$(br)$(br)§o Для приготовления §oпонадобятся §oсоздать §oнужную §oсреду..."
+        },
+        {
+            "type": "crafting",
+            "title": "§c§lСреда для §3§lварки",
+            "recipe": "brewinandchewin:ice_crate",
+            "recipe2": "brewinandchewin:heating_cask",
+            "text": " §oДалее нужен кег!"
+        },
+        {
+            "type": "crafting",
+            "title": "§6§lКег",
+            "recipe": "brewinandchewin:keg",
+            "text": " §oКег - наш основной §oинструмент для §oварки §oне только §oпива, §oно и §oдругих, §oподнимающих §oнастроение, §oинтересных §oнапитков, §oа также §oдля §oприготовления сыров $(br)§o и закусок!"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lНапитки",
+            "text": " §oРазным напиткам §oдля §oприготовления, §oтребуется разная §oсреда: от холодной §oдо горячей.$(br)$(br)§o В зависимости от §oкомбинаций §oингредиентов и §oсреды, можно §oсделать §oсамые §oразные §oнапитки!",
+            "item": "brewinandchewin:beer,brewinandchewin:egg_grog,brewinandchewin:steel_toe_stout,brewinandchewin:saccharine_rum,brewinandchewin:mead,brewinandchewin:strongroot_ale"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lСыры",
+            "text": " §oПриготовить сыр - §oцелая наука, хотя §oничего сложного в §oобщем-то и нет.$(br)§o Для начала нужно §oего §oсферментировать, §oпосле чего дать ему §oвыдержаться §oнекоторое время в §oсухом месте, вот и §oвсё.",
+            "item": "brewinandchewin:unripe_flaxen_cheese_wheel,brewinandchewin:flaxen_cheese_wheel,brewinandchewin:flaxen_cheese_wedge"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lЗакуски",
+            "text": " §oКроме напитков и §oсыров, ты сможешь §oинтересными §oспособами §oприготовить §oмножество закусок и §oеды, которые §oотлично подойдут к §oнапиткам.$(br)§o Приятного §oрасколбаса, смотри §oне напивайся!",
+            "item": "brewinandchewin:kimchi,brewinandchewin:jerky,brewinandchewin:pickled_pickles,brewinandchewin:kippers"
+        }
+    ]
+}

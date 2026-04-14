@@ -1,0 +1,420 @@
+{
+  "tide:abyss_angler": [
+    "tide:abyss_angler",
+    "tide:abyss_angler",
+    "tide:abyss_angler_eating_0",
+    "tide:abyss_angler_eating_1",
+    "tide:abyss_angler_eating_2"
+  ],
+  "tide:anglerfish": [
+    "tide:anglerfish",
+    "tide:anglerfish",
+    "tide:anglerfish_eating_0",
+    "tide:anglerfish_eating_1",
+    "tide:anglerfish_eating_2"
+  ],
+  "tide:barracuda": [
+    "tide:barracuda",
+    "tide:barracuda",
+    "tide:barracuda_eating_0",
+    "tide:barracuda_eating_1",
+    "tide:barracuda_eating_2"
+  ],
+  "tide:bass": [
+    "tide:bass",
+    "tide:bass",
+    "tide:bass_eating_0",
+    "tide:bass_eating_1",
+    "tide:bass_eating_2"
+  ],
+  "tide:blossom_bass": [
+    "tide:blossom_bass",
+    "tide:blossom_bass",
+    "tide:blossom_bass_eating_0",
+    "tide:blossom_bass_eating_1",
+    "tide:blossom_bass_eating_2"
+  ],
+  "tide:bluegill": [
+    "tide:bluegill",
+    "tide:bluegill",
+    "tide:bluegill_eating_0",
+    "tide:bluegill_eating_1",
+    "tide:bluegill_eating_2"
+  ],
+  "tide:catfish": [
+    "tide:catfish",
+    "tide:catfish",
+    "tide:catfish_eating_0",
+    "tide:catfish_eating_1",
+    "tide:catfish_eating_2"
+  ],
+  "tide:cave_crawler": [
+    "tide:cave_crawler",
+    "tide:cave_crawler",
+    "tide:cave_crawler_eating_0",
+    "tide:cave_crawler_eating_1",
+    "tide:cave_crawler_eating_2"
+  ],
+  "tide:cave_eel": [
+    "tide:cave_eel",
+    "tide:cave_eel",
+    "tide:cave_eel_eating_0",
+    "tide:cave_eel_eating_1",
+    "tide:cave_eel_eating_2"
+  ],
+  "tide:chorus_cod": [
+    "tide:chorus_cod",
+    "tide:chorus_cod",
+    "tide:chorus_cod_eating_0",
+    "tide:chorus_cod_eating_1",
+    "tide:chorus_cod_eating_2"
+  ],
+  "tide:clayfish": [
+    "tide:clayfish",
+    "tide:clayfish",
+    "tide:clayfish_eating_0",
+    "tide:clayfish_eating_1",
+    "tide:clayfish_eating_2"
+  ],
+  "tide:cooked_fish": [
+    "tide:cooked_fish",
+    "tide:cooked_fish",
+    "tide:cooked_fish_eating_0",
+    "tide:cooked_fish_eating_1",
+    "tide:cooked_fish_eating_2"
+  ],
+  "tide:cooked_fish_slice": [
+    "tide:cooked_fish_slice",
+    "tide:cooked_fish_slice",
+    "tide:cooked_fish_slice_eating_0",
+    "tide:cooked_fish_slice_eating_1",
+    "tide:cooked_fish_slice_eating_2"
+  ],
+  "tide:crimson_fangjaw": [
+    "tide:crimson_fangjaw",
+    "tide:crimson_fangjaw",
+    "tide:crimson_fangjaw_eating_0",
+    "tide:crimson_fangjaw_eating_1",
+    "tide:crimson_fangjaw_eating_2"
+  ],
+  "tide:crystalline_carp": [
+    "tide:crystalline_carp",
+    "tide:crystalline_carp",
+    "tide:crystalline_carp_eating_0",
+    "tide:crystalline_carp_eating_1",
+    "tide:crystalline_carp_eating_2"
+  ],
+  "tide:crystal_shrimp": [
+    "tide:crystal_shrimp",
+    "tide:crystal_shrimp",
+    "tide:crystal_shrimp_eating_0",
+    "tide:crystal_shrimp_eating_1",
+    "tide:crystal_shrimp_eating_2"
+  ],
+  "tide:deep_grouper": [
+    "tide:deep_grouper",
+    "tide:deep_grouper",
+    "tide:deep_grouper_eating_0",
+    "tide:deep_grouper_eating_1",
+    "tide:deep_grouper_eating_2"
+  ],
+  "tide:echofin_snapper": [
+    "tide:echofin_snapper",
+    "tide:echofin_snapper",
+    "tide:echofin_snapper_eating_0",
+    "tide:echofin_snapper_eating_1",
+    "tide:echofin_snapper_eating_2"
+  ],
+  "tide:elytrout": [
+    "tide:elytrout",
+    "tide:elytrout",
+    "tide:elytrout_eating_0",
+    "tide:elytrout_eating_1",
+    "tide:elytrout_eating_2"
+  ],
+  "tide:ember_koi": [
+    "tide:ember_koi",
+    "tide:ember_koi",
+    "tide:ember_koi_eating_0",
+    "tide:ember_koi_eating_1",
+    "tide:ember_koi_eating_2"
+  ],
+  "tide:enderfin": [
+    "tide:enderfin",
+    "tide:enderfin",
+    "tide:enderfin_eating_0",
+    "tide:enderfin_eating_1",
+    "tide:enderfin_eating_2"
+  ],
+  "tide:endergazer": [
+    "tide:endergazer",
+    "tide:endergazer",
+    "tide:endergazer_eating_0",
+    "tide:endergazer_eating_1",
+    "tide:endergazer_eating_2"
+  ],
+  "tide:fish_bone": [
+    "tide:fish_bone",
+    "tide:fish_bone",
+    "tide:fish_bone_eating_0"
+  ],
+  "tide:fish_slice": [
+    "tide:fish_slice",
+    "tide:fish_slice",
+    "tide:fish_slice_eating_0",
+    "tide:fish_slice_eating_1",
+    "tide:fish_slice_eating_2"
+  ],
+  "tide:fish_stew": [
+    "tide:fish_stew",
+    "tide:fish_stew",
+    "tide:fish_stew_eating_0",
+    "tide:fish_stew_eating_1",
+    "tide:fish_stew_eating_2"
+  ],
+  "tide:fluttergill": [
+    "tide:fluttergill",
+    "tide:fluttergill",
+    "tide:fluttergill_eating_0",
+    "tide:fluttergill_eating_1",
+    "tide:fluttergill_eating_2"
+  ],
+  "tide:frostbite_flounder": [
+    "tide:frostbite_flounder",
+    "tide:frostbite_flounder",
+    "tide:frostbite_flounder_eating_0",
+    "tide:frostbite_flounder_eating_1",
+    "tide:frostbite_flounder_eating_2"
+  ],
+  "tide:gilded_minnow": [
+    "tide:gilded_minnow",
+    "tide:gilded_minnow",
+    "tide:gilded_minnow_eating_0",
+    "tide:gilded_minnow_eating_1",
+    "tide:gilded_minnow_eating_2"
+  ],
+  "tide:glowfish": [
+    "tide:glowfish",
+    "tide:glowfish",
+    "tide:glowfish_eating_0",
+    "tide:glowfish_eating_1",
+    "tide:glowfish_eating_2"
+  ],
+  "tide:guppy": [
+    "tide:guppy",
+    "tide:guppy",
+    "tide:guppy_eating_0",
+    "tide:guppy_eating_1",
+    "tide:guppy_eating_2"
+  ],
+  "tide:inferno_guppy": [
+    "tide:inferno_guppy",
+    "tide:inferno_guppy",
+    "tide:inferno_guppy_eating_0",
+    "tide:inferno_guppy_eating_1",
+    "tide:inferno_guppy_eating_2"
+  ],
+  "tide:iron_tetra": [
+    "tide:iron_tetra",
+    "tide:iron_tetra",
+    "tide:iron_tetra_eating_0",
+    "tide:iron_tetra_eating_1",
+    "tide:iron_tetra_eating_2"
+  ],
+  "tide:lapis_lanternfish": [
+    "tide:lapis_lanternfish",
+    "tide:lapis_lanternfish",
+    "tide:lapis_lanternfish_eating_0",
+    "tide:lapis_lanternfish_eating_1",
+    "tide:lapis_lanternfish_eating_2"
+  ],
+  "tide:leafback": [
+    "tide:leafback",
+    "tide:leafback",
+    "tide:leafback_eating_0",
+    "tide:leafback_eating_1",
+    "tide:leafback_eating_2"
+  ],
+  "tide:luminescent_jellyfish": [
+    "tide:luminescent_jellyfish",
+    "tide:luminescent_jellyfish",
+    "tide:luminescent_jellyfish_eating_0",
+    "tide:luminescent_jellyfish_eating_1",
+    "tide:luminescent_jellyfish_eating_2"
+  ],
+  "tide:mackerel": [
+    "tide:mackerel",
+    "tide:mackerel",
+    "tide:mackerel_eating_0",
+    "tide:mackerel_eating_1",
+    "tide:mackerel_eating_2"
+  ],
+  "tide:magma_mackerel": [
+    "tide:magma_mackerel",
+    "tide:magma_mackerel",
+    "tide:magma_mackerel_eating_0",
+    "tide:magma_mackerel_eating_1",
+    "tide:magma_mackerel_eating_2"
+  ],
+  "tide:mirage_catfish": [
+    "tide:mirage_catfish",
+    "tide:mirage_catfish",
+    "tide:mirage_catfish_eating_0",
+    "tide:mirage_catfish_eating_1",
+    "tide:mirage_catfish_eating_2"
+  ],
+  "tide:ocean_perch": [
+    "tide:ocean_perch",
+    "tide:ocean_perch",
+    "tide:ocean_perch_eating_0",
+    "tide:ocean_perch_eating_1",
+    "tide:ocean_perch_eating_2"
+  ],
+  "tide:pike": [
+    "tide:pike",
+    "tide:pike",
+    "tide:pike_eating_0",
+    "tide:pike_eating_1",
+    "tide:pike_eating_2"
+  ],
+  "tide:pine_perch": [
+    "tide:pine_perch",
+    "tide:pine_perch",
+    "tide:pine_perch_eating_0",
+    "tide:pine_perch_eating_1",
+    "tide:pine_perch_eating_2"
+  ],
+  "tide:prarie_pike": [
+    "tide:prarie_pike",
+    "tide:prarie_pike",
+    "tide:prarie_pike_eating_0",
+    "tide:prarie_pike_eating_1",
+    "tide:prarie_pike_eating_2"
+  ],
+  "tide:purpur_pike": [
+    "tide:purpur_pike",
+    "tide:purpur_pike",
+    "tide:purpur_pike_eating_0",
+    "tide:purpur_pike_eating_1",
+    "tide:purpur_pike_eating_2"
+  ],
+  "tide:sailfish": [
+    "tide:sailfish",
+    "tide:sailfish",
+    "tide:sailfish_eating_0",
+    "tide:sailfish_eating_1",
+    "tide:sailfish_eating_2"
+  ],
+  "tide:sandskipper": [
+    "tide:sandskipper",
+    "tide:sandskipper",
+    "tide:sandskipper_eating_0",
+    "tide:sandskipper_eating_1",
+    "tide:sandskipper_eating_2"
+  ],
+  "tide:shadow_snapper": [
+    "tide:shadow_snapper",
+    "tide:shadow_snapper",
+    "tide:shadow_snapper_eating_0",
+    "tide:shadow_snapper_eating_1",
+    "tide:shadow_snapper_eating_2"
+  ],
+  "tide:slimefin_snapper": [
+    "tide:slimefin_snapper",
+    "tide:slimefin_snapper",
+    "tide:slimefin_snapper_eating_0",
+    "tide:slimefin_snapper_eating_1",
+    "tide:slimefin_snapper_eating_2"
+  ],
+  "tide:soulscaler": [
+    "tide:soulscaler",
+    "tide:soulscaler",
+    "tide:soulscaler_eating_0",
+    "tide:soulscaler_eating_1",
+    "tide:soulscaler_eating_2"
+  ],
+  "tide:sporestalker": [
+    "tide:sporestalker",
+    "tide:sporestalker",
+    "tide:sporestalker_eating_0",
+    "tide:sporestalker_eating_1",
+    "tide:sporestalker_eating_2"
+  ],
+  "tide:sunspike_goby": [
+    "tide:sunspike_goby",
+    "tide:sunspike_goby",
+    "tide:sunspike_goby_eating_0",
+    "tide:sunspike_goby_eating_1",
+    "tide:sunspike_goby_eating_2"
+  ],
+  "tide:trout": [
+    "tide:trout",
+    "tide:trout",
+    "tide:trout_eating_0",
+    "tide:trout_eating_1",
+    "tide:trout_eating_2"
+  ],
+  "tide:tuna": [
+    "tide:tuna",
+    "tide:tuna",
+    "tide:tuna_eating_0",
+    "tide:tuna_eating_1",
+    "tide:tuna_eating_2"
+  ],
+  "tide:voidseeker": [
+    "tide:voidseeker",
+    "tide:voidseeker",
+    "tide:voidseeker_eating_0",
+    "tide:voidseeker_eating_1",
+    "tide:voidseeker_eating_2"
+  ],
+  "tide:volcano_tuna": [
+    "tide:volcano_tuna",
+    "tide:volcano_tuna",
+    "tide:volcano_tuna_eating_0",
+    "tide:volcano_tuna_eating_1",
+    "tide:volcano_tuna_eating_2"
+  ],
+  "tide:warped_guppy": [
+    "tide:warped_guppy",
+    "tide:warped_guppy",
+    "tide:warped_guppy_eating_0",
+    "tide:warped_guppy_eating_1",
+    "tide:warped_guppy_eating_2"
+  ],
+  "tide:witherfin": [
+    "tide:witherfin",
+    "tide:witherfin",
+    "tide:witherfin_eating_0",
+    "tide:witherfin_eating_1",
+    "tide:witherfin_eating_2"
+  ],
+  "tide:yellow_perch": [
+    "tide:yellow_perch",
+    "tide:yellow_perch",
+    "tide:yellow_perch_eating_0",
+    "tide:yellow_perch_eating_1",
+    "tide:yellow_perch_eating_2"
+  ],
+  "tide:angelfish": [
+    "tide:angelfish",
+    "tide:angelfish",
+    "tide:angelfish_eating_0",
+    "tide:angelfish_eating_1",
+    "tide:angelfish_eating_2"
+  ],
+  "tide:mint_carp": [
+    "tide:mint_carp",
+    "tide:mint_carp",
+    "tide:mint_carp_eating_0",
+    "tide:mint_carp_eating_1",
+    "tide:mint_carp_eating_2"
+  ],
+  "tide:ashen_perch": [
+    "tide:ashen_perch",
+    "tide:ashen_perch",
+    "tide:ashen_perch_eating_0",
+    "tide:ashen_perch_eating_1",
+    "tide:ashen_perch_eating_2"
+  ]
+}

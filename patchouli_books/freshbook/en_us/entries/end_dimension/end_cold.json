@@ -1,0 +1,21 @@
+{
+    "name": "§7§lМороз и пустота",
+    "icon": "trials:wind_charge",
+    "sortnum": 4,
+    "category": "patchouli:end_dimension_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oДа, в энде может §oбыть §oпрохладно... $(br)$(br)§o Рекомендую быть §oготовым к этому, §oпредупреждён - §oзначит вооружён!$(br)$(br)§o И да, будь §oосторожен §oи не §oсвались в §oбездну..."
+        },
+        {
+            "type": "image",
+            "border": true,
+            "title": "§1§lЭнд",
+            "text": " §oПрохладно, но §oкрасиво...",
+            "images": [
+                "patchouli:end_temperature.png"
+            ]
+        }
+    ]
+}

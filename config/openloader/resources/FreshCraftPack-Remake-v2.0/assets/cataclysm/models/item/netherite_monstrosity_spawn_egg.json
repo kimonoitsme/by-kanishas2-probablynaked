@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "cataclysm:item/spawn_egg/netherite_monstrosity_spawn_egg"
+  }
+}

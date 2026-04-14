@@ -1,0 +1,16 @@
+{
+  "grapesadventures:portal_fluid_bottle": [
+    "grapesadventures:portal_fluid_bottle",
+    "grapesadventures:portal_fluid_bottle",
+    "grapesadventures:portal_fluid_bottle_eating_0",
+    "grapesadventures:portal_fluid_bottle_eating_1",
+    "grapesadventures:portal_fluid_bottle_eating_2"
+  ],
+  "grapesadventures:tangle_roots": [
+    "grapesadventures:tangle_roots",
+    "grapesadventures:tangle_roots",
+    "grapesadventures:tangle_roots_eating_0",
+    "grapesadventures:tangle_roots_eating_1",
+    "grapesadventures:tangle_roots_eating_2"
+  ]
+}

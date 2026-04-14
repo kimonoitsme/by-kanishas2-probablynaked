@@ -1,0 +1,8 @@
+{
+    "language_key": "entity.call_of_yucutan.ah_puch.title_2",
+    "texture": "enhanced_boss_bars:textures/gui/boss_bars/ah_puch.png",
+    "texture_width": 189,
+    "texture_height": 48,
+    "x_offset": -95,
+    "y_offset": -15
+}

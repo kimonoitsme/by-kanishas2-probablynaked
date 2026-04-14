@@ -1,0 +1,49 @@
+{
+    "name": "§4§lРаз§3§lно§9§lли§6§lкие",
+    "icon": "creeperoverhaul:mushroom_creeper_spawn_egg",
+    "category": "patchouli:animals_category",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oРазнообразие §oсуществ этого мира §oпоражает...$(br)$(br)§o Даже, казалось бы, §oпривычные монстры - §oмогут быть §oдружелюбны! Всё §oзависит от §oих §oвида, §oа §oих вид §oзависит от §oих §oрасположения и §oклимата..."
+        },
+        {
+            "type": "image",
+            "text": "§oРазные виды §oотличаются §oповедением,",
+            "border": true,
+            "title": "§a§lРазные криперы",
+            "images": [
+                "patchouli:creeper1.png",
+                "patchouli:creeper2.png",
+                "patchouli:creeper3.png",
+                "patchouli:creeper4.png"
+            ]
+        },
+        {
+            "type": "image",
+            "text": "§oособенностями и §oвнешним видом. §oКаждый из них",
+            "border": true,
+            "title": "§5§lРазные эндермены",
+            "images": [
+                "patchouli:enderman1.png",
+                "patchouli:enderman2.png",
+                "patchouli:enderman3.png",
+                "patchouli:enderman4.png",
+                "patchouli:enderman5.png"
+            ]
+        },
+        {
+            "type": "image",
+            "text": "§oпо своему уникален. §oИ по своему опасен...",
+            "border": true,
+            "title": "§2§lРазные зомби",
+            "images": [
+                "patchouli:zombi1.png",
+                "patchouli:zombi2.png",
+                "patchouli:zombi3.png",
+                "patchouli:zombi4.png"
+            ]
+        }
+    ]
+}

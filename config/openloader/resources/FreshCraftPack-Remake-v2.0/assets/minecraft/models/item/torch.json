@@ -1,0 +1,33 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "item/torch_hendheld",
+	  "textures": {
+		"0": "block/torch/torch",
+		"2": "block/torch/torch_fire",
+		"particle": "block/torch/torch"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "item/torch"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "item/torch"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "item/torch"
+		}
+	  }
+	}
+  }

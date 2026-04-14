@@ -1,0 +1,41 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "shieldexp:item/diamond_shield_handheld",
+   "textures": {
+		"1": "shieldexp:item/diamond",
+		"particle": "shieldexp:item/diamond"
+	}
+},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "shieldexp:item/diamond_shield_item"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "shieldexp:item/diamond_shield_item"
+		}
+	  },
+	  "fixed": {
+	  "parent": "shieldexp:item/diamond_shield_handheld",
+   "textures": {
+		"1": "shieldexp:item/diamond",
+		"particle": "shieldexp:item/diamond"
+		}
+	  }
+	},
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "shieldexp:item/diamond_shield_blocking"
+    }
+  ]
+  }

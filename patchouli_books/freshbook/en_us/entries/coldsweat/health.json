@@ -1,0 +1,23 @@
+{
+    "name": "§6§lЗдоровье",
+    "icon": "cold_sweat:filled_waterskin",
+    "category": "patchouli:coldsweat_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oДа, просто так §oгулять по холодной §oТундре или в §oНезере §oс голой §oпятой точкой §oне §oполучится.$(br2)§o Тебе важно §oзащищаться от §oэкстремальных §oтемператур и не §oдопускать §oпереохлаждения или §oтеплового удара!"
+        },
+        {
+            "type": "image",
+            "title": "§6§lТемпера§3§lтура тела",
+            "text": "§oПоддерживай в §oнорме §oтемпературу §oсвоего §oтела.",
+            "border": true,
+            "images": [ 
+                "patchouli:cold_sweat_health.png",
+                "patchouli:cold_sweat_health1.png",
+                "patchouli:cold_sweat_health2.png"
+            ]
+        }
+    ]
+}

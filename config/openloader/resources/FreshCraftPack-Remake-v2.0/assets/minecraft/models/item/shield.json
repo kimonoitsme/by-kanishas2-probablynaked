@@ -1,0 +1,39 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "item/shield_handheld",
+    "textures": {
+        "particle": "block/dark_oak_planks"
+	}
+},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "item/shield_item"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "item/shield_item"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/shield_handheld",
+		"textures": {
+		  "particle": "block/dark_oak_planks"
+		}
+	  }
+	},
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "minecraft:item/shield_blocking"
+        }
+    ]
+  }

@@ -1,0 +1,27 @@
+{
+    "advancements.story.root.title": "Майнкрафт",
+    "advancements.story.enter_the_end.description": "Активируйте портал, используя очи Энда и войдите в него",
+
+    "advancements.story.follow_ender_eye.title": "Недреманные очи",
+    "advancements.story.follow_ender_eye.description": "Собрав 12 разных очей Энда, следуйте за любым из них, оно приведёт вас к порталу",
+
+    "advancements.story.enter_the_nether.description": "Найдите разрушенный портал и с помощью пространственных слёз попадите в Незер",
+
+    "block.minecraft.spawn.not_valid": "У вас нет кровати или заряженного якоря возрождения — возможно, они были сломаны или заражены",
+
+    "rarity.common.name": "Обычное",
+    "rarity.uncommon.name": "Необычное",
+    "rarity.rare.name": "Редкое",
+    "rarity.epic.name": "Эпическое",
+
+    "item.minecraft.scute": "Черепаший щиток",
+    "block.minecraft.lodestone": "Магнетит",
+
+   "item.minecraft.wither_spawn_egg": "Яйцо призыва Визера",
+   "painting.minecraft.wither.title": "Визер - Разрушитель миров",
+   "entity.minecraft.wither": "Визер - Разрушитель миров",
+
+   "key.socialInteractions": "Экран соц. взаимодействий",
+   "key.swapOffhand": "Вторая рука",
+   "key.smoothCamera": "Кинематограф. камера"
+}

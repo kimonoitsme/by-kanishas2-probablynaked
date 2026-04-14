@@ -1,0 +1,14 @@
+{
+  "sounds.coolrain.rain_sounds_metal": "Удары дождя по металлу",
+  "sounds.coolrain.rain_sounds_lava": "Жара иссушает влагу после дождя",
+  "sounds.coolrain.rain_sounds_fabric": "Удары дождя по ткани",
+  "sounds.coolrain.rain_sounds_foliage": "Удары дождя по листьям",
+  "sounds.coolrain.rain_sounds_glass": "Удары дождя по стеклу",
+  "sounds.coolrain.rain_sounds_water": "Удары дождя по воде",
+  "sounds.coolrain.rain_sounds_amethyst": "Дождь заставляет аметист звенеть",
+  "sounds.coolrain.rain_sounds_noteblock": "Дождь заставляет нотный блок звенеть",
+
+  "sounds.coolrain.rain_sounds_metal_muffled": "Приглушенный звук дождя по металлу",
+  "sounds.coolrain.rain_sounds_fabric_muffled": "Приглушенный шум дождя по ткани",
+  "sounds.coolrain.rain_sounds_glass_muffled": "Приглушенный шум дождя по стеклу"
+}

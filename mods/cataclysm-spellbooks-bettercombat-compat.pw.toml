@@ -1,0 +1,13 @@
+name = "Cataclysm: Spellbooks & BetterCombat - Compatibility"
+filename = "cataclysmspells_compat.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ELQuZsJK/versions/1Ri9KCXo/cataclysmspells_compat.jar"
+hash-format = "sha512"
+hash = "ed5f4f833096b74ffefee734334ef144d9203fc374604077edcadf9c7d8e00daa8418b8b41a431c15badf5cc630694e02f9c4618ae8167b796f9064a8fb10081"
+
+[update]
+[update.modrinth]
+mod-id = "ELQuZsJK"
+version = "1Ri9KCXo"

@@ -1,0 +1,88 @@
+{
+    "name": "§7§lВиды оружия",
+    "icon": "dixtas_armory:iron_zweihander",
+    "category": "patchouli:combat_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "text",
+            "text": "§oЕсть разные типы §oоружия, я §oпостарался §oразбить §oих на §oосновные, §oвыбирай, §oс §oчем тебе §oсражаться, в §oзависиомсти от §oсвоего стиля боя. "
+        },
+        {
+            "type": "text",
+            "text": " §oВ основном, всё §oоружие можно §oизготовить из §oобычных материалов §oна верстаке, но §oесть и §oуникальные §oэкземпляры."
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lНожи и Кинжалы",
+            "item": "dixtas_armory:iron_dagger,dixtas_armory:iron_throwing_knife,cataclysm:athame,dixtas_armory:iron_chakram,warriorsofpastepoch:bayonet_knife",
+            "text": "§oСамое лёгкое оружие. §oДля быстрой серий §oатак, на самом §oближнем растоянии, §oзаставит §oпротивника §oврасплох, §oэффективно §oиспользовать два §oсразу! §oНаносит §oмаленький §oурон, §oно §oэто §oкомпенсируется §oвысокой скоростью §oатаки. "
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lРежущие клинковые",
+            "item": "dixtas_armory:iron_shortsword,dixtas_armory:iron_katana_two_handed,dixtas_armory:iron_twinblade,cataclysm:khopesh",
+            "text": "§oУникальное оружие §oближнего боя. §oЛёгкость и острота §oпозволяют наносить §oсмертельные §oкомбинации резких §oударов. Имеют §oсредний урон и §oпозволяют §oиспользовать §oразные §oинтересные §oкомбинации атак."
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lКолющие клинковые",
+            "item": "dixtas_armory:iron_stiletto,dixtas_armory:iron_rapier,warriorsofpastepoch:musketeer_rapier",
+            "text": "§oКолющее оружие, для §oодиночных целей в §oдуэли, эффективно §oпротив §oбронированных §oврагов. Средний §oурон §oи лёгкость §oпозволяют §oбыстро §oи §oэффективно §oнаносить §oпробивающие удары §oпротивнику. "
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lЛёгкие мечи",
+            "item": "minecraft:iron_sword,cataclysm:black_steel_sword,royalvariations:royal_knight_sword,dungeons_plus:leviathan_blade",
+            "text": "§oКлассика. Старый §oдобрый одноручный §oмеч. Самое §oуниверсальное §oоружие, отлично §oсмотрится в §oкомбинации с щитом. §oСредний урон, §oлёгкость и §oдальность §oатаки, §oидеальный §oбаланс."
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lДвуручные мечи",
+            "item": "dixtas_armory:iron_greatsword,dixtas_armory:iron_longsword,dixtas_armory:iron_zweihander",
+            "text": "§oПрорубающее §oуниверсальное §oоружие, §oприемущество - §oэто §oрадиус атаки и §oурон §oпо области, §oно, как §oправило, §oоружие достаточно §oтяжёлое. Можно §oнанести высокий §oурон, зацепив сразу §oнесколько §oпротивников."
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lТяжёлые мечи",
+            "item": "savage_and_ravage:cleaver_of_beheading,cataclysm:the_incinerator",
+            "text": "§oТакие же двуручные §oмечи, требующие ещё §oбольшего §oмастерства, §oкак §oправило редкое и §oогромное оружие с §oтаким же уроном, но §oбыстрые атаки §oнаносить вряд ли §oполучится, для §oнастоящих силачей!"
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lСекиры и топоры",
+            "item": "minecraft:iron_axe,cataclysm:black_steel_axe,royalvariations:royal_knight_axe",
+            "text": "§oЛюбимый выбор §oдворфов.. Одно из §oсамых тяжёлых, но §oсмертоностных §oтипов §oоружия. С его §oпомощью можно §oнаносить медленные, §oно самые сильные §oатаки, главное не §oпромахнуться... "
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lДробящее",
+            "item": "trials:mace,cataclysm:infernal_forge,cataclysm:the_annihilator",
+            "text": "§oТяжёлое и §oуникальное §oоружие, §oкак правило §oнаносит §oогромный §oдробящий §oурон, §oчем-то схоже с §oсекирами §oи §oтопорами, однако §oразмашистыми §oударами попасть по §oпротивнику куда §oпроще."
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lДревковое колющее",
+            "item": "dixtas_armory:iron_spear_two_handed,dixtas_armory:iron_pike,cataclysm:ancient_spear,cataclysm:astrape,cataclysm:coral_spear",
+            "text": "§oОружие для атак по §oцели на расстоянии. §oКак правило, §oсредний урон, для §oбронебойных, §oпробивающих, но §oмедленных атак, §oможно наносить §oдостаточно высокий §oурон с безопасного §oрасстояния."
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lДревковое рубящее",
+            "item": "dixtas_armory:iron_halberd,dixtas_armory:iron_glaive,cataclysm:coral_bardiche,dixtas_armory:iron_twinblade",
+            "text": "§oОружие для атак по §oцели на расстоянии. §oКак правило, §oвысокий урон, для §oпрорубающих, но §oмедленных атак, §oможно наносить §oдостаточно высокий §oурон с безопасного §oрасстояния."
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lМетательное",
+            "item": "minecraft:bow,minecraft:crossbow,dixtas_armory:iron_shuriken,dixtas_armory:iron_throwing_knife,dixtas_armory:iron_chakram",
+            "text": "§oОружие для ведения §oбоя на дальнем §oрасстоянии, §oпозволяет избежать §oпрямого контакта и §oполучение урона от §oударов ближнего боя §oпротивника. Однако, §oкак правило, имеет §oплохое пробивание §oщита и брони."
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lСтрелк. пороховое",
+            "item": "warriorsofpastepoch:pistol,warriorsofpastepoch:musket",
+            "text": "§oОружие для ведения §oбоя на дальнем §oрасстоянии, имеет §oпреимущества, как и §oметательное. §oНаносит § больше §oурона, пробивая §oброню, однако имеет §oдорогостоящие §oснаряды и §oмедленную §oперезарядку."
+        }
+    ]
+}

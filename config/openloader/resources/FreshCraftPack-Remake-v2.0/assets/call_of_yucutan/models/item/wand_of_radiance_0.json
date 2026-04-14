@@ -1,0 +1,7 @@
+{
+  "parent": "call_of_yucutan:custom/wand_of_randiance",
+  "textures": {
+    "0": "call_of_yucutan:block/wand_charge",
+    "particle": "call_of_yucutan:item/wand"
+  }
+}

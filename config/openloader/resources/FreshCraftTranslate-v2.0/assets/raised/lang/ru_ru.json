@@ -1,0 +1,41 @@
+{
+    "commands.raised.config.reload": "Конфигурация Raised перезагружена",
+    "commands.raised.config.reset": "Конфигурация Raised сброшена до настроек по умолчанию",
+
+    "commands.raised.layer.displacement.x.query": "Смещение по оси X у %s сейчас: %dpx",
+    "commands.raised.layer.displacement.x.set": "Смещение по оси X у %s установлено на: %dpx",
+    "commands.raised.layer.displacement.y.query": "Смещение по оси Y у %s сейчас: %dpx",
+    "commands.raised.layer.displacement.y.set": "Смещение по оси Y у %s установлено на: %dpx",
+    "commands.raised.layer.direction.x.query": "Направление по оси X у %s сейчас: %s",
+    "commands.raised.layer.direction.x.set": "Направление по оси X у %s установлено на: %s",
+    "commands.raised.layer.direction.y.query": "Направление по оси Y у %s сейчас: %s",
+    "commands.raised.layer.direction.y.set": "Направление по оси Y у %s установлено на: %s",
+    "commands.raised.layer.sync.query": "Синхронизируемый слой у %s сейчас: %s",
+    "commands.raised.layer.sync.set": "Синхронизируемый слой у %s установлен на: %s",
+    "commands.raised.layer.unknown": "Неизвестный слой %s",
+
+    "key.categories.raised.raised": "Нижняя панель игрока",
+
+    "key.raised.options": "Настройки панели",
+
+    "options.raised.title": "Настройки Raised",
+
+    "options.raised.displacement.x": "Смещение (X)",
+    "options.raised.displacement.x.tooltip": "Смещение слоя по оси X.\nМаксимальное значение ползунка — четверть ширины экрана (с учётом масштаба).",
+    "options.raised.displacement.y": "Смещение (Y)",
+    "options.raised.displacement.y.tooltip": "Смещение слоя по оси Y.\nМаксимальное значение ползунка — четверть высоты экрана (с учётом масштаба).",
+
+    "options.raised.direction.x": "Направление (X)",
+    "options.raised.direction.x.left": "Влево",
+    "options.raised.direction.x.none": "Нет",
+    "options.raised.direction.x.right": "Вправо",
+    "options.raised.direction.x.tooltip": "Направление смещения слоя по оси X.",
+    "options.raised.direction.y": "Направление (Y)",
+    "options.raised.direction.y.up": "Вверх",
+    "options.raised.direction.y.none": "Нет",
+    "options.raised.direction.y.down": "Вниз",
+    "options.raised.direction.y.tooltip": "Направление смещения слоя по оси Y.",
+
+    "options.raised.sync": "Синхронизация",
+    "options.raised.sync.tooltip": "Синхронизируемый слой.\nЗаменяет смещение слоя настройками слоя %s."
+}

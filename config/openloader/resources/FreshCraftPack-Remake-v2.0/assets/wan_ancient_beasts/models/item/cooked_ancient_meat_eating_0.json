@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "wan_ancient_beasts:item/cooked_ancient_meat_eating_0"
+  }
+}

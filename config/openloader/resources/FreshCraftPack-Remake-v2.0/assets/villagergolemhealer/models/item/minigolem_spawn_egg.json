@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "villagergolemhealer:item/spawn_egg/minigolem_spawn_egg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "states": [
+    {
+      "name": "upgrade_aquatic:tooth_lantern"
+    }
+  ],
+  "options": {
+    "preset": "lantern",
+    "colors": [
+      [1.0, 0.9, 0.6],
+      [0.6, 0.9, 1.0]
+    ]
+  }
+}

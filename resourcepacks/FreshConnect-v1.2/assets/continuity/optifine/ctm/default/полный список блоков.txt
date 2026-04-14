@@ -1,0 +1,45 @@
+# Раассыпчатые
+biomesoplenty:white_sand minecraft:sand yungscavebiomes:ancient_sand \
+atmospheric:arid_sand biomesoplenty:orange_sand atmospheric:red_arid_sand \
+minecraft:red_sand biomesoplenty:black_sand minecraft:gravel minecraft:soul_sand \
+minecraft:soul_soil minecraft:suspicious_sand betterarcheology:suspicious_red_sand \
+yungscavebiomes:suspicious_ancient_sand atmospheric:suspicious_red_arid_sand \
+atmospheric:suspicious_arid_sand \
+# Покровные
+minecraft:sculk minecraft:moss_block immersive_weathering:grassy_earthen_clay minecraft:grass_block \
+minecraft:podzol immersive_weathering:loam minecraft:mycelium atmospheric:crustose \
+immersive_weathering:rooted_grass_block immersive_weathering:grassy_sandy_dirt \
+immersive_weathering:grassy_silt immersive_weathering:grassy_permafrost \
+biomesoplenty:mossy_black_sand \
+# Рыхлые
+minecraft:dirt minecraft:coarse_dirt minecraft:rooted_dirt betterarcheology:fossiliferous_dirt \
+betterarcheology:suspicious_dirt immersive_weathering:sandy_dirt immersive_weathering:silt \
+supernatural:grave_soil minecraft:clay minecraft:mud minecraft:muddy_mangrove_roots \
+minecraft:packed_mud
+# Руды
+minecraft:coal_ore spelunkery:andesite_coal_ore spelunkery:diorite_coal_ore \
+spelunkery:granite_coal_ore spelunkery:tuff_coal_ore minecraft:deepslate_coal_ore \
+minecraft:iron_ore spelunkery:andesite_iron_ore spelunkery:diorite_iron_ore \
+spelunkery:granite_iron_ore spelunkery:tuff_iron_ore minecraft:deepslate_iron_ore \
+galosphere:silver_ore galosphere:deepslate_silver_ore \
+minecraft:copper_ore spelunkery:andesite_copper_ore spelunkery:granite_copper_ore \
+spelunkery:tuff_copper_ore minecraft:deepslate_copper_ore \
+minecraft:gold_ore spelunkery:granite_gold_ore spelunkery:andesite_gold_ore \
+spelunkery:diorite_gold_ore spelunkery:tuff_gold_ore minecraft:deepslate_gold_ore \
+minecraft:redstone_ore spelunkery:andesite_redstone_ore spelunkery:diorite_redstone_ore \
+spelunkery:granite_redstone_ore spelunkery:tuff_redstone_ored spelunkery:calcite_redstone_ore \
+minecraft:deepslate_redstone_ore \
+minecraft:emerald_ore spelunkery:andesite_emerald_ore spelunkery:diorite_emerald_ore \
+spelunkery:tuff_emerald_ore minecraft:deepslate_emerald_ore \
+minecraft:lapis_ore spelunkery:andesite_lapis_ore spelunkery:diorite_lapis_ore \
+spelunkery:granite_lapis_ore spelunkery:tuff_lapis_ore spelunkery:sandstone_lapis_ore \
+minecraft:deepslate_lapis_ore \
+minecraft:diamond_ore spelunkery:andesite_diamond_ore spelunkery:diorite_diamond_ore \
+spelunkery:granite_diamond_ore spelunkery:tuff_diamond_ore spelunkery:smooth_basalt_diamond_ore \
+minecraft:deepslate_diamond_ore \
+spelunkery:andesite_zinc_ore spelunkery:diorite_zinc_ore spelunkery:granite_zinc_ore \
+# Породы
+minecraft:stone minecraft:deepslate minecraft:granite minecraft:diorite \
+minecraft:andesite minecraft:calcite minecraft:tuff minecraft:dripstone_block \
+quark:limestone quark:jasper quark:shale minecraft:smooth_basalt \
+minecraft:blackstone minecraft:netherrack minecraft:end_stone quark:myalite immersive_weathering:vitrified_sand

@@ -1,0 +1,43 @@
+{
+    "loader": "forge:separate_transforms",
+    "gui_light": "front",
+
+    "base": {
+    "parent": "royalvariations:item/royal_knight_shield_hendheld",
+	"textures": {
+		"0": "royalvariations:item/royal_knight_shield",
+		"particle": "royalvariations:item/royal_knight_shield"
+        }
+    },
+
+    "perspectives": {
+        "gui": {
+            "parent": "item/generated",
+            "textures": {
+                "layer0": "royalvariations:item/royalknightsshield_item"
+            },
+            "gui_light": "front"
+        },
+        "ground": {
+            "parent": "item/generated",
+            "textures": {
+                "layer0": "royalvariations:item/royalknightsshield_item"
+            }
+        },
+        "fixed": {
+    "parent": "royalvariations:item/royal_knight_shield_hendheld",
+	"textures": {
+		"0": "royalvariations:item/royal_knight_shield",
+		"particle": "royalvariations:item/royal_knight_shield"
+            }
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "royalvariations:item/royal_knight_shield_blocking"
+        }
+    ]
+}

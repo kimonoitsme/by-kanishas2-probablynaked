@@ -1,0 +1,31 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "archers:item/base/bow_20",
+	  "textures": {
+		"layer0": "archers:item/crystal_longbow_pulling_1"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "archers:item/crystal_longbow_pulling_item_1"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "archers:item/crystal_longbow_pulling_item_1"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "archers:item/crystal_longbow_pulling_item_1"
+		}
+	  }
+  }
+}

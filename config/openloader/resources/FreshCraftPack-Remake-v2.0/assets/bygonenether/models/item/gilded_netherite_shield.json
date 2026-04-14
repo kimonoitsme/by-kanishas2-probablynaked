@@ -1,0 +1,39 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "item/shield",
+   "textures": {
+        "particle": "block/crimson_planks"
+	}
+},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "bygonenether:item/gilded_netherite_shield_item"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "bygonenether:item/gilded_netherite_shield_item"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/shield",
+	"textures": {
+			"particle": "block/crimson_planks"
+		}
+	  }
+	},
+  "overrides": [
+    {
+      "predicate": {
+        "bygonenether:blocking": 1
+      },
+      "model": "bygonenether:item/gilded_netherite_shield_blocking"
+    }
+  ]
+  }

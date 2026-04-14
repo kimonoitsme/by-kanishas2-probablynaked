@@ -1,0 +1,7 @@
+{
+  "item.minecraft.potion.effect.levitation_slow_fall.effect": "Эффект пёрышка",
+  "item.minecraft.potion.effect.levitation_slow_fall": "Зелье пёрышка",
+  "item.minecraft.splash_potion.effect.levitation_slow_fall": "Взрывное зелье пёрышка",
+  "item.minecraft.lingering_potion.effect.levitation_slow_fall": "Туманное зелье пёрышка",
+  "item.minecraft.tipped_arrow.effect.levitation_slow_fall": "Стрела с эффектом пёрышка"
+}

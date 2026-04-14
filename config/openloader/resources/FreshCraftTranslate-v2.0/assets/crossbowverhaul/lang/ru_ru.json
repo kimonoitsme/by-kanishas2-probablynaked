@@ -1,0 +1,19 @@
+{
+    "item.crossbowverhaul.bolt_iron": "Железный болт",
+    "item.crossbowverhaul.bolt_gold": "Золотой болт",
+    "item.crossbowverhaul.bolt_diamond": "Алмазный болт",
+    "item.crossbowverhaul.bolt_netherite": "Незеритовый болт",
+    "item.crossbowverhaul.bolt_explosive": "Взрывной болт",
+    
+    "item.crossbowverhaul.crossbow_netherite": "Незеритовый арбалет",
+	
+	"item.crossbowverhaul.tooltip.hold_shift": "\u00A79Удерживайте \u00A7f[\u00A7eSHIFT\u00A7f]\u00A79, чтобы увидеть больше",
+	"item.crossbowverhaul.boltdamagetooltip": "\u00A79Базовый урон болта: %d",
+	
+	"item.crossbowverhaul.bolt_iron.tooltip": "\u00A79Обычный болт из железа",
+	"item.crossbowverhaul.bolt_gold.tooltip": "\u00A79Блестит",
+	"item.crossbowverhaul.bolt_diamond.tooltip": "\u00A79Болт, сделанный из алмазов",
+	"item.crossbowverhaul.bolt_netherite.tooltip": "\u00A79Наиболее усовершенствованная версия болта",
+	"item.crossbowverhaul.bolt_explosive.tooltip": "\u00A79Арбалетный болт.\u00A7c ВЗРЫВАЕТСЯ ПРИ УДАРЕ!"
+	
+}   

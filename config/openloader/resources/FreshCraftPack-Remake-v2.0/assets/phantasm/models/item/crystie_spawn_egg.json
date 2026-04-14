@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "phantasm:item/spawn_egg/crystie_spawn_egg"
+  }
+}

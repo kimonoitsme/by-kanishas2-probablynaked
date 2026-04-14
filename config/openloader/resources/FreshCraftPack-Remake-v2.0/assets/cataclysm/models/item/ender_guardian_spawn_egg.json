@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "cataclysm:item/spawn_egg/ender_guardian_spawn_egg"
+  }
+}

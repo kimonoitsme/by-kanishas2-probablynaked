@@ -1,0 +1,241 @@
+{
+  "farmersrespite:black_cod": [
+    "farmersrespite:black_cod",
+    "farmersrespite:black_cod",
+    "farmersrespite:black_cod_eating_0",
+    "farmersrespite:black_cod_eating_1",
+    "farmersrespite:black_cod_eating_2"
+  ],
+  "farmersrespite:black_tea": [
+    "farmersrespite:black_tea",
+    "farmersrespite:black_tea",
+    "farmersrespite:black_tea_eating_0",
+    "farmersrespite:black_tea_eating_1",
+    "farmersrespite:black_tea_eating_2"
+  ],
+  "farmersrespite:blazing_chili": [
+    "farmersrespite:blazing_chili",
+    "farmersrespite:blazing_chili",
+    "farmersrespite:blazing_chili_eating_0",
+    "farmersrespite:blazing_chili_eating_1",
+    "farmersrespite:blazing_chili_eating_2"
+  ],
+  "farmersrespite:coffee_berries": [
+    "farmersrespite:coffee_berries",
+    "farmersrespite:coffee_berries",
+    "farmersrespite:coffee_berries_eating_0",
+    "farmersrespite:coffee_berries_eating_1",
+    "farmersrespite:coffee_berries_eating_2"
+  ],
+  "farmersrespite:coffee_cake_slice": [
+    "farmersrespite:coffee_cake_slice",
+    "farmersrespite:coffee_cake_slice",
+    "farmersrespite:coffee_cake_slice_eating_0",
+    "farmersrespite:coffee_cake_slice_eating_1",
+    "farmersrespite:coffee_cake_slice_eating_2"
+  ],
+  "farmersrespite:coffee": [
+    "farmersrespite:coffee",
+    "farmersrespite:coffee",
+    "farmersrespite:coffee_eating_0",
+    "farmersrespite:coffee_eating_1",
+    "farmersrespite:coffee_eating_2"
+  ],
+  "farmersrespite:dandelion_tea": [
+    "farmersrespite:dandelion_tea",
+    "farmersrespite:dandelion_tea",
+    "farmersrespite:dandelion_tea_eating_0",
+    "farmersrespite:dandelion_tea_eating_1",
+    "farmersrespite:dandelion_tea_eating_2"
+  ],
+  "farmersrespite:gamblers_tea": [
+    "farmersrespite:gamblers_tea",
+    "farmersrespite:gamblers_tea",
+    "farmersrespite:gamblers_tea_eating_0",
+    "farmersrespite:gamblers_tea_eating_1",
+    "farmersrespite:gamblers_tea_eating_2"
+  ],
+  "farmersrespite:green_tea": [
+    "farmersrespite:green_tea",
+    "farmersrespite:green_tea",
+    "farmersrespite:green_tea_eating_0",
+    "farmersrespite:green_tea_eating_1",
+    "farmersrespite:green_tea_eating_2"
+  ],
+  "farmersrespite:purulent_tea": [
+    "farmersrespite:purulent_tea",
+    "farmersrespite:purulent_tea",
+    "farmersrespite:purulent_tea_eating_0",
+    "farmersrespite:purulent_tea_eating_1",
+    "farmersrespite:purulent_tea_eating_2"
+  ],
+  "farmersrespite:rose_hip_pie_slice": [
+    "farmersrespite:rose_hip_pie_slice",
+    "farmersrespite:rose_hip_pie_slice",
+    "farmersrespite:rose_hip_pie_slice_eating_0",
+    "farmersrespite:rose_hip_pie_slice_eating_1",
+    "farmersrespite:rose_hip_pie_slice_eating_2"
+  ],
+  "farmersrespite:rose_hip_tea": [
+    "farmersrespite:rose_hip_tea",
+    "farmersrespite:rose_hip_tea",
+    "farmersrespite:rose_hip_tea_eating_0",
+    "farmersrespite:rose_hip_tea_eating_1",
+    "farmersrespite:rose_hip_tea_eating_2"
+  ],
+  "farmersrespite:tea_curry": [
+    "farmersrespite:tea_curry",
+    "farmersrespite:tea_curry",
+    "farmersrespite:tea_curry_eating_0",
+    "farmersrespite:tea_curry_eating_1",
+    "farmersrespite:tea_curry_eating_2"
+  ],
+  "farmersrespite:yellow_tea": [
+    "farmersrespite:yellow_tea",
+    "farmersrespite:yellow_tea",
+    "farmersrespite:yellow_tea_eating_0",
+    "farmersrespite:yellow_tea_eating_1",
+    "farmersrespite:yellow_tea_eating_2"
+  ],
+  "farmersrespite:green_tea_cookie": [
+    "farmersrespite:green_tea_cookie",
+    "farmersrespite:green_tea_cookie",
+    "farmersrespite:green_tea_cookie_eating_0",
+    "farmersrespite:green_tea_cookie_eating_1",
+    "farmersrespite:green_tea_cookie_eating_2"
+  ],
+  "farmersrespite:nether_wart_sourdough": [
+    "farmersrespite:nether_wart_sourdough",
+    "farmersrespite:nether_wart_sourdough",
+    "farmersrespite:nether_wart_sourdough_eating_0",
+    "farmersrespite:nether_wart_sourdough_eating_1",
+    "farmersrespite:nether_wart_sourdough_eating_2"
+  ],
+  "farmersrespite:long_black_tea": [
+    "farmersrespite:black_tea",
+    "farmersrespite:black_tea",
+    "farmersrespite:black_tea_eating_0",
+    "farmersrespite:black_tea_eating_1",
+    "farmersrespite:black_tea_eating_2"
+  ],
+  "farmersrespite:long_yellow_tea": [
+    "farmersrespite:yellow_tea",
+    "farmersrespite:yellow_tea",
+    "farmersrespite:yellow_tea_eating_0",
+    "farmersrespite:yellow_tea_eating_1",
+    "farmersrespite:yellow_tea_eating_2"
+  ],
+  "farmersrespite:long_green_tea": [
+    "farmersrespite:green_tea",
+    "farmersrespite:green_tea",
+    "farmersrespite:green_tea_eating_0",
+    "farmersrespite:green_tea_eating_1",
+    "farmersrespite:green_tea_eating_2"
+  ],
+  "farmersrespite:long_purulent_tea": [
+    "farmersrespite:purulent_tea",
+    "farmersrespite:purulent_tea",
+    "farmersrespite:purulent_tea_eating_0",
+    "farmersrespite:purulent_tea_eating_1",
+    "farmersrespite:purulent_tea_eating_2"
+  ],
+  "farmersrespite:long_dandelion_tea": [
+    "farmersrespite:dandelion_tea",
+    "farmersrespite:dandelion_tea",
+    "farmersrespite:dandelion_tea_eating_0",
+    "farmersrespite:dandelion_tea_eating_1",
+    "farmersrespite:dandelion_tea_eating_2"
+  ],
+  "farmersrespite:long_coffee": [
+    "farmersrespite:coffee",
+    "farmersrespite:coffee",
+    "farmersrespite:coffee_eating_0",
+    "farmersrespite:coffee_eating_1",
+    "farmersrespite:coffee_eating_2"
+  ],
+  "farmersrespite:long_gamblers_tea": [
+    "farmersrespite:gamblers_tea",
+    "farmersrespite:gamblers_tea",
+    "farmersrespite:gamblers_tea_eating_0",
+    "farmersrespite:gamblers_tea_eating_1",
+    "farmersrespite:gamblers_tea_eating_2"
+  ],
+  "farmersrespite:long_rose_hip_tea": [
+    "farmersrespite:rose_hip_tea",
+    "farmersrespite:rose_hip_tea",
+    "farmersrespite:rose_hip_tea_eating_0",
+    "farmersrespite:rose_hip_tea_eating_1",
+    "farmersrespite:rose_hip_tea_eating_2"
+  ],
+  "farmersrespite:strong_black_tea": [
+    "farmersrespite:black_tea",
+    "farmersrespite:black_tea",
+    "farmersrespite:black_tea_eating_0",
+    "farmersrespite:black_tea_eating_1",
+    "farmersrespite:black_tea_eating_2"
+  ],
+  "farmersrespite:strong_yellow_tea": [
+    "farmersrespite:yellow_tea",
+    "farmersrespite:yellow_tea",
+    "farmersrespite:yellow_tea_eating_0",
+    "farmersrespite:yellow_tea_eating_1",
+    "farmersrespite:yellow_tea_eating_2"
+  ],
+  "farmersrespite:strong_green_tea": [
+    "farmersrespite:green_tea",
+    "farmersrespite:green_tea",
+    "farmersrespite:green_tea_eating_0",
+    "farmersrespite:green_tea_eating_1",
+    "farmersrespite:green_tea_eating_2"
+  ],
+  "farmersrespite:strong_purulent_tea": [
+    "farmersrespite:purulent_tea",
+    "farmersrespite:purulent_tea",
+    "farmersrespite:purulent_tea_eating_0",
+    "farmersrespite:purulent_tea_eating_1",
+    "farmersrespite:purulent_tea_eating_2"
+  ],
+  "farmersrespite:strong_dandelion_tea": [
+    "farmersrespite:dandelion_tea",
+    "farmersrespite:dandelion_tea",
+    "farmersrespite:dandelion_tea_eating_0",
+    "farmersrespite:dandelion_tea_eating_1",
+    "farmersrespite:dandelion_tea_eating_2"
+  ],
+  "farmersrespite:strong_coffee": [
+    "farmersrespite:coffee",
+    "farmersrespite:coffee",
+    "farmersrespite:coffee_eating_0",
+    "farmersrespite:coffee_eating_1",
+    "farmersrespite:coffee_eating_2"
+  ],
+  "farmersrespite:strong_gamblers_tea": [
+    "farmersrespite:gamblers_tea",
+    "farmersrespite:gamblers_tea",
+    "farmersrespite:gamblers_tea_eating_0",
+    "farmersrespite:gamblers_tea_eating_1",
+    "farmersrespite:gamblers_tea_eating_2"
+  ],
+  "farmersrespite:strong_rose_hip_tea": [
+    "farmersrespite:rose_hip_tea",
+    "farmersrespite:rose_hip_tea",
+    "farmersrespite:rose_hip_tea_eating_0",
+    "farmersrespite:rose_hip_tea_eating_1",
+    "farmersrespite:rose_hip_tea_eating_2"
+  ],
+  "farmersrespite:strong_hot_cocoa": [
+    "farmersdelight:hot_cocoa",
+    "farmersdelight:hot_cocoa",
+    "eatinganimation:fd_hot_cocoa_eating_0",
+    "eatinganimation:fd_hot_cocoa_eating_1",
+    "eatinganimation:fd_hot_cocoa_eating_2"
+  ],
+
+  "farmersrespite:strong_melon_juice": [
+    "farmersdelight:melon_juice",
+    "farmersdelight:melon_juice",
+    "eatinganimation:fd_melon_juice_eating_0",
+    "eatinganimation:fd_melon_juice_eating_1",
+    "eatinganimation:fd_melon_juice_eating_2"
+  ]
+}

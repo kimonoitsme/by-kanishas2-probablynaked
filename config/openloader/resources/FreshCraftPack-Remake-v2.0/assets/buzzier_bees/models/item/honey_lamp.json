@@ -1,0 +1,28 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "buzzier_bees:block/honey_lamp"
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "buzzier_bees:item/honey_lamp"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "buzzier_bees:item/honey_lamp"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "buzzier_bees:item/honey_lamp"
+		}
+	  }
+	}
+  }

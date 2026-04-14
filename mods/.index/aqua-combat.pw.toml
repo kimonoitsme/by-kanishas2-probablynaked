@@ -1,0 +1,17 @@
+filename = 'aquacombat 1.2.jar'
+name = 'Aqua Combat'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1', '1.20.2', '1.20.2', '1.20.3', '1.20.3', '1.20.4', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2'
+
+[download]
+hash = 'ec3ee9e31e3c8f76b1aec9a3ace0f0bfbeda0d5c9db89a57bd6e9bce4284b5fe693060b66b2e3d429f3c51558c0017d2d0d25700fd67c0b2e2b22b446b86eb53'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k9CzFr8q/versions/xpvwkYL7/aquacombat 1.2.jar'
+
+[update.modrinth]
+mod-id = 'k9CzFr8q'
+version = 'xpvwkYL7'

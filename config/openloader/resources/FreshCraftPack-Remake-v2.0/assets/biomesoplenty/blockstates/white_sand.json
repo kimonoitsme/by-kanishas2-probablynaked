@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [ { "model": "biomesoplenty:block/white_sand", "weight":100 }
+,{ "model": "biomesoplenty:block/white_sand2", "weight":20 }
+,{ "model": "biomesoplenty:block/white_sand3", "weight":30 }
+,{ "model": "biomesoplenty:block/white_sand4", "weight":70 }
+
+ ]   }
+}

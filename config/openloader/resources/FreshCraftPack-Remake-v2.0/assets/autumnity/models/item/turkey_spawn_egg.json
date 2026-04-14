@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "autumnity:item/spawn_egg/turkey_spawn_egg"
+  }
+}

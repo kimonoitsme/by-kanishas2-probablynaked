@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "galospheric_delight:item/specterpillar_eating_0"
+  }
+}

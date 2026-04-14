@@ -1,0 +1,30 @@
+{
+    "name": "§1§lЧервь пустоты",
+    "icon": "alexsmobs:void_worm_eye",
+    "category": "patchouli:bosses_category",
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oЗагадочные §oмежпространствен§oн§o§oые §oпаразиты... §oХодят §oлегенды, что §oони §oзародились §oещё §oдо §oостровов, §oкогда §oбыла §oлишь §oпустота...$(br)$(br)§o Его можно §oприманить. §oДля §oначала создай §oЛичинку багрового §oкомара. §oЭто один из §oэтапов §oпризыва червя..."
+        },
+        {
+            "type": "crafting",
+            "title": "§c§lЛичинка",
+            "text": " §oПосле чего тебе §oпонадобиться Капсид.$(br2)§o Добыть его можно с §oЭндериофагов, §oпоявляющихся в §oпустоше Энда.",
+            "recipe": "alexsmobs:mosquito_larva"
+        },
+        {
+            "type": "spotlight",
+            "text": " §oПоставь Капсид и §oзасунь в него §oЛичинку. Произойдёт §oтрансмутация и на §oвыходе ты получишь §oТаинственного §oчервя...$(br2)§o Его нужно сбросить §oв пустоту, чтобы §oприманить$(br2)  §oЧервя §oпустоты.",
+            "title": "§d§lКапсид",
+            "item": "alexsmobs:capsid,alexsmobs:mosquito_larva,alexsmobs:mysterious_worm"
+        },
+        {   
+            "title": "§2§lИнформация",
+            "type": "spotlight",
+            "item": "alexsmobs:animal_dictionary",
+            "text": " §oВся информация по §oнему описана в §oЭнциклопедии Алекса."
+        }
+    ]
+}

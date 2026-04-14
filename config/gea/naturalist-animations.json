@@ -1,0 +1,107 @@
+{
+  "naturalist:bushmeat": [
+    "naturalist:bushmeat",
+    "naturalist:bushmeat",
+    "naturalist:bushmeat_animations_0",
+    "naturalist:bushmeat_animations_1",
+    "naturalist:bushmeat_animations_2"
+  ],
+  "naturalist:cooked_bushmeat": [
+    "naturalist:cooked_bushmeat",
+    "naturalist:cooked_bushmeat",
+    "naturalist:cooked_bushmeat_animations_0",
+    "naturalist:cooked_bushmeat_animations_1",
+    "naturalist:cooked_bushmeat_animations_2"
+  ],
+  "naturalist:cooked_lizard_tail": [
+    "naturalist:cooked_lizard_tail",
+    "naturalist:cooked_lizard_tail",
+    "naturalist:cooked_lizard_tail_animations_0",
+    "naturalist:cooked_lizard_tail_animations_1",
+    "naturalist:cooked_lizard_tail_animations_2"
+  ],
+  "naturalist:lizard_tail": [
+    "naturalist:lizard_tail",
+    "naturalist:lizard_tail",
+    "naturalist:lizard_tail_animations_0",
+    "naturalist:lizard_tail_animations_1",
+    "naturalist:lizard_tail_animations_2"
+  ],
+  "naturalist:bass": [
+    "naturalist:bass",
+    "naturalist:bass",
+    "naturalist:bass_eating_0",
+    "naturalist:bass_eating_1",
+    "naturalist:bass_eating_2"
+  ],
+  "naturalist:catfish": [
+    "naturalist:catfish",
+    "naturalist:catfish",
+    "naturalist:catfish_eating_0",
+    "naturalist:catfish_eating_1",
+    "naturalist:catfish_eating_2"
+  ],
+  "naturalist:cooked_bass": [
+    "naturalist:cooked_bass",
+    "naturalist:cooked_bass",
+    "naturalist:cooked_bass_eating_0",
+    "naturalist:cooked_bass_eating_1",
+    "naturalist:cooked_bass_eating_2"
+  ],
+  "naturalist:cooked_catfish": [
+    "naturalist:cooked_catfish",
+    "naturalist:cooked_catfish",
+    "naturalist:cooked_catfish_eating_0",
+    "naturalist:cooked_catfish_eating_1",
+    "naturalist:cooked_catfish_eating_2"
+  ],
+  "naturalist:cooked_drumstick": [
+    "naturalist:cooked_drumstick",
+    "naturalist:cooked_drumstick",
+    "naturalist:cooked_drumstick_eating_0",
+    "naturalist:cooked_drumstick_eating_1",
+    "naturalist:cooked_drumstick_eating_2"
+  ],
+  "naturalist:cooked_duck": [
+    "naturalist:cooked_duck",
+    "naturalist:cooked_duck",
+    "naturalist:cooked_duck_eating_0",
+    "naturalist:cooked_duck_eating_1",
+    "naturalist:cooked_duck_eating_2"
+  ],
+  "naturalist:cooked_egg": [
+    "naturalist:cooked_egg",
+    "naturalist:cooked_egg",
+    "naturalist:cooked_egg_eating_0",
+    "naturalist:cooked_egg_eating_1",
+    "naturalist:cooked_egg_eating_2"
+  ],
+  "naturalist:cooked_venison": [
+    "naturalist:cooked_venison",
+    "naturalist:cooked_venison",
+    "naturalist:cooked_venison_eating_0",
+    "naturalist:cooked_venison_eating_1",
+    "naturalist:cooked_venison_eating_2"
+  ],
+  "naturalist:duck": [
+    "naturalist:duck",
+    "naturalist:duck",
+    "naturalist:duck_eating_0",
+    "naturalist:duck_eating_1",
+    "naturalist:duck_eating_2"
+  ],
+  "naturalist:raw_drumstick": [
+    "naturalist:raw_drumstick",
+    "naturalist:raw_drumstick",
+    "naturalist:raw_drumstick_eating_0",
+    "naturalist:raw_drumstick_eating_1",
+    "naturalist:raw_drumstick_eating_2"
+  ],
+  "naturalist:venison": [
+    "naturalist:venison",
+    "naturalist:venison",
+    "naturalist:venison_eating_0",
+    "naturalist:venison_eating_1",
+    "naturalist:venison_eating_2"
+  ]
+}

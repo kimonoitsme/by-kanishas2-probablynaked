@@ -1,0 +1,21 @@
+{
+    "name": "§8§lСолевой",
+    "icon": "galosphere:berserker_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 5,
+     "pages": [
+        {
+            "type": "text",
+            "text": " §oСила соли.. Да, §oлучше §oне спрашивай... $(br)$(br)§o Где-то в глубине §oсолёных пещер, есть §oсооружение §oстранной §oдревней §oцивилизации...$(br)$(br)§o Они изучали §oсвойства и магию §oсоли, видимо, что-то §oпошло не так..."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:berserker.png"
+            ]
+        }
+    ]
+}

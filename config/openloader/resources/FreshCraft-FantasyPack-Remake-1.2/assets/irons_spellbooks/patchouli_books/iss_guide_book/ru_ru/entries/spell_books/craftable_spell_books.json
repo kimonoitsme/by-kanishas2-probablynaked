@@ -1,0 +1,54 @@
+{
+  "name": "Основные книги",
+  "icon": "irons_spellbooks:iron_spell_book",
+  "category": "irons_spellbooks:root",
+  "sortnum": 1,
+  "read_by_default" : true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Создаваемые книги заклинаний",
+      "text": "Многие книги заклинаний могут быть изготовлены из комбинации обычных и магических материалов. При создании каждого следующего уровня увеличивается количество слотов в книге заклинаний и часто предоставляются дополнительные бонусы, увеличивающие силу и количество заклинаний, которые она может содержать."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:copper_spell_book",
+      "recipe2": "irons_spellbooks:iron_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:gold_spell_book",
+      "recipe2": "irons_spellbooks:diamond_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:netherite_spell_book",
+      "recipe2": "irons_spellbooks:dragonskin_spell_book"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Именованные книги заклинаний",
+      "text": "Именованные книги заклинаний можно найти во многих уголках мира, и они часто предлагают бонусы удачливым искателям приключений, которые ищут их в нужных местах."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:rotten_spell_book",
+      "text": "Книга, которая, возможно, когда-то была более могущественной, с тех пор истлела, и от неё осталось всего три страницы. Тем не менее, она по-прежнему более могущественна, чем большинство книг с заклинаниями Верхнего мира. Её можно найти в таких же гнилых местах по всему Верхнему миру."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:villager_spell_book",
+      "text": "Обычная книга с небольшим благословением станет подходящим каналом для божественной магии. Завоевав репутацию среди жителей деревни, особенно освободив пленников от Похитителей архивов, вы в конечном итоге получите её в свои руки."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blaze_spell_book",
+      "text": "При каждом пожаре, сами того не ведая, они прячут что-нибудь из этого. Хитрость в том, чтобы убить их и надеяться, что они не превратятся в пепел."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:druidic_spell_book",
+      "text": "В Книге друидов всё ещё сохраняется сильная магическая энергия. Книга может быть заново благословлена, если будет применено надлежащее средство."
+    }
+  ]
+}

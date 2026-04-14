@@ -1,0 +1,18 @@
+{
+    "name": "§6§lТайны незера",
+    "icon": "bygonenether:warped_ender_pearl",
+    "category": "patchouli:nether_dimension_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oНезер полон таин и §oнеобычных §oсооружений. Пиглины §oмогут хранить много §oсекретов...$(br)§o Но ещё больше §oвопросов вызывают §oвизер существа.$(br)$(br)§o Стоит хорошенько §oего изучить, удачи §oтебе в этом опасном §oделе... "
+        },
+        {
+            "type": "image",
+            "border": true,
+            "images": [
+                "patchouli:nether_other.png"
+            ]
+        }
+    ]
+}

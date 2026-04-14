@@ -1,0 +1,39 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "cataclysm:item/azure_sea_shield_handheld",
+    "textures": {
+        "particle": "cataclysm:block/azure_seastone"
+	}
+},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "cataclysm:item/azure_sea_shield_item"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "cataclysm:item/azure_sea_shield_item"
+		}
+	  },
+	  "fixed": {
+	  "parent": "cataclysm:item/azure_sea_shield_handheld",
+    "textures": {
+        "particle": "cataclysm:block/azure_seastone"
+		}
+	  }
+	},
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "cataclysm:item/azure_sea_shield_blocking"
+        }
+    ]
+  }

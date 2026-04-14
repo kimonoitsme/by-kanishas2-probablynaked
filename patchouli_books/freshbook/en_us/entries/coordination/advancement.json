@@ -1,0 +1,34 @@
+{
+    "name": "§7§lКвесты?",
+    "icon": "minecraft:filled_map",
+    "priority": true,
+    "category": "patchouli:coordination_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "§oХочешь иметь §oпонятие, куда тебе §oдвигаться дальше? §oТебе помогут новые §6§o§nдостижения!$(br2)§oДостигать чего-то §oбывает полезно, §oчтобы понять, куда §oдвигаться дальше..."
+        },
+        {
+            "type": "image",
+            "text": "§oТам тебя ждут целые §oкатегории с ветками!",
+            "title": "§6§lДостижения",
+            "border": true,
+            "images": [
+                    "patchouli:adv_inv.png"
+            ]
+        },
+        {
+            "type": "image",
+            "title": "",
+            "border": true,
+            "text": "§oТы можешь §oпереходить в §oдостижения",
+            "images": [
+                    "patchouli:adv_notif.png"
+            ]
+        },
+        {
+            "type": "text",
+            "text": "§oсразу, как только §oузнаешь о том, что §oсмог!$(br2)§oСтремись к своим §oцелям и достигай §oбольшего, пройдя §oчерез все §oиспытания и §oприключения этого §oмира!"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "§5§lКорол. эндермен",
+    "icon": "royalvariations:royal_enderman_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "text",
+            "text": "§oВысшая ступень §oэволюции §oэндерменов...$(br2) §oПросто гуляя по §oмиру, можно §oнаткнуться на §oтакого §oнеприятного §oсоперника...$(br2) §oЕго хитрость и §oмагия §oмогут §oзастать врасплох..."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:royal_enderman.png"
+            ]
+        }
+    ]
+}

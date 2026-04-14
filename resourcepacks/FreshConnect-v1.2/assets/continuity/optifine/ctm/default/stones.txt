@@ -1,0 +1,7 @@
+immersive_weathering:vitrified_sand end_stone \
+netherrack blackstone create:veridium create:scorchia \
+create:scoria create:ochrum create:limestone create:crimsite create:asurine \
+arts_and_crafts:white_chalk immersive_weathering:permafrost spelunkery:nephrite \
+smooth_basalt quark:shale quark:jasper quark:limestone dripstone_block \
+tuff calcite andesite diorite \
+granite deepslate stone quark:myalite \

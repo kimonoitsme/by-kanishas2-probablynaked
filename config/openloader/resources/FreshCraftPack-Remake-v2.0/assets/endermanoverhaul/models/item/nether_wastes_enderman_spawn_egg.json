@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "endermanoverhaul:item/spawn_egg/nether_wastes_enderman_spawn_egg"
+  }
+}

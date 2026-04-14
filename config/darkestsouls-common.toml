@@ -1,0 +1,74 @@
+
+[config]
+	#Set to false to disable special attacks on common weapons
+	do_special_attacks = true
+	#Set to false to disable special attackson left click on special weapons
+	do_special_weapon_attacks_left_click = true
+	#Set to false to disable special attacks on right click on special weapons
+	do_special_weapon_attacks_right_click = true
+	#Set to false to disable blood particles
+	do_blood_particles = true
+
+[spawnconfig]
+	#Spawn configs:
+	#Set to false to disable Mad Hollow
+	spawn_mad_hollow = true
+	#Set to false to disable Gravetender Hollow (All Types)
+	spawn_gravetender_hollow = true
+	#Set to false to disable Hollow Soldier (Longsword)
+	spawn_hollow_longsword = true
+	#Set to false to disable Hollow Soldier (Crossbow)
+	spawn_hollow_crossbow = true
+	#Set to false to disable Hollow Soldier (Axe)
+	spawn_hollow_axe = true
+	#Set to false to disable Hollow Assassin
+	spawn_hollow_assassin = true
+	#Set to false to disable Huntsman (Axe)
+	spawn_huntsman_axe = true
+	#Set to false to disable Huntsman (Cutlass)
+	spawn_huntsman_cutlass = true
+	#Set to false to disable Huntsman (Pitchfork)
+	spawn_huntsman_pitchfork = true
+	#Set to false to disable Huntsman (Rifle)
+	spawn_huntsman_rifle = true
+	#Set to false to disable Skeleton (Falchion)
+	spawn_skeleton_falchion = true
+	#Set to false to disable Skeleton (Spear)
+	spawn_skeleton_spear = true
+	#Set to false to disable Skeleton (Curved Swords)
+	spawn_skeleton_curved_swords = true
+	#Set to false to disable Skeleton Swordsman (Twin Shotels)
+	spawn_skeleton_swordsman_twin_shotels = true
+	#Set to false to disable Bonewheel
+	spawn_bonewheel = true
+	#Set to false to disable Beast Patient (Naked)
+	spawn_beast_patient = true
+	#Set to false to disable Beast Patient (Cloaked)
+	spawn_cloaked_beast_patient = true
+	#Set to false to disable Beast Patient (Powerful)
+	spawn_ashen_blood_beast_patient = true
+	#Set to false to disable Church Doctor (Normal Variants)
+	spawn_church_doctor = true
+	#Set to false to disable Church Doctor (Crucifix)
+	spawn_church_doctor_scythe = true
+	#Set to false to disable Sewer Centipede
+	spawn_sewer_centipede = true
+	#Set to false to disable Monstruosity of Sin
+	spawn_monstruosity_of_sin = true
+	#Set to false to disable Leech
+	spawn_leech = true
+	#Set to false to disable Darkwraith
+	spawn_darkwraith = true
+	#Set to false to disable Gravetender Hollow Groups
+	spawn_gravetender_hollow_group = true
+	#Set to false to disable Hollow Soldier Groups
+	spawn_hollow_soldier_group = true
+	#Set to false to disable Huntsman Groups
+	spawn_huntsman_group = true
+	#Set to false to disable Church Doctor Groups
+	spawn_church_doctor_group = true
+	#Set to false to disable Beast Patient Groups
+	spawn_beast_patient_group = true
+	#Set to false to disable Skeleton Groups
+	spawn_skeleton_group = true
+

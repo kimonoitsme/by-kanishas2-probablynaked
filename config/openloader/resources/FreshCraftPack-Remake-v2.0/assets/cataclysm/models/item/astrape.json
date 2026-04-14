@@ -1,0 +1,39 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "cataclysm:item/astrape_hendheld",
+      "textures": {
+       "particle": "cataclysm:item/astrape_item"
+	}
+},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "cataclysm:item/astrape_item"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "cataclysm:item/astrape_item"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "cataclysm:item/astrape_item"
+		}
+	  }
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"blocking": 1
+			},
+			"model": "cataclysm:item/astrape_throwing"
+		}
+	]
+  }

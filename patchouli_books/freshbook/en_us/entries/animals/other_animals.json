@@ -1,0 +1,46 @@
+{
+    "name": "§6§lЗвери и питомцы",
+    "icon": "cnb:lizard_spawn_egg",
+    "category": "patchouli:animals_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oТут ты встретишь и §oдиких кабанов с §oоленями, и разных §oптиц с насекомыми, и §oдаже капибару в §oмангровых балотах!$(br)$(br)§o Некоторых милых §oсуществ можно §oприручить, на §oнекоторых §oполучится §oтолько §oохотиться! "
+        },
+        {
+            "type": "image",
+            "text": " §oНе все из них §oдружелюбны...",
+            "border": true,
+            "title": "§2§lЗверьки",
+            "images": [
+                "patchouli:animal1.png",
+                "patchouli:animal2.png",
+                "patchouli:animal3.png",
+                "patchouli:animal4.png",
+                "patchouli:animal5.png",
+                "patchouli:animal6.png"
+            ]
+        },
+        {
+            "type": "spotlight",
+            "text": " §oПриручение - это §oдело такое... К §oкаждой §oживотинке §oнужен свой §oподход. §oКто-то любит §oкосточки, кто-то §oяблоки. Если всё же §oудалось приручить, §oнеси §oответственность и §oухаживай за §oпитомцем!",
+            "title": "§6§lПриручение",
+            "item": "domesticationinnovation:collar_tag,domesticationinnovation:collar_tag,domesticationinnovation:deed_of_ownership"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lИнструменты",
+            "item": "domesticationinnovation:feather_on_a_stick,domesticationinnovation:rotten_apple,domesticationinnovation:sinister_carrot",
+            "text": " §oДрессируй питомца - §oСидеть, Гулять, §oРядом... Ты не можешь §oбить своего питомца - §oзапомни это! §oМожешь §oприручить §oхоть §oлягушку, хоть §oзайца, §oхоть лисицу, §oхочешь §oзомби §oлошадь - §oскорми ей §oгнилое §oяблоко, или §oзловещую §oморковь.. "
+        },
+        {
+            "type": "text",
+            "text": "$(br)§o Лежанка позволит §oвозраждаться §oпитомцу, после §oтого, §oкак он на ней §oпоспит, §oесли вдруг §oс §oним §oчто-то §oслучится..$(br)§o Перо на палочке §oпозволит выманить §oили поиграть с §oпитомцем. Можешь §oпередать права §oдругому владельцу."
+        },
+        {
+            "type": "text",
+            "text": "$(br) §oА можешь усилить §oпитомца, зачаровав §oжетон и §oповесив §oего на питомца!"
+        }
+    ]
+}

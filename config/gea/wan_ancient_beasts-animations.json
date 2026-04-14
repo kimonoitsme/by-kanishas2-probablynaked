@@ -1,0 +1,37 @@
+{
+  "wan_ancient_beasts:cooked_ancient_meat": [
+    "wan_ancient_beasts:cooked_ancient_meat",
+    "wan_ancient_beasts:cooked_ancient_meat",
+    "wan_ancient_beasts:cooked_ancient_meat_eating_0",
+    "wan_ancient_beasts:cooked_ancient_meat_eating_1",
+    "wan_ancient_beasts:cooked_ancient_meat_eating_2"
+  ],
+  "wan_ancient_beasts:cooked_toxlacanth": [
+    "wan_ancient_beasts:cooked_toxlacanth",
+    "wan_ancient_beasts:cooked_toxlacanth",
+    "wan_ancient_beasts:cooked_toxlacanth_eating_0",
+    "wan_ancient_beasts:cooked_toxlacanth_eating_1",
+    "wan_ancient_beasts:cooked_toxlacanth_eating_2"
+  ],
+  "wan_ancient_beasts:frozen_ancient_meat": [
+    "wan_ancient_beasts:frozen_ancient_meat",
+    "wan_ancient_beasts:frozen_ancient_meat",
+    "wan_ancient_beasts:frozen_ancient_meat_eating_0",
+    "wan_ancient_beasts:frozen_ancient_meat_eating_1",
+    "wan_ancient_beasts:frozen_ancient_meat_eating_2"
+  ],
+  "wan_ancient_beasts:raw_ancient_meat": [
+    "wan_ancient_beasts:raw_ancient_meat",
+    "wan_ancient_beasts:raw_ancient_meat",
+    "wan_ancient_beasts:raw_ancient_meat_eating_0",
+    "wan_ancient_beasts:raw_ancient_meat_eating_1",
+    "wan_ancient_beasts:raw_ancient_meat_eating_2"
+  ],
+  "wan_ancient_beasts:toxlacanth": [
+    "wan_ancient_beasts:toxlacanth",
+    "wan_ancient_beasts:toxlacanth",
+    "wan_ancient_beasts:toxlacanth_eating_0",
+    "wan_ancient_beasts:toxlacanth_eating_1",
+    "wan_ancient_beasts:toxlacanth_eating_2"
+  ]
+}

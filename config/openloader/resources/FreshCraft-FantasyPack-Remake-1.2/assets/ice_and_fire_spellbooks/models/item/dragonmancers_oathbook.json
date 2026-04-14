@@ -1,0 +1,31 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "ice_and_fire_spellbooks:item/dragonmancers_oathbook_model",
+	  "textures": {
+		"0": "ice_and_fire_spellbooks:item/spell_books/dragonmancers_oathbook_model"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "ice_and_fire_spellbooks:item/dragonmancers_oathbook"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "ice_and_fire_spellbooks:item/dragonmancers_oathbook"
+		}
+	  },
+	  "fixed": {
+		"parent": "ice_and_fire_spellbooks:item/dragonmancers_oathbook_model",
+	  	"textures": {
+		"0": "ice_and_fire_spellbooks:item/spell_books/dragonmancers_oathbook_model"
+		}
+	  }
+	}
+  }

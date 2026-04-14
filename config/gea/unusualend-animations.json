@@ -1,0 +1,170 @@
+{
+  "unusualend:raw_bluk": [
+    "unusualend:bluk",
+    "unusualend:bluk",
+    "unusualend:bluk_eating_0",
+    "unusualend:bluk_eating_1",
+    "unusualend:bluk_eating_2"
+  ],
+  "unusualend:bluk_skewer": [
+    "unusualend:bluk_skewer",
+    "unusualend:bluk_skewer",
+    "unusualend:bluk_skewer_eating_0",
+    "unusualend:bluk_skewer_eating_1",
+    "unusualend:bluk_skewer_eating_2"
+  ],
+  "unusualend:bolok_fin": [
+    "unusualend:bolok_fin",
+    "unusualend:bolok_fin",
+    "unusualend:bolok_fin_eating_0",
+    "unusualend:bolok_fin_eating_1",
+    "unusualend:bolok_fin_eating_2"
+  ],
+  "unusualend:chorus_juice": [
+    "unusualend:chorus_juice",
+    "unusualend:chorus_juice",
+    "unusualend:chorus_juice_eating_0",
+    "unusualend:chorus_juice_eating_1",
+    "unusualend:chorus_juice_eating_2"
+  ],
+  "unusualend:chorus_petal": [
+    "unusualend:chorus_petal",
+    "unusualend:chorus_petal",
+    "unusualend:chorus_petal_eating_0",
+    "unusualend:chorus_petal_eating_1",
+    "unusualend:chorus_petal_eating_2"
+  ],
+  "unusualend:citrine_gum": [
+    "unusualend:citrine_gum",
+    "unusualend:citrine_gum",
+    "unusualend:citrine_gum_eating_0",
+    "unusualend:citrine_gum_eating_1",
+    "unusualend:citrine_gum_eating_2"
+  ],
+  "unusualend:cooked_bluk": [
+    "unusualend:cooked_bluk",
+    "unusualend:cooked_bluk",
+    "unusualend:cooked_bluk_eating_0",
+    "unusualend:cooked_bluk_eating_1",
+    "unusualend:cooked_bluk_eating_2"
+  ],
+  "unusualend:cooked_bolok_fin": [
+    "unusualend:cooked_bolok_fin",
+    "unusualend:cooked_bolok_fin",
+    "unusualend:cooked_bolok_fin_eating_0",
+    "unusualend:cooked_bolok_fin_eating_1",
+    "unusualend:cooked_bolok_fin_eating_2"
+  ],
+  "unusualend:end_blob_jelly": [
+    "unusualend:end_blob_jelly",
+    "unusualend:end_blob_jelly",
+    "unusualend:end_blob_jelly_eating_0",
+    "unusualend:end_blob_jelly_eating_1",
+    "unusualend:end_blob_jelly_eating_2"
+  ],
+  "unusualend:blob_stew": [
+    "unusualend:end_blob_stew",
+    "unusualend:end_blob_stew",
+    "unusualend:end_blob_stew_eating_0",
+    "unusualend:end_blob_stew_eating_1",
+    "unusualend:end_blob_stew_eating_2"
+  ],
+  "unusualend:ender_stew": [
+    "unusualend:ender_stew",
+    "unusualend:ender_stew",
+    "unusualend:ender_stew_eating_0",
+    "unusualend:ender_stew_eating_1",
+    "unusualend:ender_stew_eating_2"
+  ],
+  "unusualend:bluk_au_chocolat": [
+    "unusualend:fish_au_chocolat",
+    "unusualend:fish_au_chocolat",
+    "unusualend:fish_au_chocolat_eating_0",
+    "unusualend:fish_au_chocolat_eating_1",
+    "unusualend:fish_au_chocolat_eating_2"
+  ],
+  "unusualend:gloopilon_slice": [
+    "unusualend:gloopilon_slice",
+    "unusualend:gloopilon_slice",
+    "unusualend:gloopilon_slice_eating_0",
+    "unusualend:gloopilon_slice_eating_1",
+    "unusualend:gloopilon_slice_eating_2"
+  ],
+  "unusualend:prismatic_gum": [
+    "unusualend:prismatic_gum",
+    "unusualend:prismatic_gum",
+    "unusualend:prismatic_gum_eating_0",
+    "unusualend:prismatic_gum_eating_1",
+    "unusualend:prismatic_gum_eating_2"
+  ],
+  "unusualend:shiny_gum": [
+    "unusualend:shiny_gum",
+    "unusualend:shiny_gum",
+    "unusualend:shiny_gum_eating_0",
+    "unusualend:shiny_gum_eating_1",
+    "unusualend:shiny_gum_eating_2"
+  ],
+  "unusualend:chorus_tea": [
+    "unusualend:tea",
+    "unusualend:tea",
+    "unusualend:tea_eating_0",
+    "unusualend:tea_eating_1",
+    "unusualend:tea_eating_2"
+  ],
+  "unusualend:wandering_stew": [
+    "unusualend:wandering_stew",
+    "unusualend:wandering_stew",
+    "unusualend:wandering_stew_eating_0",
+    "unusualend:wandering_stew_eating_1",
+    "unusualend:wandering_stew_eating_2"
+  ],
+  "unusualend:warped_berries": [
+    "unusualend:warped_berry",
+    "unusualend:warped_berry",
+    "unusualend:warped_berry_eating_0",
+    "unusualend:warped_berry_eating_1",
+    "unusualend:warped_berry_eating_2"
+  ],
+  "unusualend:warped_infusion": [
+    "unusualend:warped_infusion",
+    "unusualend:warped_infusion",
+    "unusualend:warped_infusion_eating_0",
+    "unusualend:warped_infusion_eating_1",
+    "unusualend:warped_infusion_eating_2"
+  ],
+  "unusualend:warped_potion": [
+    "unusualend:warped_potion",
+    "unusualend:warped_potion",
+    "unusualend:warped_potion_eating_0",
+    "unusualend:warped_potion_eating_1",
+    "unusualend:warped_potion_eating_2"
+  ],
+  "unusualend:warped_squash_wedge": [
+    "unusualend:warped_squash_wedge",
+    "unusualend:warped_squash_wedge",
+    "unusualend:warped_squash_wedge_eating_0",
+    "unusualend:warped_squash_wedge_eating_1",
+    "unusualend:warped_squash_wedge_eating_2"
+  ],
+  "unusualend:warped_stew": [
+    "unusualend:warped_stew",
+    "unusualend:warped_stew",
+    "unusualend:warped_stew_eating_0",
+    "unusualend:warped_stew_eating_1",
+    "unusualend:warped_stew_eating_2"
+  ],
+  "unusualend:green_tea_cookie": [
+    "unusualend:green_tea_cookie",
+    "unusualend:green_tea_cookie",
+    "unusualend:green_tea_cookie_eating_0",
+    "unusualend:green_tea_cookie_eating_1",
+    "unusualend:green_tea_cookie_eating_2"
+  ],
+  "unusualend:nether_wart_sourdough": [
+    "unusualend:nether_wart_sourdough",
+    "unusualend:nether_wart_sourdough",
+    "unusualend:nether_wart_sourdough_eating_0",
+    "unusualend:nether_wart_sourdough_eating_1",
+    "unusualend:nether_wart_sourdough_eating_2"
+  ]
+}

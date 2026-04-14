@@ -1,0 +1,18 @@
+{
+    "name": "§6Путеводитель",
+    "landing_text": "§oПриветствую, §oчитатель!$(br) §oЯ §oнадеюсь, §oмои §oзаписи §oпомогут §oтебе §oразобраться §oв §oэтом §oнеобычном §oмире...",
+    "model": "patchouli:book_purple",
+    "book_texture": "patchouli:textures/gui/book_purple.png",
+    "use_blocky_font": true,
+    "open_sound": "patchouli:sounds/book_open",
+    "flip_sound": "patchouli:sounds/book_flip",
+    "link_color": "9932CC",
+    "text_color": "a17b53",
+    "nameplate_color": "8d7665",
+    "text_overflow_mode": "resize",
+    "progress_bar_color": "8d7665",
+    "progress_bar_background": "8A2BE2",
+    "version": 2,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": true
+}

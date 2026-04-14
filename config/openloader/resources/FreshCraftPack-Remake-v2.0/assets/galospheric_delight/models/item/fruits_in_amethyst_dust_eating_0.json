@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "galospheric_delight:item/fruits_in_amethyst_dust_eating_0"
+  }
+}

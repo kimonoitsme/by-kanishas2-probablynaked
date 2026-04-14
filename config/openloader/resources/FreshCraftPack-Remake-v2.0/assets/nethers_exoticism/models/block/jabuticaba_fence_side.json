@@ -1,0 +1,6 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "nethers_exoticism:block/jabuticaba_planks"
+  }
+}

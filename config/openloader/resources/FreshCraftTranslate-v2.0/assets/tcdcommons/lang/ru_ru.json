@@ -1,0 +1,48 @@
+{
+    "tcdcommons": "Команды TCD",
+
+    "tcdcommons.translators.title": "Переводчики",
+    "tcdcommons.translators.tutorial": "Раздел переводчиков ниже представлен в формате CSV. Просто поставьте запятую (,) и укажите свой уникальный GitHub-имя. Пример: 'TheCSDev, SomeOtherUser, AndSoOn'.",
+    "tcdcommons.translators": "TheCSDev,",
+
+    "tcdcommons.github.sponsors": "Спонсоры на GitHub",
+    "tcdcommons.github.sponsors.no_sponsors": "На данный момент никто не спонсирует этот проект.",
+    "tcdcommons.special_thanks": "Особая благодарность",
+    "tcdcommons.featured": "Избранное",
+    "tcdcommons.featured.no_one": "В данный момент в этом списке никого нет.",
+    "tcdcommons.fetch_fail": "Не удалось получить информацию.",
+
+    "tcdcommons.client_side": "Клиентский",
+    "tcdcommons.server_side": "Серверный",
+
+    "tcdcommons.api.badge.playerbadge": "Знак отличия",
+    "tcdcommons.api.badge.playerbadge.plural": "Знаки отличия",
+
+    "tcdcommons.api.client.gui.screen.explorer.tfilechooserscreen.title": "Проводник",
+    "tcdcommons.api.client.gui.screen.explorer.tfilechooserscreen.title_save": "Сохранение файла",
+    "tcdcommons.api.client.gui.screen.explorer.tfilechooserscreen.title_open": "Открытие файла",
+    "tcdcommons.api.client.gui.screen.explorer.tfilechooserscreen.title_seldir": "Выбор папки",
+
+    "tcdcommons.api.client.gui.panel.explorer.actionbar.file_name": "Имя файла",
+    "tcdcommons.api.client.gui.panel.explorer.actionbar.file_type": "Тип файлов",
+    "tcdcommons.api.client.gui.panel.explorer.actionbar.save_file": "Сохранить",
+    "tcdcommons.api.client.gui.panel.explorer.actionbar.open_file": "Открыть",
+
+    "tcdcommons.api.util.interfaces.tfilefilter.all_files": "Все файлы (*.*)",
+    "tcdcommons.api.util.interfaces.tfilefilter.x_files": "Файлы %1$s (%1$s)",
+
+    "tcdcommons.api.client.gui.panel.tpanelelement.mouse_scroll_tip": "Используйте колесо прокрутки мыши или ЛКМ + перетаскивание для прокрутки этого раздела...",
+
+    "tcdcommons.api.client.gui.panel.explorer.filelistpanel.err_nosuchdir": "Папка не существует",
+    "tcdcommons.api.client.gui.panel.explorer.filelistpanel.err_noaccess": "Отказано в доступе",
+    "tcdcommons.api.client.gui.panel.explorer.filelistpanel.err_other": "%s",
+
+    "tcdcommons.api.client.gui.widget.tselectwidget.default_label": "Выберите...",
+
+    "commands.badges.edit.output": "Изменена статистика значка игрока '%s' для %s игрока(ов).",
+    "commands.badges.clear.output": "Удалены все статистики значков для %s игрока(ов).",
+    "commands.badges.chat_grant": "%s получил значок игрока %s.",
+    "commands.badges.query.output": "Значение статистики значка игрока %s для '%s' составляет %s.",
+
+    "tcdcommons.key.refresh_current_screen": "Обновить текущий экран"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "§6§lКоктейли и соки",
+    "icon": "grapesseasonstuff:pina_colada_coctail",
+    "sortnum": 5,
+    "category": "patchouli:diet_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oХочешь устроить §oпляжную вечеринку §oили просто §oзахотелось §oсладенького?$(br)$(br)§o В любом случае, §oесть §oотличное §oпредложение - §oможно §oнаделать §oвкуснейших §oкоктейлей! "
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lБар",
+            "item": "grapesseasonstuff:palm_bar",
+            "text": " §oДля начала §oнеобходимо создать §oбар и подготовить §oвсё нужное для того, §oчтобы начинать §oсмешивать и трясти!"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lКоктейли",
+            "item": "grapesseasonstuff:mojito_coctail,grapesseasonstuff:sangria_coctail,grapesseasonstuff:pina_colada_coctail,grapesseasonstuff:mango_sling_coctail",
+            "text": " §oКоктейли делаются §oна основе весёлых §oнапитков, §oприготовленных в §oкеге. Для их §oсоздания §oнеобходимы соки, §oфрукты и, конечно, §oкусочки льда. §oСильно §oнапиться §oони не §oдадут, но §oзато хорошо освежат!"
+        },
+        {
+            "type": "spotlight",
+            "title": "§3§lКусочки льда",
+            "text": " §oЧтобы получить §oкусочки льда, §oочивидно, нужно §oраздробить лёд.. Это §oможно сделать на §oразделочной доске §oс §oпомощью кирки. В §oзависимости от §oвида льда, §oможно §oполучить §oбольше §oкусочков.",
+            "item": "farmersdelight:cutting_board,minecraft:iron_pickaxe,minecraft:packed_ice,grapesseasonstuff:ice_cubes"
+        }
+    ]
+}

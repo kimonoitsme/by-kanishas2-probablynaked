@@ -1,0 +1,17 @@
+{
+    "block.grassslabs.grass_stairs": "Ступеньки из травы",
+    "block.grassslabs.grass_slab": "Плита из травы",
+    "block.grassslabs.grass_carpet": "Травяной ковёр",
+    "block.grassslabs.dirt_stairs": "Ступеньки из земли",
+    "block.grassslabs.dirt_slab": "Плита из земли",
+    "block.grassslabs.dirt_carpet": "Земляной ковёр",
+    "block.grassslabs.mycelium_stairs": "Ступеньки из мицелия",
+    "block.grassslabs.mycelium_slab": "Плита из мицелия",
+    "block.grassslabs.mycelium_carpet": "Мицелиевый ковёр",
+    "block.grassslabs.dirt_path_stairs": "Ступеньки из тропинки",
+    "block.grassslabs.dirt_path_slab": "Плита из тропинки",
+    "block.grassslabs.dirt_path_carpet": "Тропинковый ковёр",
+    "block.grassslabs.podzol_stairs": "Ступеньки из подзола",
+    "block.grassslabs.podzol_slab": "Плита из подзола",
+    "block.grassslabs.podzol_carpet": "Подзоловый ковёр"
+}

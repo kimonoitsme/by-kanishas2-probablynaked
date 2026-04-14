@@ -1,0 +1,11 @@
+
+[general]
+	#ID предметов-факелов, которые НЕЛЬЗЯ ставить на верхнюю грань блока (только стены)
+	wall_only_items = ["minecraft:torch", "grapesseasonstuff:palm_torch", "tide:jelly_torch", "endergetic:ender_torch", "unusualend:crystal_torch", "supplementaries:sconce_ender", "minecraft:soul_torch", "supplementaries:sconce", "supplementaries:sconce_soul", "valhelsia_structures:doused_torch", "valhelsia_structures:doused_soul_torch", "beachparty:palm_torch_item", "mynethersdelight:powdery_torch", "call_of_yucutan:bone_torch", "call_of_yucutan:golden_torch"]
+	#Время жизни факелов (мин). ≥1
+	#Range: > 1
+	torch_lifetime_min = 180
+	#Время жизни фонарей (мин). ≥1
+	#Range: > 1
+	lantern_lifetime_min = 10080
+

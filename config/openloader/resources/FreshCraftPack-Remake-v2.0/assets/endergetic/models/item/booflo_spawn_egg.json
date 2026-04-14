@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "endergetic:item/spawn_egg/booflo_spawn_egg"
+  }
+}

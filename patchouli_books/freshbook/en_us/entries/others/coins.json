@@ -1,0 +1,37 @@
+{
+    "name": "§7§lЧеканка монет",
+    "icon": "grapescapitalismcraft:gold_minted_coin",
+    "category": "patchouli:other_category",
+    "sortnum": 7,
+    "pages": [
+        {
+            "title": "§6§lЧеканка монет",
+            "type": "spotlight",
+            "item": "grapescapitalismcraft:blockof_gold_minted_coins,grapescapitalismcraft:slabof_gold_minted_coins,grapescapitalismcraft:coating_gold_minted_coins",
+            "text": " §oХочешь стать §oбогачём?$(br)$(br)§o Монеты - деньги §oценятся среди §oлюдей, §oособенно §oзолотые...$(br)$(br)§o Что нужно для того, §oчтобы чеканить §oмонеты?$(br)§o  Сейчас расскажу..."
+        },
+        {
+            "type": "spotlight",
+            "title": "§8§lНако§3§lва§8§lльня",
+            "text": "$(br)§o Для чеканки монет §oпотребуется §oспециальная §oнаковальня для §oчеканки. Ломается, но §oчинится алмазом. $(br)$(br)§o После чего создай §oподходящий молот, §oони бывают разные...",
+            "item": "grapescapitalismcraft:anvilfor_coining"
+        },
+        {
+            "type": "spotlight",
+            "title": "§7§lМо§3§lло§4§lты",
+            "text": "$(br)§o Разные молоты §oчеканят разные §oмонеты.$(br) $(li)§oСтальной - §oмедные §oмонеты$(li)§oАлмазный - §oсеребрянные §oмонеты $(li)§oНезеритовый - §oзолотые §oмонеты",
+            "item": "grapescapitalismcraft:steel_hammerfor_coining,grapescapitalismcraft:copper_minted_coin,grapescapitalismcraft:diamond_hammerfor_coining,grapescapitalismcraft:silver_minted_coin,grapescapitalismcraft:netherite_hammerfor_coining,grapescapitalismcraft:gold_minted_coin"
+        },
+
+
+        {
+            "border": "true",
+            "title": "§7§lЧеканка",
+            "type": "image",
+            "text": "§oКлади кусочек §oматериала на §oнаковальню и вперёд!",
+            "images": [
+                "patchouli:coins.png"
+            ]
+        }
+    ]
+}

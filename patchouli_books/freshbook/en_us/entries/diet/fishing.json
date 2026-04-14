@@ -1,0 +1,43 @@
+{
+    "name": "§7§lРыбалка и виды",
+    "icon": "tide:iron_fishing_hook",
+    "category": "patchouli:diet_category",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oРыбалка - это §oцелое §oисскуство! §oЭто и §oхобби, и §oдобыча еды, §oи отдых.$(br2)§o В общем, рыбалка §oможет быть §oувлекательной! И §oхоть я не эксперт в §oрыбалке, но всё же §oрасскажу парочку §oмоментов, которые §oмогут быть полезны..."
+        },
+        {
+            "type": "spotlight",
+            "title": "§3§lКоллекционирование",
+            "text": " §oПри ловле новый §oрыбины ты сможешь §oзаписывать их в §oжурнал рыболова и §oколлекционировать.$(br2)§o Всего есть §oнесколько видов §oрыб: §oПресноводные, §oМорские и даже §oНезерские!",
+            "item": "tide:fishing_journal,tide:mackerel,tide:pike,tide:bluegill"
+        },
+        {
+            "type": "spotlight",
+            "title": "§2§lРедкие рыбы",
+            "text": " §oНу и разумеется, §oесть очень §oнеобычные и крайне §oредкие виды рыб, §oпоймав которые, у §oтебя, конечно, §oвозникнут §oнекоторые §oвопросы..$(br2)§o Но радоваться §oбудешь, как ребёнок!",
+            "item": "tide:abyss_angler,tide:volcano_tuna,tide:midas_fish,tide:mirage_catfish"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lРыбные блюда",
+            "text": " §oКонечно же, §oнекоторые виды рыб §oотличаются и §oвкусовыми §oособенностями.$(br2)§o Поэтому из рыбы §oможно готовить §oсовершенно разные §oособые блюда! Рыбка §oможет быть полезна §oдля организма..",
+            "item": "tidesdelight:tuna_salad,tidesdelight:grouper_caprese,tidesdelight:barracuda_burger,tidesdelight:poke_bowl,tidesdelight:tuna_roll_slice"
+        },
+        {
+            "type": "crafting",
+            "title": "§6§lМастерская",
+            "text": " §oОбитель каждого §oрыболова - место, §oгде §oможно §oпрокачать §oсвой §oрыболовный §oаппарат. §oМожно §oулучшить удочку, §oнапример, для ловли §oрыбы в Незере?",
+            "recipe": "tide:angling_table"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lУлучшения",
+            "text": " §oУдочки, Лески, §oКрючки §oи поплавки §oбывают совершенно §oразных видов и §oулучшений.$(br2) §oРазные виды имеют §oразные особенности, §oхарактеристики и §oвнешний вид.$(br2)§o Ну, удачной §oпоклёвки!",
+            "item": "tide:iron_fishing_rod,tide:golden_fishing_rod,tide:crystal_fishing_rod,tide:iron_fishing_hook,tide:lavaproof_fishing_hook,tide:lavaproof_fishing_hook,tide:red_fishing_bobber,tide:golden_fishing_bobber,tide:amethyst_fishing_bobber,tide:reinforced_line"
+     
+        }
+    ]
+}

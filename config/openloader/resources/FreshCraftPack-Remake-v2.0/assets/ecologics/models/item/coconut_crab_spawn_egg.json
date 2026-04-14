@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "ecologics:item/spawn_egg/coconut_crab_spawn_egg"
+  }
+}

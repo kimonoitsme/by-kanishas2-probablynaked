@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "cnb:item/spawn_egg/sporeling_nether_egg"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "§9§lКораллус",
+    "icon": "cataclysm:coralssus_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 14,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oКогда-то §oэтот вид §oможно §oбыло §oвстретить §oпо §oвсему §oокеану, §oпока §oих не §oстали §oиспользовать §oжители §oзатопленного §oгорода в своих §oцелях...$(br) §oОпасные §oздоровяки, §oмогут в §oмиг §oрасплющить$(br)  §oсвою §oжертву..."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "§o Иногда верхом на §oтаких передвигаются$(br) §oглубинники.",
+            "images": [
+                "patchouli:coralssus.png"
+            ]
+        }
+    ]
+}

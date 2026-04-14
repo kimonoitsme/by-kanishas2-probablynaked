@@ -1,0 +1,24 @@
+{
+    "name": "§2§lЭнциклопедия",
+    "icon": "alexsmobs:animal_dictionary",
+    "category": "patchouli:animals_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "§2§lЭнциклопедия",
+            "item": "alexsmobs:animal_dictionary",
+            "text": " §oЕсть ещё одна §oкрайне §oполезная §oкнига.$(br)§oАлекс вёл записи по §oсамым уникальным §oчудищам и §oживотным.$(br)§o Каждый из них §oудивителен §oи не §oтак прост, как §oкажется, наткнёшься §oна одно из таких -$(br)  §oобязательно изучи..."
+        },
+        {
+            "type": "image",
+            "border": true,
+            "title": "§2§lИзучение видов",
+            "text": "§oТут ты сможешь §oизучить все §oособенности видов",
+            "images": [
+                "patchouli:alexs_mobss.png"
+            ]
+        }
+    ]
+}
+

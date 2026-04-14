@@ -1,0 +1,16 @@
+{
+  "name": "Полярное сияние",
+  "icon": "twilightforest:aurora_block",
+  "category": "twilightdelight:effects",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Этот эффект придаст вам и всем сущностям, которые вы видите, радужный светящийся слой, включая предметы.$(br2)Это полезно для поиска врагов за стенами, оставленных предметов и подземных пещер."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "twilightforest:aurora_block",
+	  "text": "Его можно получить из напитков и десертов, приготовленных из блока Аврора."
+	}
+  ]
+}

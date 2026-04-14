@@ -1,0 +1,6 @@
+{
+  "parent": "farmersdelight:item/mug",
+  "textures": {
+    "layer0": "fruitsdelight:item/kiwi_juice_eating_0"
+  }
+}

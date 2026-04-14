@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "warriorsofpastepoch:item/spawn_egg/scavenger_rat_spawn_egg"
+  }
+}

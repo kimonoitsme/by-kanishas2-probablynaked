@@ -1,0 +1,50 @@
+{
+  "name": "Середина игры",
+  "icon": "irons_spellbooks:scroll_forge",
+  "category": "irons_spellbooks:root",
+  "sortnum": -2,
+  "read_by_default" : true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Scroll Forge",
+      "text": "Добравшись до ресурсов нижнего уровня, вы откроете совершенно новый способ получения силы: Кузницу свитков$(br2)Кузница свитков используется для создания свитков с помощью чернил, бумаги и фокуса. Чернила определяют редкость (и, следовательно, уровень), а фокусировка определяет школу заклинания."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:scroll_forge"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Новые книги заклинаний",
+      "text": "Кроме того, промежуточные книги заклинаний могут быть созданы с использованием ресурсов Незера",
+      "recipe": "irons_spellbooks:gold_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:diamond_spell_book",
+      "text": "Хоглин сбрасывает свою шкуру"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:magic_cloth",
+      "title": "Новые материалы",
+      "text": "Вам также следует начать создавать более прочную броню, используя магическую ткань. Чтобы получить большое количество магической эссенции, вам нужно сосредоточиться на набегах на магические данжи."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Доспехи пугала",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:pumpkin_boots',Count:1b},{id:'irons_spellbooks:pumpkin_leggings',Count:1b},{id:'irons_spellbooks:pumpkin_chestplate',Count:1b},{id:'irons_spellbooks:pumpkin_helmet',Count:1b}],NoBasePlate:1b}"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blank_rune",
+      "title": "Редкие материалы",
+      "text": "Чтобы продолжать прогрессировать, следите за руническими камнями в магических сооружениях. Рунические камни используются для создания ещё более мощной брони. Классовые маги всегда используют руну своей школы."
+    },
+    {
+      "type": "patchouli:empty",
+      "draw_filler": false
+    }
+  ]
+}

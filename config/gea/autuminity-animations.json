@@ -1,0 +1,49 @@
+{
+  "autumnity:cooked_turkey_piece": [
+    "autumnity:cooked_turkey_piece",
+    "autumnity:cooked_turkey_piece",
+    "eatinganimation:au_cooked_turkey_piece_eating_0",
+    "eatinganimation:au_cooked_turkey_piece_eating_1",
+    "eatinganimation:au_cooked_turkey_piece_eating_2"
+  ],
+
+  "autumnity:foul_berries": [
+    "autumnity:foul_berries",
+    "autumnity:foul_berries",
+    "eatinganimation:au_foul_berries_eating_0",
+    "eatinganimation:au_foul_berries_eating_1",
+    "eatinganimation:au_foul_berries_eating_2"
+  ],
+
+  "autumnity:foul_soup": [
+    "autumnity:foul_soup",
+    "autumnity:foul_soup",
+    "eatinganimation:au_foul_soup_eating_0",
+    "eatinganimation:au_foul_soup_eating_1",
+    "eatinganimation:au_foul_soup_eating_2"
+  ],
+
+  "autumnity:pumpkin_bread": [
+    "autumnity:pumpkin_bread",
+    "autumnity:pumpkin_bread",
+    "eatinganimation:au_pumpkin_bread_eating_0",
+    "eatinganimation:au_pumpkin_bread_eating_1",
+    "eatinganimation:au_pumpkin_bread_eating_2"
+  ],
+
+  "autumnity:syrup_bottle": [
+    "autumnity:syrup_bottle",
+    "autumnity:syrup_bottle",
+    "eatinganimation:au_syrup_bottle_eating_0",
+    "eatinganimation:au_syrup_bottle_eating_1",
+    "eatinganimation:au_syrup_bottle_eating_2"
+  ],
+
+  "autumnity:turkey_piece": [
+    "autumnity:turkey_piece",
+    "autumnity:turkey_piece",
+    "eatinganimation:au_turkey_piece_eating_0",
+    "eatinganimation:au_turkey_piece_eating_1",
+    "eatinganimation:au_turkey_piece_eating_2"
+  ]
+}

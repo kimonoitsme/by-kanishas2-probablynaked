@@ -1,0 +1,31 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "archers:item/base/crossbow_18",
+	  "textures": {
+		"layer0": "archers:item/heavy_crossbow_pulling_2"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "archers:item/heavy_crossbow_pulling_item_2"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "archers:item/heavy_crossbow_pulling_item_2"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "archers:item/heavy_crossbow_pulling_item_2"
+		}
+	  }
+  }
+}

@@ -1,0 +1,135 @@
+{
+	"animationSpeedMultiplier": 1.0,
+	"idleStanding": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"walking": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"walkingBackwards": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"running": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"turningStanding": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"idleSneaking": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"walkingSneak": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"walkingSneakBackwards": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"idleCreativeFlying": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"falling": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"idleCrawling": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"crawling": {
+		"enabled": true,
+		"speedMultiplier": 0.6000000238418579
+	},
+	"crawlingBackwards": {
+		"enabled": true,
+		"speedMultiplier": 0.6000000238418579
+	},
+	"climbing": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"forwardInWater": {
+		"enabled": true,
+		"speedMultiplier": 1.0
+	},
+	"backwardsInWater": {
+		"enabled": true,
+		"speedMultiplier": 1.0
+	},
+	"upInWater": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"idleInWater": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"swimming": {
+		"enabled": true,
+		"speedMultiplier": 1.0
+	},
+	"minecartIdle": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"horseIdle": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"horseRunning": {
+		"enabled": true,
+		"speedMultiplier": 1.0
+	},
+	"boat": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"elytra": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"swordAttack": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"bow": {
+		"enabled": true,
+		"speedMultiplier": 1.0
+	},
+	"pickaxe": {
+		"enabled": true,
+		"speedMultiplier": 1.0
+	},
+	"axe": {
+		"enabled": true,
+		"speedMultiplier": 1.2999999523162842
+	},
+	"shovel": {
+		"enabled": true,
+		"speedMultiplier": 1.2999999523162842
+	},
+	"sleeping": {
+		"enabled": false,
+		"speedMultiplier": 1.0
+	},
+	"eating": {
+		"enabled": false,
+		"speedMultiplier": 1.2000000476837158
+	},
+	"shield": {
+		"enabled": true,
+		"speedMultiplier": 1.399999976158142
+	},
+	"trident": {
+		"enabled": true,
+		"speedMultiplier": 1.0
+	}
+}

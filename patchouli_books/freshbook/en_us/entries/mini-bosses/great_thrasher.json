@@ -1,0 +1,21 @@
+{
+    "name": "§3§lВеликий острозуб",
+    "icon": "upgrade_aquatic:great_thrasher_spawn_egg",
+    "category": "patchouli:mini-bosses_category",
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "text",
+            "text": " §oГде-то глубоко под §oтолщей воды, в §oрасщелинах, куда не §oпроникает свет, §oможно наткнуться на §oнего.. $(br)$(br)§o Если найти его §oвообще возможно... §oГоворят, именно из §oего зубов был §oвыкован §oлегендарный$(br) §oтрезубец..."
+        },
+        {
+            "border": "true",
+            "title": "",
+            "type": "image",
+            "text": "",
+            "images": [
+                "patchouli:great_thrasher.png"
+            ]
+        }
+    ]
+}

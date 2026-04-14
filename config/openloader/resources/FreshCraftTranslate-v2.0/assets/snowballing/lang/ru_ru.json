@@ -1,0 +1,13 @@
+{
+    "block.snowballing.snowball_pile": "Кучка снежков",
+
+    "item.snowballing.snowball_pile.size": "%s снежок/ов",
+    "effect.snowballing.snowballed": "Забросанный снежками",
+
+    "advancement.snowballing.root.title": "Снежные бои!",
+    "advancement.snowballing.root.description": "Снежки кажутся чем-то волшебным. Берите лопаты и готовьтесь к битве снежками.",
+    "advancement.snowballing.freeze.title": "Покушал снега",
+    "advancement.snowballing.freeze.description": "Получите обморожение в результате битвы снежками.",
+    "advancement.snowballing.snowball_fight.title": "Лови аптечку",
+    "advancement.snowballing.snowball_fight.description": "Примите участие в битве снежками с другим человеком и жителем деревни!"
+}

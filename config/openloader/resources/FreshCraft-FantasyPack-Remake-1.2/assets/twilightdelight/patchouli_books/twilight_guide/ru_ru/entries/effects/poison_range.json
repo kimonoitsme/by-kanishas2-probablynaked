@@ -1,0 +1,16 @@
+{
+  "name": "Ядовитость",
+  "icon": "twilightforest:steeleaf_ingot",
+  "category": "twilightdelight:effects",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Этот эффект защитит игрока от действия яда и применит яд ко всем врагам вокруг вас. Он наносит урон намного быстрее, чем обычный яд.$(br2)Диапазон действия отмечен зелёными частицами."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "twilightforest:steeleaf_ingot",
+	  "text": "Его можно получить из напитков и десертов, приготовленных из стального листа."
+	}
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "farmersdelight:item/mug",
+  "textures": {
+    "layer0": "fruitsdelight:item/mangosteen_tea_eating_2"
+  }
+}

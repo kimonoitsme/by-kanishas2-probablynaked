@@ -1,0 +1,23 @@
+#SeasonStuff beds
+beds = true
+
+[cocktails]
+	#Duration of cocktail crafting in ticks
+	#Range: > 1
+	craftTimeTicks = 100
+
+[shell]
+	#Whether shells drop loot when opened
+	lootEnabled = true
+	#Loot table for seashells in the form 'id,chance'
+	lootEntries = ["minecraft:emerald,0.05", "minecraft:gold_ingot,0.2", "minecraft:diamond,0.01", "minecraft:iron_ingot,0.3"]
+
+[records]
+	#How records are obtained
+	#Allowed Values: LOOT, CRAFT, BOTH
+	sourceMode = "LOOT"
+
+[palm_bar]
+	#Items that can be crafted in the palm bar
+	allowed_items = ["grapesseasonstuff:melon_coctail", "grapesseasonstuff:honey_coctail", "grapesseasonstuff:cocoa_coctail", "grapesseasonstuff:pumpkin_coctail", "grapesseasonstuff:sweetberry_coctail", "grapesseasonstuff:coconut_coctail", "grapesseasonstuff:coconut_drink"]
+

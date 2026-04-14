@@ -1,0 +1,17 @@
+filename = 'celestisynth-1.20.1-1.3.4-all.jar'
+name = 'Celestisynth'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.3.4'
+
+[download]
+hash = '86042a836dffe98e6f81ad99b0f7934297b79fcbe69c414f9da301f659c99fc64e9bde03745335f27254799d523dc7d8c0f06de4c2fbd9b542106351b420002e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2ocGk7mG/versions/33ckEfkl/celestisynth-1.20.1-1.3.4-all.jar'
+
+[update.modrinth]
+mod-id = '2ocGk7mG'
+version = '33ckEfkl'

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [ { "model": "block/sand", "weight":100 }
+,{ "model": "block/sand2", "weight":20 }
+,{ "model": "block/sand3", "weight":30 }
+,{ "model": "block/sand4", "weight":70 }
+
+ ]   }
+}

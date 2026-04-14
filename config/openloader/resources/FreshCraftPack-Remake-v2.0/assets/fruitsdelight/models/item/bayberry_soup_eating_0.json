@@ -1,0 +1,6 @@
+{
+  "parent": "farmersdelight:item/mug",
+  "textures": {
+    "layer0": "fruitsdelight:item/bayberry_soup_eating_0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "vanillabackport:item/spawn_egg/happy_ghast_spawn_egg"
+  }
+}

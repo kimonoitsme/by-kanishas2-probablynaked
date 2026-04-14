@@ -1,0 +1,61 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "map_hendheld",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/map_handheld",
+		"particle": "item/map_handheld"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 7],
+			"to": [4, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, 5]},
+			"faces": {
+				"north": {"uv": [0, 6.5, 1, 13], "texture": "#0"},
+				"east": {"uv": [1, 6.5, 2, 13], "texture": "#0"},
+				"south": {"uv": [2, 6.5, 3, 13], "texture": "#0"},
+				"west": {"uv": [3, 6.5, 4, 13], "texture": "#0"},
+				"up": {"uv": [5, 7.5, 4, 6.5], "texture": "#0"},
+				"down": {"uv": [6, 6.5, 5, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 0, 9],
+			"to": [14, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 6.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 6.5], "texture": "#0"},
+				"south": {"uv": [5, 0, 10, 6.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 6.5], "texture": "#0"},
+				"up": {"uv": [5, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [5, 0, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 4, 9],
+			"to": [2, 7, 13],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [2, 6, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 1], "texture": "#0"},
+				"east": {"uv": [6, 9.5, 4, 11], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 1], "texture": "#0"},
+				"west": {"uv": [4, 9.5, 6, 11], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 0], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [178.53, -2.51, -156.79],
+			"translation": [-2.25, 6.25, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [178.54, -2.94, 25.12],
+			"translation": [-3.25, 3.75, 0]
+		}
+	}
+}

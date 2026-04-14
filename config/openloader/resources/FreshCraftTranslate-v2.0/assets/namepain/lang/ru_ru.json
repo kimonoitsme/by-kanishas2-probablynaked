@@ -1,0 +1,101 @@
+{
+	"config.namepain.vanilla":						"§b[ванильное: %s]",
+	"config.namepain.default":						"§b[по умолчанию: %s]",
+	"config.namepain.range":						"§b[диапазон: %s ~ %s]",
+	"config.namepain.rangedefault":					"§b[диапазон: %s ~ %s, по умолчанию: %s]",
+
+	"config.namepain.settings":						"Настройки",
+
+	"config.namepain.applyToPlayers":				"Применить к игрокам",
+	"config.namepain.applyToPlayers.comment0":		" §2true§r: Применять раскраску Name Pain к именам игроков.",
+	"config.namepain.applyToPlayers.comment1":		"§4false§r: Сохранять оригинальную раскраску имён игроков.",
+
+	"config.namepain.playersAlwaysNamed":			"Игроки всегда именуются",
+	"config.namepain.playersAlwaysNamed.comment0":	" §2true§r: Всегда видеть имена других игроков.",
+	"config.namepain.playersAlwaysNamed.comment1":	"§4false§r: Видеть их имена только при взгляде на них.",
+
+	"config.namepain.seeYourName":					"Видеть своё имя",
+	"config.namepain.seeYourName.comment0":			" §2true§r: Видеть своё имя от 3-го лица.",
+	"config.namepain.seeYourName.comment1":			"§4false§r: Никогда не видеть своё имя.",
+
+	"config.namepain.applyToMobs":					"Применить к мобам",
+	"config.namepain.applyToMobs.comment0":			" §2true§r: Применять раскраску Name Pain к именам мобов.",
+	"config.namepain.applyToMobs.comment1":			"§4false§r: Сохранять оригинальную раскраску имён мобов.",
+
+	"config.namepain.seeInjuredNames":				"Видеть имена раненых мобов",
+	"config.namepain.seeInjuredNames.comment0":		" §2true§r: Видеть имена раненых мобов поблизости.",
+	"config.namepain.seeInjuredNames.comment1":		"§4false§r: идеть их имена, только если они названы.",
+
+	"config.namepain.injuredAlwaysNamed":			"Раненые всегда именуются",
+	"config.namepain.injuredAlwaysNamed.comment0":	"§eRequires: Видеть имена раненых мобов",
+	"config.namepain.injuredAlwaysNamed.comment1":	" §2true§r: Всегда видеть имена раненых мобов поблизости.",
+	"config.namepain.injuredAlwaysNamed.comment2":	"§4false§r: Видеть их имена только при взгляде на них.",
+
+	"config.namepain.tamesAlwaysNamed":				"Прирученные всегда именуются",
+	"config.namepain.tamesAlwaysNamed.comment0":	" §2true§r: Всегда видеть имена своих прирученных.",
+	"config.namepain.tamesAlwaysNamed.comment1":	"§4false§r: Видеть их имена только при взгляде на них.",
+
+	"config.namepain.horsesAlwaysNamed":			"Лошади всегда именуются",
+	"config.namepain.horsesAlwaysNamed.comment0":	"Лошади и подобные звери не являются приручаемыми. Name Pain не может определить",
+	"config.namepain.horsesAlwaysNamed.comment1":	"принадлежит ли вам конь или нет. Выберите, видеть ли их имена,",
+	"config.namepain.horsesAlwaysNamed.comment2":	"независимо от того, кто их владелец.",
+	"config.namepain.horsesAlwaysNamed.comment3":	" §2true§r: Всегда видеть имена прирученных лошадей.",
+	"config.namepain.horsesAlwaysNamed.comment4":	"§4false§r: Видеть их имена только при взгляде на них.",
+
+	"config.namepain.villagersAlwaysNamed":			"Жители всегда именуются",
+	"config.namepain.villagersAlwaysNamed.comment0":" §2true§r: Всегда видеть имена названных жителейs.",
+	"config.namepain.villagersAlwaysNamed.comment1":"§4false§r: Видеть их имена только при взгляде на них.",
+
+	"config.namepain.golemsAlwaysNamed":			"Големы всегда именуются",
+	"config.namepain.golemsAlwaysNamed.comment0":	" §2true§r: Всегда видеть имена названных големов.",
+	"config.namepain.golemsAlwaysNamed.comment1":	"§4false§r: Видеть их имена только при взгляде на них.",
+
+	"config.namepain.applyToScores":				"Применить к табло",
+	"config.namepain.applyToScores.comment0":		" §2true§r: Применять раскраску Name Pain к табло.",
+	"config.namepain.applyToScores.comment1":		"§4false§r: Сохранять оригинальную раскраску табло.",
+
+	"config.namepain.stripFormat":					"Убрать формат",
+	"config.namepain.stripFormat.comment0":			" §2true§r: Убрать преформатирование (например, цвет команды) из текста.",
+	"config.namepain.stripFormat.comment1":			"§4false§r: Текст имени может игнорировать цвет имени.",
+
+	"config.namepain.seeFrameNames":				"Видеть имена рамок",
+	"config.namepain.seeFrameNames.comment0":		" §2true§r: Видеть имена рамок только при взгляде на них.",
+	"config.namepain.seeFrameNames.comment1":		"§4false§r: Никогда не видеть их имена.",
+
+	"config.namepain.namesWithoutHUD":				"Имена без HUD",
+	"config.namepain.namesWithoutHUD.comment0":		" §2true§r: Видеть имена, когда HUD выключен.",
+	"config.namepain.namesWithoutHUD.comment1":		"§4false§r: Видеть имена, только когда HUD включён.",
+
+	"config.namepain.visibleRange":					"Диапазон видимости",
+	"config.namepain.visibleRange.comment0":		"Имена за пределами этого расстояния обрезаются. Удерживайте",
+	"config.namepain.visibleRange.comment1":		"клавишу 'Показать обрезанные имена', чтобы временно восстановить",
+	"config.namepain.visibleRange.comment2":		"полный диапазон 64 м (см. 'Управление').",
+	"config.namepain.visibleRange.comment3":		" ",
+	"config.namepain.visibleRange.comment4":		"Если экран перегружен именами, например",
+	"config.namepain.visibleRange.comment5":		"возле большой стаи прирученных волков, уменьшение этого",
+	"config.namepain.visibleRange.comment6":		"значения может помочь.",
+
+	"config.namepain.doValentines":					"Имена на День Святого Валентина",
+	"config.namepain.doValentines.comment0":		" §2true§r: <3 <3 <3",
+	"config.namepain.doValentines.comment1":		"§4false§r: Вечно одинок.",
+
+	"config.namepain.doAprilFools":					"Имена на День смеха",
+	"config.namepain.doAprilFools.comment0":		" §2true§r: \\|/ |-| /-\\ '|' ' $ | |\\| /-\\ |\\| /-\\ /\\/\\ [- ?",
+	"config.namepain.doAprilFools.comment1":		"§4false§r: Буквы.",
+
+	"config.namepain.nameMax":						"Цвет имени при макс. здоровье",
+	"config.namepain.nameMax.comment0":				"Значения RGBA для ИМЁН с МАКСИМАЛЬНЫМ здоровьем",
+	"config.namepain.nameMin":						"Цвет имени при мин. здоровье",
+	"config.namepain.nameMin.comment0":				"Значения RGBA для ИМЁН с МИНИМАЛЬНЫМ здоровьем",
+	"config.namepain.plateMax":						"Цвет фона при макс. здоровье",
+	"config.namepain.plateMax.comment0":			"Значения RGBA для ФОНОВ с МАКСИМАЛЬНЫМ здоровьем",
+	"config.namepain.plateMin":						"Цвет фона при мин. здоровье",
+	"config.namepain.plateMin.comment0":			"Значения RGBA для ФОНОВ с МИНИМАЛЬНЫМ здоровьем",
+	"config.namepain.colorR":						"§cКрасный",
+	"config.namepain.colorG":						"§aЗелёный",
+	"config.namepain.colorB":						"§9Синий",
+	"config.namepain.colorA":						"§7Альфа",
+	"config.namepain.colorA.comment0":				"§70 = прозрачный, §r255 = непрозрачный",
+
+	"key.namepain.showCulled":						"Показывать свои имена"
+}

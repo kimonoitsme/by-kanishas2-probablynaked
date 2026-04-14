@@ -1,0 +1,32 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+	"base": {
+	  "parent": "valhelsia_structures:item/unlit_lantern_hendheld",
+	  "textures": {
+		"0": "valhelsia_structures:block/unlit_soul_lantern",
+		"particle": "valhelsia_structures:block/unlit_soul_lantern"
+	  }
+	},
+	"perspectives": {
+	  "gui": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "valhelsia_structures:item/unlit_soul_lantern"
+		},
+		"gui_light": "front"
+	  },
+	  "ground": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "valhelsia_structures:item/unlit_soul_lantern"
+		}
+	  },
+	  "fixed": {
+		"parent": "item/generated",
+		"textures": {
+		  "layer0": "valhelsia_structures:item/unlit_soul_lantern"
+		}
+	  }
+	}
+  }

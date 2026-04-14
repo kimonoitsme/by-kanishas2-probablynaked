@@ -1,0 +1,34 @@
+{
+    "name": "§c§lПолезные знания",
+    "icon": "grapesadventures:mineomite",
+    "category": "patchouli:other_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "§3§lУдобные §5§lприблуды",
+            "text": " §oШахтёры частенько §oоставляют разные §oполезные §oинстурменты после §oсебя, возможно, ты §oсможешь отыскать §oгде-то глубоко под §oземлёй, или не §oобязательно там - §oнечто, что может §oбыть полезно для $(br) §oтебя...",
+            "item": "grapesadventures:mineomite,grapesadventures:item_magnet"
+        },
+        {
+            "type": "spotlight",
+            "title": "§9§lОг§3§lра§b§lнка",
+            "text": " §oМинералы - важный §oресурс, разные §oдрагоценные камни §oмогут пригодиться §oсовершенно в §oразных §oделах. Вот §oтолько, §oпрежде чем §oиспользовать их, §oважно уметь §oобрабатывать их на §oспециальном §oинстурменте...",
+            "item": "grapesadventures:rough_emerald,grapesadventures:rough_diamond"
+        },
+        
+        {
+            "type": "spotlight",
+            "title": "§8§lТочило для огранки",
+            "text": " §oЭтот специальный §oинстурмент - Точило §oдля огранки. Чтобы §oобработать минерал, §oдостаточно взять §oего §oв руку и, §oподойдя к §oточилу, §oпоработать с §oним. §oЧинить покрытие §oможно осколком §oгрубого §oалмаза... ",
+            "item": "grapesadventures:diamond_grindstone"
+        },
+        {
+            "type": "spotlight",
+            "title": "§6§lФакела",
+            "text": " §oФакела быстро §oтухнут со временем, §oа §oзакрепить их §oможно §oтолько на §oстене, я бы §oрекомендовал тебе §oпросто §oиспользовать §oфонари, или бра, да, §oболее дорогой §oкрафт, §oоднако оно §oтого §oстоит!",
+            "item": "minecraft:torch,valhelsia_structures:doused_torch"
+        }
+
+    ]
+}

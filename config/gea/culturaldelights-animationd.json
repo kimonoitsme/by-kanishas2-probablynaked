@@ -1,0 +1,289 @@
+{
+  "culturaldelights:avocado": [
+    "culturaldelights:avocado",
+    "culturaldelights:avocado",
+    "culturaldelights:avocado_eating_0",
+    "culturaldelights:avocado_eating_1",
+    "culturaldelights:avocado_eating_2"
+  ],
+  "culturaldelights:avocado_toast": [
+    "culturaldelights:avocado_toast",
+    "culturaldelights:avocado_toast",
+    "culturaldelights:avocado_toast_eating_0",
+    "culturaldelights:avocado_toast_eating_1",
+    "culturaldelights:avocado_toast_eating_2"
+  ],
+  "culturaldelights:beef_burrito": [
+    "culturaldelights:beef_burrito",
+    "culturaldelights:beef_burrito",
+    "culturaldelights:beef_burrito_eating_0",
+    "culturaldelights:beef_burrito_eating_1",
+    "culturaldelights:beef_burrito_eating_2"
+  ],
+  "culturaldelights:calamari_roll": [
+    "culturaldelights:calamari_roll",
+    "culturaldelights:calamari_roll",
+    "culturaldelights:calamari_roll_eating_0",
+    "culturaldelights:calamari_roll_eating_1",
+    "culturaldelights:calamari_roll_eating_2"
+  ],
+  "culturaldelights:chicken_roll": [
+    "culturaldelights:chicken_roll",
+    "culturaldelights:chicken_roll",
+    "culturaldelights:chicken_roll_eating_0",
+    "culturaldelights:chicken_roll_eating_1",
+    "culturaldelights:chicken_roll_eating_2"
+  ],
+  "culturaldelights:chicken_roll_slice": [
+    "culturaldelights:chicken_roll_slice",
+    "culturaldelights:chicken_roll_slice",
+    "culturaldelights:chicken_roll_slice_eating_0",
+    "culturaldelights:chicken_roll_slice_eating_1",
+    "culturaldelights:chicken_roll_slice_eating_2"
+  ],
+  "culturaldelights:chicken_taco": [
+    "culturaldelights:chicken_taco",
+    "culturaldelights:chicken_taco",
+    "culturaldelights:chicken_taco_eating_0",
+    "culturaldelights:chicken_taco_eating_1",
+    "culturaldelights:chicken_taco_eating_2"
+  ],
+  "culturaldelights:corn_cob": [
+    "culturaldelights:corn_cob",
+    "culturaldelights:corn_cob",
+    "culturaldelights:corn_cob_eating_0",
+    "culturaldelights:corn_cob_eating_1",
+    "culturaldelights:corn_cob_eating_2"
+  ],
+  "culturaldelights:corn_dough": [
+    "culturaldelights:corn_dough",
+    "culturaldelights:corn_dough",
+    "culturaldelights:corn_dough_eating_0",
+    "culturaldelights:corn_dough_eating_1",
+    "culturaldelights:corn_dough_eating_2"
+  ],
+  "culturaldelights:creamed_corn": [
+    "culturaldelights:creamed_corn",
+    "culturaldelights:creamed_corn",
+    "culturaldelights:creamed_corn_eating_0",
+    "culturaldelights:creamed_corn_eating_1",
+    "culturaldelights:creamed_corn_eating_2"
+  ],
+  "culturaldelights:cucumber": [
+    "culturaldelights:cucumber",
+    "culturaldelights:cucumber",
+    "culturaldelights:cucumber_eating_0",
+    "culturaldelights:cucumber_eating_1",
+    "culturaldelights:cucumber_eating_2"
+  ],
+  "culturaldelights:cut_avocado": [
+    "culturaldelights:cut_avocado",
+    "culturaldelights:cut_avocado",
+    "culturaldelights:cut_avocado_eating_0",
+    "culturaldelights:cut_avocado_eating_1",
+    "culturaldelights:cut_avocado_eating_2"
+  ],
+  "culturaldelights:cut_cucumber": [
+    "culturaldelights:cut_cucumber",
+    "culturaldelights:cut_cucumber",
+    "culturaldelights:cut_cucumber_eating_0",
+    "culturaldelights:cut_cucumber_eating_1",
+    "culturaldelights:cut_cucumber_eating_2"
+  ],
+  "culturaldelights:cut_eggplant": [
+    "culturaldelights:cut_eggplant",
+    "culturaldelights:cut_eggplant",
+    "culturaldelights:cut_eggplant_eating_0",
+    "culturaldelights:cut_eggplant_eating_1",
+    "culturaldelights:cut_eggplant_eating_2"
+  ],
+  "culturaldelights:cut_pickle": [
+    "culturaldelights:cut_pickle",
+    "culturaldelights:cut_pickle",
+    "culturaldelights:cut_pickle_eating_0",
+    "culturaldelights:cut_pickle_eating_1",
+    "culturaldelights:cut_pickle_eating_2"
+  ],
+  "culturaldelights:egg_roll": [
+    "culturaldelights:egg_roll",
+    "culturaldelights:egg_roll",
+    "culturaldelights:egg_roll_eating_0",
+    "culturaldelights:egg_roll_eating_1",
+    "culturaldelights:egg_roll_eating_2"
+  ],
+  "culturaldelights:eggplant": [
+    "culturaldelights:eggplant",
+    "culturaldelights:eggplant",
+    "culturaldelights:eggplant_eating_0",
+    "culturaldelights:eggplant_eating_1",
+    "culturaldelights:eggplant_eating_2"
+  ],
+  "culturaldelights:eggplant_burger": [
+    "culturaldelights:eggplant_burger",
+    "culturaldelights:eggplant_burger",
+    "culturaldelights:eggplant_burger_eating_0",
+    "culturaldelights:eggplant_burger_eating_1",
+    "culturaldelights:eggplant_burger_eating_2"
+  ],
+  "culturaldelights:eggplant_parmesan": [
+    "culturaldelights:eggplant_parmesan",
+    "culturaldelights:eggplant_parmesan",
+    "culturaldelights:eggplant_parmesan_eating_0",
+    "culturaldelights:eggplant_parmesan_eating_1",
+    "culturaldelights:eggplant_parmesan_eating_2"
+  ],
+  "culturaldelights:elote": [
+    "culturaldelights:elote",
+    "culturaldelights:elote",
+    "culturaldelights:elote_eating_0",
+    "culturaldelights:elote_eating_1",
+    "culturaldelights:elote_eating_2"
+  ],
+  "culturaldelights:empanada": [
+    "culturaldelights:empanada",
+    "culturaldelights:empanada",
+    "culturaldelights:empanada_eating_0",
+    "culturaldelights:empanada_eating_1",
+    "culturaldelights:empanada_eating_2"
+  ],
+  "culturaldelights:fish_taco": [
+    "culturaldelights:fish_taco",
+    "culturaldelights:fish_taco",
+    "culturaldelights:fish_taco_eating_0",
+    "culturaldelights:fish_taco_eating_1",
+    "culturaldelights:fish_taco_eating_2"
+  ],
+  "culturaldelights:hearty_salad": [
+    "culturaldelights:hearty_salad",
+    "culturaldelights:hearty_salad",
+    "culturaldelights:hearty_salad_eating_0",
+    "culturaldelights:hearty_salad_eating_1",
+    "culturaldelights:hearty_salad_eating_2"
+  ],
+  "culturaldelights:midori_roll": [
+    "culturaldelights:midori_roll",
+    "culturaldelights:midori_roll",
+    "culturaldelights:midori_roll_eating_0",
+    "culturaldelights:midori_roll_eating_1",
+    "culturaldelights:midori_roll_eating_2"
+  ],
+  "culturaldelights:midori_roll_slice": [
+    "culturaldelights:midori_roll_slice",
+    "culturaldelights:midori_roll_slice",
+    "culturaldelights:midori_roll_slice_eating_0",
+    "culturaldelights:midori_roll_slice_eating_1",
+    "culturaldelights:midori_roll_slice_eating_2"
+  ],
+  "culturaldelights:mutton_sandwich": [
+    "culturaldelights:mutton_sandwich",
+    "culturaldelights:mutton_sandwich",
+    "culturaldelights:mutton_sandwich_eating_0",
+    "culturaldelights:mutton_sandwich_eating_1",
+    "culturaldelights:mutton_sandwich_eating_2"
+  ],
+  "culturaldelights:pickle": [
+    "culturaldelights:pickle",
+    "culturaldelights:pickle",
+    "culturaldelights:pickle_eating_0",
+    "culturaldelights:pickle_eating_1",
+    "culturaldelights:pickle_eating_2"
+  ],
+  "culturaldelights:poached_eggplants": [
+    "culturaldelights:poached_eggplants",
+    "culturaldelights:poached_eggplants",
+    "culturaldelights:poached_eggplants_eating_0",
+    "culturaldelights:poached_eggplants_eating_1",
+    "culturaldelights:poached_eggplants_eating_2"
+  ],
+  "culturaldelights:popcorn": [
+    "culturaldelights:popcorn",
+    "culturaldelights:popcorn",
+    "culturaldelights:popcorn_eating_0",
+    "culturaldelights:popcorn_eating_1",
+    "culturaldelights:popcorn_eating_2"
+  ],
+  "culturaldelights:pork_wrap": [
+    "culturaldelights:pork_wrap",
+    "culturaldelights:pork_wrap",
+    "culturaldelights:pork_wrap_eating_0",
+    "culturaldelights:pork_wrap_eating_1",
+    "culturaldelights:pork_wrap_eating_2"
+  ],
+  "culturaldelights:pufferfish_roll": [
+    "culturaldelights:pufferfish_roll",
+    "culturaldelights:pufferfish_roll",
+    "culturaldelights:pufferfish_roll_eating_0",
+    "culturaldelights:pufferfish_roll_eating_1",
+    "culturaldelights:pufferfish_roll_eating_2"
+  ],
+  "culturaldelights:rice_ball": [
+    "culturaldelights:rice_ball",
+    "culturaldelights:rice_ball",
+    "culturaldelights:rice_ball_eating_0",
+    "culturaldelights:rice_ball_eating_1",
+    "culturaldelights:rice_ball_eating_2"
+  ],
+  "culturaldelights:smoked_cut_eggplant": [
+    "culturaldelights:smoked_cut_eggplant",
+    "culturaldelights:smoked_cut_eggplant",
+    "culturaldelights:smoked_cut_eggplant_eating_0",
+    "culturaldelights:smoked_cut_eggplant_eating_1",
+    "culturaldelights:smoked_cut_eggplant_eating_2"
+  ],
+  "culturaldelights:smoked_eggplant": [
+    "culturaldelights:smoked_eggplant",
+    "culturaldelights:smoked_eggplant",
+    "culturaldelights:smoked_eggplant_eating_0",
+    "culturaldelights:smoked_eggplant_eating_1",
+    "culturaldelights:smoked_eggplant_eating_2"
+  ],
+  "culturaldelights:smoked_tomato": [
+    "culturaldelights:smoked_tomato",
+    "culturaldelights:smoked_tomato",
+    "culturaldelights:smoked_tomato_eating_0",
+    "culturaldelights:smoked_tomato_eating_1",
+    "culturaldelights:smoked_tomato_eating_2"
+  ],
+  "culturaldelights:smoked_white_eggplant": [
+    "culturaldelights:smoked_white_eggplant",
+    "culturaldelights:smoked_white_eggplant",
+    "culturaldelights:smoked_white_eggplant_eating_0",
+    "culturaldelights:smoked_white_eggplant_eating_1",
+    "culturaldelights:smoked_white_eggplant_eating_2"
+  ],
+  "culturaldelights:spicy_curry": [
+    "culturaldelights:spicy_curry",
+    "culturaldelights:spicy_curry",
+    "culturaldelights:spicy_curry_eating_0",
+    "culturaldelights:spicy_curry_eating_1",
+    "culturaldelights:spicy_curry_eating_2"
+  ],
+  "culturaldelights:tortilla": [
+    "culturaldelights:tortilla",
+    "culturaldelights:tortilla",
+    "culturaldelights:tortilla_eating_0",
+    "culturaldelights:tortilla_eating_1",
+    "culturaldelights:tortilla_eating_2"
+  ],
+  "culturaldelights:tortilla_chips": [
+    "culturaldelights:tortilla_chips",
+    "culturaldelights:tortilla_chips",
+    "culturaldelights:tortilla_chips_eating_0",
+    "culturaldelights:tortilla_chips_eating_1",
+    "culturaldelights:tortilla_chips_eating_2"
+  ],
+  "culturaldelights:tropical_roll": [
+    "culturaldelights:tropical_roll",
+    "culturaldelights:tropical_roll",
+    "culturaldelights:tropical_roll_eating_0",
+    "culturaldelights:tropical_roll_eating_1",
+    "culturaldelights:tropical_roll_eating_2"
+  ],
+  "culturaldelights:white_eggplant": [
+    "culturaldelights:white_eggplant",
+    "culturaldelights:white_eggplant",
+    "culturaldelights:white_eggplant_eating_0",
+    "culturaldelights:white_eggplant_eating_1",
+    "culturaldelights:white_eggplant_eating_2"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "alexsmobs:item/spawn_egg/spawn_egg_anteater"
+  }
+}

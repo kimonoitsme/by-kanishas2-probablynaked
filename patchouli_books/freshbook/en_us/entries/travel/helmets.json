@@ -1,0 +1,20 @@
+{
+    "name": "§7§lПолезные шлема",
+    "icon": "grapesadventures:spelunker_helmet",
+    "category": "patchouli:travel_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "crafting",
+            "title": "§6§lПещеры",
+            "text": " §oКрайне удобные в §oпутешествии, всегда §oосветят путь, §oзащитят и согреют. §6§n§oШлема §6§n§oисследователей$() §oкрайне полезны!",
+            "recipe": "grapesadventures:spelunker_helmet"
+        },
+        {
+            "type": "crafting",
+            "title": "§3§lНезер",
+            "text": " §oДля прогулок по §oНезеру рекомендую §oобратить внимание §oна него - он немного §oосветит путь и §oслегка $(l:patchouli:coldsweat/cooling)§oохладит$() §oв §oадской жаре.",
+            "recipe": "grapesadventures:spirit_explorer_helmet"
+        }
+    ]
+}

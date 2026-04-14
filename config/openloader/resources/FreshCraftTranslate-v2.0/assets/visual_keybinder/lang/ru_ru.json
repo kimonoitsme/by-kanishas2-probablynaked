@@ -1,0 +1,13 @@
+{
+    "key.raws_visual_keybinder.category": "Визуальное назначение клавиш",
+    "key.raws_visual_keybinder.open_screen": "Открыть настройки клавиш",
+    "key.raws_visual_keybinder.switch_to_preset_1": "Переключитесь на пресет 1",
+    "key.raws_visual_keybinder.switch_to_preset_2": "Переключитесь на пресет 2",
+    "key.raws_visual_keybinder.switch_to_preset_3": "Переключитесь на пресет 3",
+    "key.raws_visual_keybinder.switch_to_preset_4": "Переключитесь на пресет 4",
+    "key.raws_visual_keybinder.switch_to_preset_5": "Переключитесь на пресет 5",
+    "raws_visual_keybinder.screen.button.raws_visual_keybinder_button": "Визуальные Клавиши",
+    "raws_visual_keybinder.action_result_message.failed_to_get_presets": "Не удалось найти пресет %s",
+    "raws_visual_keybinder.action_result_message.loading_preset_failed": "Что-то пошло не так при загрузке пресета: %s",
+    "raws_visual_keybinder.action_result_message.preset_loaded": "Пресет %s загружен"
+}

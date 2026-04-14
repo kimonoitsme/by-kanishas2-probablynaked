@@ -1,0 +1,18 @@
+{
+    "name": "§5§lПодземелья",
+    "icon": "minecells:prison_doorway",
+    "category": "patchouli:fantasy_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "text",
+            "text": "§oНевероятные §oтаинственные §oизмерения §oподземелий, где §oвы §oвстретите новые §oсооружения, опасных §oмонстров и древнее §oчудище, но за то и §oвместе с тем §oсокровища!"
+        },
+        {
+            "type": "crafting",
+            "recipe": "minecells:minecells_guidebook",
+            "title": "§5§lРуководство",
+            "text": "§oКнига поможет вам в §oваших начинаниях. §oНачинается всё с §oнеобычного портала §oв §oВерхнем мире..."
+        }
+    ]
+}

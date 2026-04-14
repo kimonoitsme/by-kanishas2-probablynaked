@@ -1,0 +1,15 @@
+{
+  "name": "Огненный котел",
+  "icon": "twilightdelight:fiery_cooking_pot",
+  "category": "twilightdelight:tricks",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Разогревается сам. Готовьте блюда, добавленные в Twilight Forest или Twilight's Flavor & Delight, в течение 10 секунд, если требуется больше времени. Готовьте их в течение 5 секунд на плите-лабиринте."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "twilightdelight:fiery_cooking_pot"
+	}
+  ]
+}

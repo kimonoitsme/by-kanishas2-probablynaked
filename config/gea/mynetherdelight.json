@@ -1,0 +1,513 @@
+{
+  "mynethersdelight:bleeding_tartar": [
+    "mynethersdelight:bleeding_tartar",
+    "mynethersdelight:bleeding_tartar",
+    "mynethersdelight:bleeding_tartar_eating_0",
+    "mynethersdelight:bleeding_tartar_eating_1",
+    "mynethersdelight:bleeding_tartar_eating_2"
+  ],
+  "mynethersdelight:striderloaf ": [
+    "mynethersdelight:striderloaf ",
+    "mynethersdelight:striderloaf ",
+    "mynethersdelight:striderloaf _eating_0",
+    "mynethersdelight:striderloaf _eating_1",
+    "mynethersdelight:striderloaf _eating_2"
+  ],
+  "mynethersdelight:blue_tenderloin_steak": [
+    "mynethersdelight:blue_tenderloin_steak",
+    "mynethersdelight:blue_tenderloin_steak",
+    "mynethersdelight:blue_tenderloin_steak_eating_0",
+    "mynethersdelight:blue_tenderloin_steak_eating_1",
+    "mynethersdelight:blue_tenderloin_steak_eating_2"
+  ],
+  "mynethersdelight:boiled_egg": [
+    "mynethersdelight:boiled_egg",
+    "mynethersdelight:boiled_egg",
+    "mynethersdelight:boiled_egg_eating_0",
+    "mynethersdelight:boiled_egg_eating_1",
+    "mynethersdelight:boiled_egg_eating_2"
+  ],
+  "mynethersdelight:breakfast_sampler": [
+    "mynethersdelight:breakfast_sampler",
+    "mynethersdelight:breakfast_sampler",
+    "mynethersdelight:breakfast_sampler_eating_0",
+    "mynethersdelight:breakfast_sampler_eating_1",
+    "mynethersdelight:breakfast_sampler_eating_2"
+  ],
+  "mynethersdelight:bullet_pepper": [
+    "mynethersdelight:bullet_pepper",
+    "mynethersdelight:bullet_pepper",
+    "mynethersdelight:bullet_pepper_eating_0",
+    "mynethersdelight:bullet_pepper_eating_1",
+    "mynethersdelight:bullet_pepper_eating_2"
+  ],
+  "mynethersdelight:burnt_roll": [
+    "mynethersdelight:burnt_roll",
+    "mynethersdelight:burnt_roll",
+    "mynethersdelight:burnt_roll_eating_0",
+    "mynethersdelight:burnt_roll_eating_1",
+    "mynethersdelight:burnt_roll_eating_2"
+  ],
+  "mynethersdelight:chilidog": [
+    "mynethersdelight:chilidog",
+    "mynethersdelight:chilidog",
+    "mynethersdelight:chilidog_eating_0",
+    "mynethersdelight:chilidog_eating_1",
+    "mynethersdelight:chilidog_eating_2"
+  ],
+  "mynethersdelight:cooked_loin": [
+    "mynethersdelight:cooked_loin",
+    "mynethersdelight:cooked_loin",
+    "mynethersdelight:cooked_loin_eating_0",
+    "mynethersdelight:cooked_loin_eating_1",
+    "mynethersdelight:cooked_loin_eating_2"
+  ],
+  "mynethersdelight:crimson_stroganoff": [
+    "mynethersdelight:crimson_stroganoff",
+    "mynethersdelight:crimson_stroganoff",
+    "mynethersdelight:crimson_stroganoff_eating_0",
+    "mynethersdelight:crimson_stroganoff_eating_1",
+    "mynethersdelight:crimson_stroganoff_eating_2"
+  ],
+  "mynethersdelight:deviled_egg": [
+    "mynethersdelight:deviled_egg",
+    "mynethersdelight:deviled_egg",
+    "mynethersdelight:deviled_egg_eating_0",
+    "mynethersdelight:deviled_egg_eating_1",
+    "mynethersdelight:deviled_egg_eating_2"
+  ],
+  "mynethersdelight:fried_hoglin_chop": [
+    "mynethersdelight:fried_hoglin_chop",
+    "mynethersdelight:fried_hoglin_chop",
+    "mynethersdelight:fried_hoglin_chop_eating_0",
+    "mynethersdelight:fried_hoglin_chop_eating_1",
+    "mynethersdelight:fried_hoglin_chop_eating_2"
+  ],
+  "mynethersdelight:ghast_dough": [
+    "mynethersdelight:ghast_dough",
+    "mynethersdelight:ghast_dough",
+    "mynethersdelight:ghast_dough_eating_0",
+    "mynethersdelight:ghast_dough_eating_1",
+    "mynethersdelight:ghast_dough_eating_2"
+  ],
+  "mynethersdelight:ghast_salad": [
+    "mynethersdelight:ghast_salad",
+    "mynethersdelight:ghast_salad",
+    "mynethersdelight:ghast_salad_eating_0",
+    "mynethersdelight:ghast_salad_eating_1",
+    "mynethersdelight:ghast_salad_eating_2"
+  ],
+  "mynethersdelight:ghasta": [
+    "mynethersdelight:ghasta",
+    "mynethersdelight:ghasta",
+    "mynethersdelight:ghasta_eating_0",
+    "mynethersdelight:ghasta_eating_1",
+    "mynethersdelight:ghasta_eating_2"
+  ],
+  "mynethersdelight:hot_cream": [
+    "mynethersdelight:hot_cream",
+    "mynethersdelight:hot_cream",
+    "mynethersdelight:hot_cream_eating_0",
+    "mynethersdelight:hot_cream_eating_1",
+    "mynethersdelight:hot_cream_eating_2"
+  ],
+  "mynethersdelight:hot_cream_cone": [
+    "mynethersdelight:hot_cream_cone",
+    "mynethersdelight:hot_cream_cone",
+    "mynethersdelight:hot_cream_cone_eating_0",
+    "mynethersdelight:hot_cream_cone_eating_1",
+    "mynethersdelight:hot_cream_cone_eating_2"
+  ],
+  "mynethersdelight:hot_wings": [
+    "mynethersdelight:hot_wings",
+    "mynethersdelight:hot_wings",
+    "mynethersdelight:hot_wings_eating_0",
+    "mynethersdelight:hot_wings_eating_1",
+    "mynethersdelight:hot_wings_eating_2"
+  ],
+  "mynethersdelight:hot_wings_bucket": [
+    "mynethersdelight:hot_wings_bucket",
+    "mynethersdelight:hot_wings_bucket",
+    "mynethersdelight:hot_wings_bucket_eating_0",
+    "mynethersdelight:hot_wings_bucket_eating_1",
+    "mynethersdelight:hot_wings_bucket_eating_2"
+  ],
+  "mynethersdelight:hotdog": [
+    "mynethersdelight:hotdog",
+    "mynethersdelight:hotdog",
+    "mynethersdelight:hotdog_eating_0",
+    "mynethersdelight:hotdog_eating_1",
+    "mynethersdelight:hotdog_eating_2"
+  ],
+  "mynethersdelight:magma_cake_slice": [
+    "mynethersdelight:magma_cake_slice",
+    "mynethersdelight:magma_cake_slice",
+    "mynethersdelight:magma_cake_slice_eating_0",
+    "mynethersdelight:magma_cake_slice_eating_1",
+    "mynethersdelight:magma_cake_slice_eating_2"
+  ],
+  "mynethersdelight:minced_strider": [
+    "mynethersdelight:minced_strider",
+    "mynethersdelight:minced_strider",
+    "mynethersdelight:minced_strider_eating_0",
+    "mynethersdelight:minced_strider_eating_1",
+    "mynethersdelight:minced_strider_eating_2"
+  ],
+  "mynethersdelight:plate_of_stuffed_hoglin": [
+    "mynethersdelight:plate_of_stuffed_hoglin",
+    "mynethersdelight:plate_of_stuffed_hoglin",
+    "mynethersdelight:plate_of_stuffed_hoglin_eating_0",
+    "mynethersdelight:plate_of_stuffed_hoglin_eating_1",
+    "mynethersdelight:plate_of_stuffed_hoglin_eating_2"
+  ],
+  "mynethersdelight:roast_ear": [
+    "mynethersdelight:roast_ear",
+    "mynethersdelight:roast_ear",
+    "mynethersdelight:roast_ear_eating_0",
+    "mynethersdelight:roast_ear_eating_1",
+    "mynethersdelight:roast_ear_eating_2"
+  ],
+  "mynethersdelight:sausage": [
+    "mynethersdelight:sausage",
+    "mynethersdelight:sausage",
+    "mynethersdelight:sausage_eating_0",
+    "mynethersdelight:sausage_eating_1",
+    "mynethersdelight:sausage_eating_2"
+  ],
+  "mynethersdelight:strider": [
+    "mynethersdelight:strider",
+    "mynethersdelight:strider",
+    "mynethersdelight:strider_eating_0",
+    "mynethersdelight:strider_eating_1",
+    "mynethersdelight:strider_eating_2"
+  ],
+  "mynethersdelight:strider_and_grilled_fungus": [
+    "mynethersdelight:strider_and_grilled_fungus",
+    "mynethersdelight:strider_and_grilled_fungus",
+    "mynethersdelight:strider_and_grilled_fungus_eating_0",
+    "mynethersdelight:strider_and_grilled_fungus_eating_1",
+    "mynethersdelight:strider_and_grilled_fungus_eating_2"
+  ],
+  "mynethersdelight:broken_strider_egg": [
+    "mynethersdelight:broken_strider_egg",
+    "mynethersdelight:broken_strider_egg",
+    "mynethersdelight:broken_strider_egg_eating_0",
+    "mynethersdelight:broken_strider_egg_eating_1",
+    "mynethersdelight:broken_strider_egg_eating_2"
+  ],
+  "mynethersdelight:cold_striderloaf": [
+    "mynethersdelight:cold_striderloaf",
+    "mynethersdelight:cold_striderloaf",
+    "mynethersdelight:cold_striderloaf_eating_0",
+    "mynethersdelight:cold_striderloaf_eating_1",
+    "mynethersdelight:cold_striderloaf_eating_2"
+  ],
+  "mynethersdelight:ghasta_with_cream": [
+    "mynethersdelight:ghasta_with_cream",
+    "mynethersdelight:ghasta_with_cream",
+    "mynethersdelight:ghasta_with_cream_eating_0",
+    "mynethersdelight:ghasta_with_cream_eating_1",
+    "mynethersdelight:ghasta_with_cream_eating_2"
+  ],
+  "mynethersdelight:loin": [
+    "mynethersdelight:loin",
+    "mynethersdelight:loin",
+    "mynethersdelight:loin_eating_0",
+    "mynethersdelight:loin_eating_1",
+    "mynethersdelight:loin_eating_2"
+  ],
+  "mynethersdelight:plate_of_hoglin_ham": [
+    "mynethersdelight:plate_of_hoglin_ham",
+    "mynethersdelight:plate_of_hoglin_ham",
+    "mynethersdelight:plate_of_hoglin_ham_eating_0",
+    "mynethersdelight:plate_of_hoglin_ham_eating_1",
+    "mynethersdelight:plate_of_hoglin_ham_eating_2"
+  ],
+  "mynethersdelight:plate_of_stuffed_snout": [
+    "mynethersdelight:plate_of_stuffed_snout",
+    "mynethersdelight:plate_of_stuffed_snout",
+    "mynethersdelight:plate_of_stuffed_snout_eating_0",
+    "mynethersdelight:plate_of_stuffed_snout_eating_1",
+    "mynethersdelight:plate_of_stuffed_snout_eating_2"
+  ],
+  "mynethersdelight:roast_stuffed_hoglin": [
+    "mynethersdelight:roast_stuffed_hoglin",
+    "mynethersdelight:roast_stuffed_hoglin",
+    "mynethersdelight:roast_stuffed_hoglin_eating_0",
+    "mynethersdelight:roast_stuffed_hoglin_eating_1",
+    "mynethersdelight:roast_stuffed_hoglin_eating_2"
+  ],
+  "mynethersdelight:roasted_sausage": [
+    "mynethersdelight:roasted_sausage",
+    "mynethersdelight:roasted_sausage",
+    "mynethersdelight:roasted_sausage_eating_0",
+    "mynethersdelight:roasted_sausage_eating_1",
+    "mynethersdelight:roasted_sausage_eating_2"
+  ],
+  "mynethersdelight:rock_soup": [
+    "mynethersdelight:rock_soup",
+    "mynethersdelight:rock_soup",
+    "mynethersdelight:rock_soup_eating_0",
+    "mynethersdelight:rock_soup_eating_1",
+    "mynethersdelight:rock_soup_eating_2"
+  ],
+  "mynethersdelight:sausage_and_potatoes": [
+    "mynethersdelight:sausage_and_potatoes",
+    "mynethersdelight:sausage_and_potatoes",
+    "mynethersdelight:sausage_and_potatoes_eating_0",
+    "mynethersdelight:sausage_and_potatoes_eating_1",
+    "mynethersdelight:sausage_and_potatoes_eating_2"
+  ],
+  "mynethersdelight:spicy_cotton": [
+    "mynethersdelight:spicy_cotton",
+    "mynethersdelight:spicy_cotton",
+    "mynethersdelight:spicy_cotton_eating_0",
+    "mynethersdelight:spicy_cotton_eating_1",
+    "mynethersdelight:spicy_cotton_eating_2"
+  ],
+  "mynethersdelight:spicy_curry": [
+    "mynethersdelight:spicy_curry",
+    "mynethersdelight:spicy_curry",
+    "mynethersdelight:spicy_curry_eating_0",
+    "mynethersdelight:spicy_curry_eating_1",
+    "mynethersdelight:spicy_curry_eating_2"
+  ],
+  "mynethersdelight:spicy_hoglin_stew": [
+    "mynethersdelight:spicy_hoglin_stew",
+    "mynethersdelight:spicy_hoglin_stew",
+    "mynethersdelight:spicy_hoglin_stew_eating_0",
+    "mynethersdelight:spicy_hoglin_stew_eating_1",
+    "mynethersdelight:spicy_hoglin_stew_eating_2"
+  ],
+  "mynethersdelight:spicy_noodle_soup": [
+    "mynethersdelight:spicy_noodle_soup",
+    "mynethersdelight:spicy_noodle_soup",
+    "mynethersdelight:spicy_noodle_soup_eating_0",
+    "mynethersdelight:spicy_noodle_soup_eating_1",
+    "mynethersdelight:spicy_noodle_soup_eating_2"
+  ],
+  "mynethersdelight:spicy_skewer": [
+    "mynethersdelight:spicy_skewer",
+    "mynethersdelight:spicy_skewer",
+    "mynethersdelight:spicy_skewer_eating_0",
+    "mynethersdelight:spicy_skewer_eating_1",
+    "mynethersdelight:spicy_skewer_eating_2"
+  ],
+  "mynethersdelight:strider_stew": [
+    "mynethersdelight:strider_stew",
+    "mynethersdelight:strider_stew",
+    "mynethersdelight:strider_stew_eating_0",
+    "mynethersdelight:strider_stew_eating_1",
+    "mynethersdelight:strider_stew_eating_2"
+  ],
+  "mynethersdelight:stuffed_hoglin": [
+    "mynethersdelight:stuffed_hoglin",
+    "mynethersdelight:stuffed_hoglin",
+    "mynethersdelight:stuffed_hoglin_eating_0",
+    "mynethersdelight:stuffed_hoglin_eating_1",
+    "mynethersdelight:stuffed_hoglin_eating_2"
+  ],
+  "mynethersdelight:hoglin_loin": [
+    "mynethersdelight:hoglin_loin",
+    "mynethersdelight:hoglin_loin",
+    "mynethersdelight:loin_eating_0",
+    "mynethersdelight:loin_eating_1",
+    "mynethersdelight:loin_eating_2"
+  ],
+  "mynethersdelight:hoglin_sausage": [
+    "mynethersdelight:hoglin_sausage",
+    "mynethersdelight:hoglin_sausage",
+    "mynethersdelight:sausage_eating_0",
+    "mynethersdelight:sausage_eating_1",
+    "mynethersdelight:sausage_eating_2"
+  ],
+  "mynethersdelight:plate_of_stuffed_hoglin_snout": [
+    "mynethersdelight:plate_of_stuffed_hoglin_snout",
+    "mynethersdelight:plate_of_stuffed_hoglin_snout",
+    "mynethersdelight:plate_of_stuffed_snout_eating_0",
+    "mynethersdelight:plate_of_stuffed_snout_eating_1",
+    "mynethersdelight:plate_of_stuffed_snout_eating_2"
+  ],
+  "mynethersdelight:plate_of_stuffed_hoglin_ham": [
+    "mynethersdelight:plate_of_stuffed_hoglin_ham",
+    "mynethersdelight:plate_of_stuffed_hoglin_ham",
+    "mynethersdelight:plate_of_hoglin_ham_eating_0",
+    "mynethersdelight:plate_of_hoglin_ham_eating_1",
+    "mynethersdelight:plate_of_hoglin_ham_eating_2"
+  ],
+  "mynethersdelight:strider_egg": [
+    "mynethersdelight:strider_egg",
+    "mynethersdelight:strider_egg",
+    "mynethersdelight:broken_strider_egg_eating_0",
+    "mynethersdelight:broken_strider_egg_eating_1",
+    "mynethersdelight:broken_strider_egg_eating_2"
+  ],
+  "mynethersdelight:strider_slice": [
+    "mynethersdelight:strider_slice",
+    "mynethersdelight:strider_slice",
+    "mynethersdelight:strider_eating_0",
+    "mynethersdelight:strider_eating_1",
+    "mynethersdelight:strider_eating_2"
+  ],
+  "mynethersdelight:strider_with_grilled_fungus": [
+    "mynethersdelight:strider_with_grilled_fungus",
+    "mynethersdelight:strider_with_grilled_fungus",
+    "mynethersdelight:strider_and_grilled_fungus_eating_0",
+    "mynethersdelight:strider_and_grilled_fungus_eating_1",
+    "mynethersdelight:strider_and_grilled_fungus_eating_2"
+  ],
+  "mynethersdelight:plate_of_striderloaf": [
+    "mynethersdelight:plate_of_striderloaf",
+    "mynethersdelight:plate_of_striderloaf",
+    "mynethersdelight:striderloaf_eating_0",
+    "mynethersdelight:striderloaf_eating_1",
+    "mynethersdelight:striderloaf_eating_2"
+  ],
+  "mynethersdelight:plate_of_cold_striderloaf": [
+    "mynethersdelight:plate_of_cold_striderloaf",
+    "mynethersdelight:plate_of_cold_striderloaf",
+    "mynethersdelight:cold_striderloaf_eating_0",
+    "mynethersdelight:cold_striderloaf_eating_1",
+    "mynethersdelight:cold_striderloaf_eating_2"
+  ],
+  "mynethersdelight:plate_of_ghasta_with_cream": [
+    "mynethersdelight:plate_of_ghasta_with_cream",
+    "mynethersdelight:plate_of_ghasta_with_cream",
+    "mynethersdelight:ghasta_with_cream_eating_0",
+    "mynethersdelight:ghasta_with_cream_eating_1",
+    "mynethersdelight:ghasta_with_cream_eating_2"
+  ],
+  "mynethersdelight:dried_ghast_with_milk": [
+    "mynethersdelight:dried_ghast_with_milk",
+    "mynethersdelight:dried_ghast_with_milk",
+    "mynethersdelight:dried_ghast_with_milk_eating_0",
+    "mynethersdelight:dried_ghast_with_milk_eating_1",
+    "mynethersdelight:dried_ghast_with_milk_eating_2"
+  ],
+  "mynethersdelight:egg_soup": [
+    "mynethersdelight:egg_soup",
+    "mynethersdelight:egg_soup",
+    "mynethersdelight:egg_soup_eating_0",
+    "mynethersdelight:egg_soup_eating_1",
+    "mynethersdelight:egg_soup_eating_2"
+  ],
+  "mynethersdelight:enchanted_golden_egg": [
+    "mynethersdelight:enchanted_golden_egg",
+    "mynethersdelight:enchanted_golden_egg",
+    "mynethersdelight:golden_egg_eating_0",
+    "mynethersdelight:golden_egg_eating_1",
+    "mynethersdelight:golden_egg_eating_2"
+  ],
+  "mynethersdelight:fries_ghasta": [
+    "mynethersdelight:fries_ghasta",
+    "mynethersdelight:fries_ghasta",
+    "mynethersdelight:fries_ghasta_eating_0",
+    "mynethersdelight:fries_ghasta_eating_1",
+    "mynethersdelight:fries_ghasta_eating_2"
+  ],
+  "mynethersdelight:ghast_sourdough": [
+    "mynethersdelight:ghast_sourdough",
+    "mynethersdelight:ghast_sourdough",
+    "mynethersdelight:ghast_sourdough_eating_0",
+    "mynethersdelight:ghast_sourdough_eating_1",
+    "mynethersdelight:ghast_sourdough_eating_2"
+  ],
+  "mynethersdelight:giant_takoyaki": [
+    "mynethersdelight:giant_takoyaki",
+    "mynethersdelight:giant_takoyaki",
+    "mynethersdelight:giant_takoyaki_eating_0",
+    "mynethersdelight:giant_takoyaki_eating_1",
+    "mynethersdelight:giant_takoyaki_eating_2"
+  ],
+  "mynethersdelight:golden_egg": [
+    "mynethersdelight:golden_egg",
+    "mynethersdelight:golden_egg",
+    "mynethersdelight:golden_egg_eating_0",
+    "mynethersdelight:golden_egg_eating_1",
+    "mynethersdelight:golden_egg_eating_2"
+  ],
+  "mynethersdelight:hotdog_with_mixed_salad": [
+    "mynethersdelight:hotdog_with_mixed_salad",
+    "mynethersdelight:hotdog_with_mixed_salad",
+    "mynethersdelight:hotdog_with_mixed_salad_eating_0",
+    "mynethersdelight:hotdog_with_mixed_salad_eating_1",
+    "mynethersdelight:hotdog_with_mixed_salad_eating_2"
+  ],
+  "mynethersdelight:hotdog_with_nether_salad": [
+    "mynethersdelight:hotdog_with_nether_salad",
+    "mynethersdelight:hotdog_with_nether_salad",
+    "mynethersdelight:hotdog_with_nether_salad_eating_0",
+    "mynethersdelight:hotdog_with_nether_salad_eating_1",
+    "mynethersdelight:hotdog_with_nether_salad_eating_2"
+  ],
+  "mynethersdelight:nether_burger": [
+    "mynethersdelight:nether_burger",
+    "mynethersdelight:nether_burger",
+    "mynethersdelight:nether_burger_eating_0",
+    "mynethersdelight:nether_burger_eating_1",
+    "mynethersdelight:nether_burger_eating_2"
+  ],
+  "mynethersdelight:scotch_eggs": [
+    "mynethersdelight:scotch_eggs",
+    "mynethersdelight:scotch_eggs",
+    "mynethersdelight:scotch_eggs_eating_0",
+    "mynethersdelight:scotch_eggs_eating_1",
+    "mynethersdelight:scotch_eggs_eating_2"
+  ],
+  "mynethersdelight:sizzling_pudding": [
+    "mynethersdelight:sizzling_pudding",
+    "mynethersdelight:sizzling_pudding",
+    "mynethersdelight:sizzling_pudding_eating_0",
+    "mynethersdelight:sizzling_pudding_eating_1",
+    "mynethersdelight:sizzling_pudding_eating_2"
+  ],
+  "mynethersdelight:slices_of_bread": [
+    "mynethersdelight:slices_of_bread",
+    "mynethersdelight:slices_of_bread",
+    "mynethersdelight:slices_of_bread_eating_0",
+    "mynethersdelight:slices_of_bread_eating_1",
+    "mynethersdelight:slices_of_bread_eating_2"
+  ],
+  "mynethersdelight:stuffed_pepper": [
+    "mynethersdelight:stuffed_pepper",
+    "mynethersdelight:stuffed_pepper",
+    "mynethersdelight:stuffed_pepper_eating_0",
+    "mynethersdelight:stuffed_pepper_eating_1",
+    "mynethersdelight:stuffed_pepper_eating_2"
+  ],
+  "mynethersdelight:tear_popsicle": [
+    "mynethersdelight:tear_popsicle",
+    "mynethersdelight:tear_popsicle",
+    "mynethersdelight:tear_popsicle_eating_0",
+    "mynethersdelight:tear_popsicle_eating_1",
+    "mynethersdelight:tear_popsicle_eating_2"
+  ],
+  "mynethersdelight:toasts": [
+    "mynethersdelight:toasts",
+    "mynethersdelight:toasts",
+    "mynethersdelight:toasts_eating_0",
+    "mynethersdelight:toasts_eating_1",
+    "mynethersdelight:toasts_eating_2"
+  ],
+  "mynethersdelight:twisted_ghasta": [
+    "mynethersdelight:twisted_ghasta",
+    "mynethersdelight:twisted_ghasta",
+    "mynethersdelight:twisted_ghasta_eating_0",
+    "mynethersdelight:twisted_ghasta_eating_1",
+    "mynethersdelight:twisted_ghasta_eating_2"
+  ],
+  "mynethersdelight:bacon-wrapped_sausage_on_a_stick": [
+    "mynethersdelight:bacon-wrapped_sausage_on_a_stick",
+    "mynethersdelight:bacon-wrapped_sausage_on_a_stick",
+    "mynethersdelight:bacon-wrapped_sausage_stick_eating_0",
+    "mynethersdelight:bacon-wrapped_sausage_stick_eating_1",
+    "mynethersdelight:bacon-wrapped_sausage_stick_eating_2"
+  ],
+  "mynethersdelight:red_loin_on_a_stick": [
+    "mynethersdelight:red_loin_on_a_stick",
+    "mynethersdelight:red_loin_on_a_stick",
+    "mynethersdelight:red_loin_stick_eating_0",
+    "mynethersdelight:red_loin_stick_eating_1",
+    "mynethersdelight:red_loin_stick_eating_2"
+  ]
+}

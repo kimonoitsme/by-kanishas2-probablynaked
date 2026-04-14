@@ -1,0 +1,6 @@
+{
+  "parent": "farmersdelight:item/mug",
+  "textures": {
+    "layer0": "delightful:item/prickly_pear_juice_eating_0"
+  }
+}

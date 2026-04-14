@@ -1,0 +1,6 @@
+biomesoplenty:white_sand minecraft:sand yungscavebiomes:ancient_sand \
+atmospheric:arid_sand biomesoplenty:orange_sand atmospheric:red_arid_sand \
+minecraft:red_sand biomesoplenty:black_sand minecraft:gravel minecraft:soul_sand \
+minecraft:soul_soil minecraft:suspicious_sand betterarcheology:suspicious_red_sand \
+yungscavebiomes:suspicious_ancient_sand atmospheric:suspicious_red_arid_sand \
+atmospheric:suspicious_arid_sand

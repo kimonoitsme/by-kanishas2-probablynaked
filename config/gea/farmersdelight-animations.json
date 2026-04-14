@@ -1,0 +1,548 @@
+{
+  "farmersdelight:milk_bottle": [
+    "farmersdelight:milk_bottle",
+    "farmersdelight:milk_bottle",
+    "farmersdelight:milk_bottle_eating_0",
+    "farmersdelight:milk_bottle_eating_1",
+    "farmersdelight:milk_bottle_eating_2"
+  ],
+  "farmersdelight:apple_cider": [
+    "farmersdelight:apple_cider",
+    "farmersdelight:apple_cider",
+    "eatinganimation:fd_apple_cider_eating_0",
+    "eatinganimation:fd_apple_cider_eating_1",
+    "eatinganimation:fd_apple_cider_eating_2"
+  ],
+  "farmersdelight:apple_pie_slice": [
+    "farmersdelight:apple_pie_slice",
+    "farmersdelight:apple_pie_slice",
+    "eatinganimation:fd_apple_pie_slice_eating_0",
+    "eatinganimation:fd_apple_pie_slice_eating_1",
+    "eatinganimation:fd_apple_pie_slice_eating_2"
+  ],
+  "farmersdelight:bacon_and_eggs": [
+    "farmersdelight:bacon_and_eggs",
+    "farmersdelight:bacon_and_eggs",
+    "eatinganimation:fd_bacon_and_eggs_eating_0",
+    "eatinganimation:fd_bacon_and_eggs_eating_1",
+    "eatinganimation:fd_bacon_and_eggs_eating_2"
+  ],
+  "farmersdelight:bacon": [
+    "farmersdelight:bacon",
+    "farmersdelight:bacon",
+    "eatinganimation:fd_bacon_eating_0",
+    "eatinganimation:fd_bacon_eating_1",
+    "eatinganimation:fd_bacon_eating_2"
+  ],
+  "farmersdelight:bacon_sandwich": [
+    "farmersdelight:bacon_sandwich",
+    "farmersdelight:bacon_sandwich",
+    "eatinganimation:fd_bacon_sandwich_eating_0",
+    "eatinganimation:fd_bacon_sandwich_eating_1",
+    "eatinganimation:fd_bacon_sandwich_eating_2"
+  ],
+  "farmersdelight:baked_cod_stew": [
+    "farmersdelight:baked_cod_stew",
+    "farmersdelight:baked_cod_stew",
+    "eatinganimation:fd_baked_cod_stew_eating_0",
+    "eatinganimation:fd_baked_cod_stew_eating_1",
+    "eatinganimation:fd_baked_cod_stew_eating_2"
+  ],
+  "farmersdelight:barbecue_stick": [
+    "farmersdelight:barbecue_stick",
+    "farmersdelight:barbecue_stick",
+    "eatinganimation:fd_barbecue_stick_eating_0",
+    "eatinganimation:fd_barbecue_stick_eating_1",
+    "eatinganimation:fd_barbecue_stick_eating_2"
+  ],
+  "farmersdelight:beef_patty": [
+    "farmersdelight:beef_patty",
+    "farmersdelight:beef_patty",
+    "eatinganimation:fd_beef_patty_eating_0",
+    "eatinganimation:fd_beef_patty_eating_1",
+    "eatinganimation:fd_beef_patty_eating_2"
+  ],
+  "farmersdelight:beef_stew": [
+    "farmersdelight:beef_stew",
+    "farmersdelight:beef_stew",
+    "eatinganimation:fd_beef_stew_eating_0",
+    "eatinganimation:fd_beef_stew_eating_1",
+    "eatinganimation:fd_beef_stew_eating_2"
+  ],
+  "farmersdelight:bone_broth": [
+    "farmersdelight:bone_broth",
+    "farmersdelight:bone_broth",
+    "eatinganimation:fd_bone_broth_eating_0",
+    "eatinganimation:fd_bone_broth_eating_1",
+    "eatinganimation:fd_bone_broth_eating_2"
+  ],
+  "farmersdelight:cabbage": [
+    "farmersdelight:cabbage",
+    "farmersdelight:cabbage",
+    "eatinganimation:fd_cabbage_eating_0",
+    "eatinganimation:fd_cabbage_eating_1",
+    "eatinganimation:fd_cabbage_eating_2"
+  ],
+  "farmersdelight:cabbage_leaf": [
+    "farmersdelight:cabbage_leaf",
+    "farmersdelight:cabbage_leaf",
+    "eatinganimation:fd_cabbage_leaf_eating_0",
+    "eatinganimation:fd_cabbage_leaf_eating_1",
+    "eatinganimation:fd_cabbage_leaf_eating_2"
+  ],
+  "farmersdelight:cabbage_rolls": [
+    "farmersdelight:cabbage_rolls",
+    "farmersdelight:cabbage_rolls",
+    "eatinganimation:fd_cabbage_rolls_eating_0",
+    "eatinganimation:fd_cabbage_rolls_eating_1",
+    "eatinganimation:fd_cabbage_rolls_eating_2"
+  ],
+  "farmersdelight:cake_slice": [
+    "farmersdelight:cake_slice",
+    "farmersdelight:cake_slice",
+    "eatinganimation:fd_cake_slice_eating_0",
+    "eatinganimation:fd_cake_slice_eating_1",
+    "eatinganimation:fd_cake_slice_eating_2"
+  ],
+  "farmersdelight:chicken_cuts": [
+    "farmersdelight:chicken_cuts",
+    "farmersdelight:chicken_cuts",
+    "eatinganimation:fd_chicken_cuts_eating_0",
+    "eatinganimation:fd_chicken_cuts_eating_1",
+    "eatinganimation:fd_chicken_cuts_eating_2"
+  ],
+  "farmersdelight:chicken_sandwich": [
+    "farmersdelight:chicken_sandwich",
+    "farmersdelight:chicken_sandwich",
+    "eatinganimation:fd_chicken_sandwich_eating_0",
+    "eatinganimation:fd_chicken_sandwich_eating_1",
+    "eatinganimation:fd_chicken_sandwich_eating_2"
+  ],
+  "farmersdelight:chicken_soup": [
+    "farmersdelight:chicken_soup",
+    "farmersdelight:chicken_soup",
+    "eatinganimation:fd_chicken_soup_eating_0",
+    "eatinganimation:fd_chicken_soup_eating_1",
+    "eatinganimation:fd_chicken_soup_eating_2"
+  ],
+  "farmersdelight:chocolate_pie_slice": [
+    "farmersdelight:chocolate_pie_slice",
+    "farmersdelight:chocolate_pie_slice",
+    "eatinganimation:fd_chocolate_pie_slice_eating_0",
+    "eatinganimation:fd_chocolate_pie_slice_eating_1",
+    "eatinganimation:fd_chocolate_pie_slice_eating_2"
+  ],
+  "farmersdelight:cod_roll": [
+    "farmersdelight:cod_roll",
+    "farmersdelight:cod_roll",
+    "eatinganimation:fd_cod_roll_eating_0",
+    "eatinganimation:fd_cod_roll_eating_1",
+    "eatinganimation:fd_cod_roll_eating_2"
+  ],
+  "farmersdelight:cod_slice": [
+    "farmersdelight:cod_slice",
+    "farmersdelight:cod_slice",
+    "eatinganimation:fd_cod_slice_eating_0",
+    "eatinganimation:fd_cod_slice_eating_1",
+    "eatinganimation:fd_cod_slice_eating_2"
+  ],
+  "farmersdelight:cooked_bacon": [
+    "farmersdelight:cooked_bacon",
+    "farmersdelight:cooked_bacon",
+    "eatinganimation:fd_cooked_bacon_eating_0",
+    "eatinganimation:fd_cooked_bacon_eating_1",
+    "eatinganimation:fd_cooked_bacon_eating_2"
+  ],
+  "farmersdelight:cooked_chicken_cuts": [
+    "farmersdelight:cooked_chicken_cuts",
+    "farmersdelight:cooked_chicken_cuts",
+    "eatinganimation:fd_cooked_chicken_cuts_eating_0",
+    "eatinganimation:fd_cooked_chicken_cuts_eating_1",
+    "eatinganimation:fd_cooked_chicken_cuts_eating_2"
+  ],
+  "farmersdelight:cooked_cod_slice": [
+    "farmersdelight:cooked_cod_slice",
+    "farmersdelight:cooked_cod_slice",
+    "eatinganimation:fd_cooked_cod_slice_eating_0",
+    "eatinganimation:fd_cooked_cod_slice_eating_1",
+    "eatinganimation:fd_cooked_cod_slice_eating_2"
+  ],
+  "farmersdelight:cooked_mutton_chops": [
+    "farmersdelight:cooked_mutton_chops",
+    "farmersdelight:cooked_mutton_chops",
+    "eatinganimation:fd_cooked_mutton_chops_eating_0",
+    "eatinganimation:fd_cooked_mutton_chops_eating_1",
+    "eatinganimation:fd_cooked_mutton_chops_eating_2"
+  ],
+  "farmersdelight:cooked_rice": [
+    "farmersdelight:cooked_rice",
+    "farmersdelight:cooked_rice",
+    "eatinganimation:fd_cooked_rice_eating_0",
+    "eatinganimation:fd_cooked_rice_eating_1",
+    "eatinganimation:fd_cooked_rice_eating_2"
+  ],
+  "farmersdelight:cooked_salmon_slice": [
+    "farmersdelight:cooked_salmon_slice",
+    "farmersdelight:cooked_salmon_slice",
+    "eatinganimation:fd_cooked_salmon_slice_eating_0",
+    "eatinganimation:fd_cooked_salmon_slice_eating_1",
+    "eatinganimation:fd_cooked_salmon_slice_eating_2"
+  ],
+  "farmersdelight:dog_food": [
+    "farmersdelight:dog_food",
+    "farmersdelight:dog_food",
+    "eatinganimation:fd_dog_food_eating_0",
+    "eatinganimation:fd_dog_food_eating_1",
+    "eatinganimation:fd_dog_food_eating_2"
+  ],
+  "farmersdelight:dumplings": [
+    "farmersdelight:dumplings",
+    "farmersdelight:dumplings",
+    "eatinganimation:fd_dumplings_eating_0",
+    "eatinganimation:fd_dumplings_eating_1",
+    "eatinganimation:fd_dumplings_eating_2"
+  ],
+  "farmersdelight:egg_sandwich": [
+    "farmersdelight:egg_sandwich",
+    "farmersdelight:egg_sandwich",
+    "eatinganimation:fd_egg_sandwich_eating_0",
+    "eatinganimation:fd_egg_sandwich_eating_1",
+    "eatinganimation:fd_egg_sandwich_eating_2"
+  ],
+  "farmersdelight:fish_stew": [
+    "farmersdelight:fish_stew",
+    "farmersdelight:fish_stew",
+    "eatinganimation:fd_fish_stew_eating_0",
+    "eatinganimation:fd_fish_stew_eating_1",
+    "eatinganimation:fd_fish_stew_eating_2"
+  ],
+  "farmersdelight:fried_egg": [
+    "farmersdelight:fried_egg",
+    "farmersdelight:fried_egg",
+    "eatinganimation:fd_fried_egg_eating_0",
+    "eatinganimation:fd_fried_egg_eating_1",
+    "eatinganimation:fd_fried_egg_eating_2"
+  ],
+  "farmersdelight:minced_beef": [
+    "farmersdelight:minced_beef",
+    "farmersdelight:minced_beef",
+    "eatinganimation:fd_minced_beef_eating_0",
+    "eatinganimation:fd_minced_beef_eating_1",
+    "eatinganimation:fd_minced_beef_eating_2"
+  ],
+  "farmersdelight:mixed_salad": [
+    "farmersdelight:mixed_salad",
+    "farmersdelight:mixed_salad",
+    "eatinganimation:fd_mixed_salad_eating_0",
+    "eatinganimation:fd_mixed_salad_eating_1",
+    "eatinganimation:fd_mixed_salad_eating_2"
+  ],
+  "farmersdelight:mushroom_rice": [
+    "farmersdelight:mushroom_rice",
+    "farmersdelight:mushroom_rice",
+    "eatinganimation:fd_mushroom_rice_eating_0",
+    "eatinganimation:fd_mushroom_rice_eating_1",
+    "eatinganimation:fd_mushroom_rice_eating_2"
+  ],
+  "farmersdelight:mutton_chops": [
+    "farmersdelight:mutton_chops",
+    "farmersdelight:mutton_chops",
+    "eatinganimation:fd_mutton_chops_eating_0",
+    "eatinganimation:fd_mutton_chops_eating_1",
+    "eatinganimation:fd_mutton_chops_eating_2"
+  ],
+  "farmersdelight:mutton_wrap": [
+    "farmersdelight:mutton_wrap",
+    "farmersdelight:mutton_wrap",
+    "eatinganimation:fd_mutton_wrap_eating_0",
+    "eatinganimation:fd_mutton_wrap_eating_1",
+    "eatinganimation:fd_mutton_wrap_eating_2"
+  ],
+  "farmersdelight:nether_salad": [
+    "farmersdelight:nether_salad",
+    "farmersdelight:nether_salad",
+    "eatinganimation:fd_nether_salad_eating_0",
+    "eatinganimation:fd_nether_salad_eating_1",
+    "eatinganimation:fd_nether_salad_eating_2"
+  ],
+  "farmersdelight:noodle_soup": [
+    "farmersdelight:noodle_soup",
+    "farmersdelight:noodle_soup",
+    "eatinganimation:fd_noodle_soup_eating_0",
+    "eatinganimation:fd_noodle_soup_eating_1",
+    "eatinganimation:fd_noodle_soup_eating_2"
+  ],
+  "farmersdelight:onion": [
+    "farmersdelight:onion",
+    "farmersdelight:onion",
+    "eatinganimation:fd_onion_eating_0",
+    "eatinganimation:fd_onion_eating_1",
+    "eatinganimation:fd_onion_eating_2"
+  ],
+  "farmersdelight:pasta_with_meatballs": [
+    "farmersdelight:pasta_with_meatballs",
+    "farmersdelight:pasta_with_meatballs",
+    "eatinganimation:fd_pasta_with_meatballs_eating_0",
+    "eatinganimation:fd_pasta_with_meatballs_eating_1",
+    "eatinganimation:fd_pasta_with_meatballs_eating_2"
+  ],
+  "farmersdelight:pasta_with_mutton_chop": [
+    "farmersdelight:pasta_with_mutton_chop",
+    "farmersdelight:pasta_with_mutton_chop",
+    "eatinganimation:fd_pasta_with_mutton_chop_eating_0",
+    "eatinganimation:fd_pasta_with_mutton_chop_eating_1",
+    "eatinganimation:fd_pasta_with_mutton_chop_eating_2"
+  ],
+  "farmersdelight:pie_crust": [
+    "farmersdelight:pie_crust",
+    "farmersdelight:pie_crust",
+    "eatinganimation:fd_pie_crust_eating_0",
+    "eatinganimation:fd_pie_crust_eating_1",
+    "eatinganimation:fd_pie_crust_eating_2"
+  ],
+  "farmersdelight:pumpkin_pie_slice": [
+    "farmersdelight:pumpkin_pie_slice",
+    "farmersdelight:pumpkin_pie_slice",
+    "eatinganimation:fd_pumpkin_pie_slice_eating_0",
+    "eatinganimation:fd_pumpkin_pie_slice_eating_1",
+    "eatinganimation:fd_pumpkin_pie_slice_eating_2"
+  ],
+  "farmersdelight:pumpkin_slice": [
+    "farmersdelight:pumpkin_slice",
+    "farmersdelight:pumpkin_slice",
+    "eatinganimation:fd_pumpkin_slice_eating_0",
+    "eatinganimation:fd_pumpkin_slice_eating_1",
+    "eatinganimation:fd_pumpkin_slice_eating_2"
+  ],
+  "farmersdelight:pumpkin_soup": [
+    "farmersdelight:pumpkin_soup",
+    "farmersdelight:pumpkin_soup",
+    "eatinganimation:fd_pumpkin_soup_eating_0",
+    "eatinganimation:fd_pumpkin_soup_eating_1",
+    "eatinganimation:fd_pumpkin_soup_eating_2"
+  ],
+  "farmersdelight:ratatouille": [
+    "farmersdelight:ratatouille",
+    "farmersdelight:ratatouille",
+    "eatinganimation:fd_ratatouille_eating_0",
+    "eatinganimation:fd_ratatouille_eating_1",
+    "eatinganimation:fd_ratatouille_eating_2"
+  ],
+  "farmersdelight:raw_pasta": [
+    "farmersdelight:raw_pasta",
+    "farmersdelight:raw_pasta",
+    "eatinganimation:fd_raw_pasta_eating_0",
+    "eatinganimation:fd_raw_pasta_eating_1",
+    "eatinganimation:fd_raw_pasta_eating_2"
+  ],
+  "farmersdelight:roast_chicken": [
+    "farmersdelight:roast_chicken",
+    "farmersdelight:roast_chicken",
+    "eatinganimation:fd_roast_chicken_eating_0",
+    "eatinganimation:fd_roast_chicken_eating_1",
+    "eatinganimation:fd_roast_chicken_eating_2"
+  ],
+  "farmersdelight:roasted_mutton_chops": [
+    "farmersdelight:roasted_mutton_chops",
+    "farmersdelight:roasted_mutton_chops",
+    "eatinganimation:fd_roasted_mutton_chops_eating_0",
+    "eatinganimation:fd_roasted_mutton_chops_eating_1",
+    "eatinganimation:fd_roasted_mutton_chops_eating_2"
+  ],
+  "farmersdelight:salmon_roll": [
+    "farmersdelight:salmon_roll",
+    "farmersdelight:salmon_roll",
+    "eatinganimation:fd_salmon_roll_eating_0",
+    "eatinganimation:fd_salmon_roll_eating_1",
+    "eatinganimation:fd_salmon_roll_eating_2"
+  ],
+  "farmersdelight:salmon_slice": [
+    "farmersdelight:salmon_slice",
+    "farmersdelight:salmon_slice",
+    "eatinganimation:fd_salmon_slice_eating_0",
+    "eatinganimation:fd_salmon_slice_eating_1",
+    "eatinganimation:fd_salmon_slice_eating_2"
+  ],
+  "farmersdelight:shepherds_pie": [
+    "farmersdelight:shepherds_pie",
+    "farmersdelight:shepherds_pie",
+    "eatinganimation:fd_shepherds_pie_eating_0",
+    "eatinganimation:fd_shepherds_pie_eating_1",
+    "eatinganimation:fd_shepherds_pie_eating_2"
+  ],
+  "farmersdelight:smoked_ham": [
+    "farmersdelight:smoked_ham",
+    "farmersdelight:smoked_ham",
+    "eatinganimation:fd_smoked_ham_eating_0",
+    "eatinganimation:fd_smoked_ham_eating_1",
+    "eatinganimation:fd_smoked_ham_eating_2"
+  ],
+  "farmersdelight:ham": [
+    "farmersdelight:ham",
+    "farmersdelight:ham",
+    "eatinganimation:fd_ham_eating_0",
+    "eatinganimation:fd_ham_eating_1",
+    "eatinganimation:fd_ham_eating_2"
+  ],
+  "farmersdelight:squid_ink_pasta": [
+    "farmersdelight:squid_ink_pasta",
+    "farmersdelight:squid_ink_pasta",
+    "eatinganimation:fd_squid_ink_pasta_eating_0",
+    "eatinganimation:fd_squid_ink_pasta_eating_1",
+    "eatinganimation:fd_squid_ink_pasta_eating_2"
+  ],
+  "farmersdelight:steak_and_potatoes": [
+    "farmersdelight:steak_and_potatoes",
+    "farmersdelight:steak_and_potatoes",
+    "eatinganimation:fd_steak_and_potatoes_eating_0",
+    "eatinganimation:fd_steak_and_potatoes_eating_1",
+    "eatinganimation:fd_steak_and_potatoes_eating_2"
+  ],
+  "farmersdelight:stuffed_potato": [
+    "farmersdelight:stuffed_potato",
+    "farmersdelight:stuffed_potato",
+    "eatinganimation:fd_stuffed_potato_eating_0",
+    "eatinganimation:fd_stuffed_potato_eating_1",
+    "eatinganimation:fd_stuffed_potato_eating_2"
+  ],
+  "farmersdelight:stuffed_pumpkin": [
+    "farmersdelight:stuffed_pumpkin",
+    "farmersdelight:stuffed_pumpkin",
+    "eatinganimation:fd_stuffed_pumpkin_eating_0",
+    "eatinganimation:fd_stuffed_pumpkin_eating_1",
+    "eatinganimation:fd_stuffed_pumpkin_eating_2"
+  ],
+  "farmersdelight:sweet_berry_cheesecake_slice": [
+    "farmersdelight:sweet_berry_cheesecake_slice",
+    "farmersdelight:sweet_berry_cheesecake_slice",
+    "eatinganimation:fd_sweet_berry_cheesecake_slice_eating_0",
+    "eatinganimation:fd_sweet_berry_cheesecake_slice_eating_1",
+    "eatinganimation:fd_sweet_berry_cheesecake_slice_eating_2"
+  ],
+  "farmersdelight:sweet_berry_cookie": [
+    "farmersdelight:sweet_berry_cookie",
+    "farmersdelight:sweet_berry_cookie",
+    "eatinganimation:fd_sweet_berry_cookie_eating_0",
+    "eatinganimation:fd_sweet_berry_cookie_eating_1",
+    "eatinganimation:fd_sweet_berry_cookie_eating_2"
+  ],
+  "farmersdelight:tomato": [
+    "farmersdelight:tomato",
+    "farmersdelight:tomato",
+    "eatinganimation:fd_tomato_eating_0",
+    "eatinganimation:fd_tomato_eating_1",
+    "eatinganimation:fd_tomato_eating_2"
+  ],
+  "farmersdelight:tomato_sauce": [
+    "farmersdelight:tomato_sauce",
+    "farmersdelight:tomato_sauce",
+    "eatinganimation:fd_tomato_sauce_eating_0",
+    "eatinganimation:fd_tomato_sauce_eating_1",
+    "eatinganimation:fd_tomato_sauce_eating_2"
+  ],
+  "farmersdelight:vegetable_noodles": [
+    "farmersdelight:vegetable_noodles",
+    "farmersdelight:vegetable_noodles",
+    "eatinganimation:fd_vegetable_noodles_eating_0",
+    "eatinganimation:fd_vegetable_noodles_eating_1",
+    "eatinganimation:fd_vegetable_noodles_eating_2"
+  ],
+  "farmersdelight:vegetable_soup": [
+    "farmersdelight:vegetable_soup",
+    "farmersdelight:vegetable_soup",
+    "eatinganimation:fd_vegetable_soup_eating_0",
+    "eatinganimation:fd_vegetable_soup_eating_1",
+    "eatinganimation:fd_vegetable_soup_eating_2"
+  ],
+  "farmersdelight:wheat_dough": [
+    "farmersdelight:wheat_dough",
+    "farmersdelight:wheat_dough",
+    "eatinganimation:fd_wheat_dough_eating_0",
+    "eatinganimation:fd_wheat_dough_eating_1",
+    "eatinganimation:fd_wheat_dough_eating_2"
+  ],
+  "farmersdelight:hot_cocoa": [
+    "farmersdelight:hot_cocoa",
+    "farmersdelight:hot_cocoa",
+    "eatinganimation:fd_hot_cocoa_eating_0",
+    "eatinganimation:fd_hot_cocoa_eating_1",
+    "eatinganimation:fd_hot_cocoa_eating_2"
+  ],
+  "farmersdelight:honey_cookie": [
+    "farmersdelight:honey_cookie",
+    "farmersdelight:honey_cookie",
+    "eatinganimation:fd_honey_cookie_eating_0",
+    "eatinganimation:fd_honey_cookie_eating_1",
+    "eatinganimation:fd_honey_cookie_eating_2"
+  ],
+  "farmersdelight:melon_popsicle": [
+    "farmersdelight:melon_popsicle",
+    "farmersdelight:melon_popsicle",
+    "eatinganimation:fd_melon_popsicle_eating_0",
+    "eatinganimation:fd_melon_popsicle_eating_1",
+    "eatinganimation:fd_melon_popsicle_eating_2"
+  ],
+  "farmersdelight:glow_berry_custard": [
+    "farmersdelight:glow_berry_custard",
+    "farmersdelight:glow_berry_custard",
+    "eatinganimation:fd_glow_berry_custard_eating_0",
+    "eatinganimation:fd_glow_berry_custard_eating_1",
+    "eatinganimation:fd_glow_berry_custard_eating_2"
+  ],
+  "farmersdelight:fruit_salad": [
+    "farmersdelight:fruit_salad",
+    "farmersdelight:fruit_salad",
+    "eatinganimation:fd_fruit_salad_eating_0",
+    "eatinganimation:fd_fruit_salad_eating_1",
+    "eatinganimation:fd_fruit_salad_eating_2"
+  ],
+  "farmersdelight:hamburger": [
+    "farmersdelight:hamburger",
+    "farmersdelight:hamburger",
+    "eatinganimation:fd_hamburger_eating_0",
+    "eatinganimation:fd_hamburger_eating_1",
+    "eatinganimation:fd_hamburger_eating_2"
+  ],
+  "farmersdelight:kelp_roll": [
+    "farmersdelight:kelp_roll",
+    "farmersdelight:kelp_roll",
+    "eatinganimation:fd_kelp_roll_eating_0",
+    "eatinganimation:fd_kelp_roll_eating_1",
+    "eatinganimation:fd_kelp_roll_eating_2"
+  ],
+  "farmersdelight:kelp_roll_slice": [
+    "farmersdelight:kelp_roll_slice",
+    "farmersdelight:kelp_roll_slice",
+    "eatinganimation:fd_kelp_roll_slice_eating_0",
+    "eatinganimation:fd_kelp_roll_slice_eating_1",
+    "eatinganimation:fd_kelp_roll_slice_eating_2"
+  ],
+  "farmersdelight:fried_rice": [
+    "farmersdelight:fried_rice",
+    "farmersdelight:fried_rice",
+    "eatinganimation:fd_fried_rice_eating_0",
+    "eatinganimation:fd_fried_rice_eating_1",
+    "eatinganimation:fd_fried_rice_eating_2"
+  ],
+  "farmersdelight:grilled_salmon": [
+    "farmersdelight:grilled_salmon",
+    "farmersdelight:grilled_salmon",
+    "eatinganimation:fd_grilled_salmon_eating_0",
+    "eatinganimation:fd_grilled_salmon_eating_1",
+    "eatinganimation:fd_grilled_salmon_eating_2"
+  ],
+  "farmersdelight:honey_glazed_ham": [
+    "farmersdelight:honey_glazed_ham",
+    "farmersdelight:honey_glazed_ham",
+    "eatinganimation:fd_honey_glazed_ham_eating_0",
+    "eatinganimation:fd_honey_glazed_ham_eating_1",
+    "eatinganimation:fd_honey_glazed_ham_eating_2"
+  ],
+  "farmersdelight:melon_juice": [
+    "farmersdelight:melon_juice",
+    "farmersdelight:melon_juice",
+    "eatinganimation:fd_melon_juice_eating_0",
+    "eatinganimation:fd_melon_juice_eating_1",
+    "eatinganimation:fd_melon_juice_eating_2"
+  ]
+}

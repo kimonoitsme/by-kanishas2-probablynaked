@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/egg_base",
+  "textures": {
+    "layer0": "rottencreatures:item/spawn_egg/swampy_spawn_egg"
+  }
+}

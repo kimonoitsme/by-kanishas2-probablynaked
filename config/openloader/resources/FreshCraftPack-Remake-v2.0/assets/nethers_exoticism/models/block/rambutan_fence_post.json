@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "nethers_exoticism:block/rambutan_fence_post",
+    "particle": "nethers_exoticism:block/ramboutan_planks"
+  },
+  "render_type": "solid"
+}

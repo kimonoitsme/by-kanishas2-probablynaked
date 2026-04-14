@@ -1,0 +1,107 @@
+{
+  "atmospheric:aloe_gel_bottle": [
+    "atmospheric:aloe_gel_bottle",
+    "atmospheric:aloe_gel_bottle",
+    "atmospheric:aloe_gel_bottle_eating_0",
+    "atmospheric:aloe_gel_bottle_eating_1",
+    "atmospheric:aloe_gel_bottle_eating_2"
+  ],
+  "atmospheric:aloe_leaves": [
+    "atmospheric:aloe_leaves",
+    "atmospheric:aloe_leaves",
+    "atmospheric:aloe_leaves_eating_0",
+    "atmospheric:aloe_leaves_eating_1",
+    "atmospheric:aloe_leaves_eating_2"
+  ],
+  "atmospheric:blood_orange": [
+    "atmospheric:blood_orange",
+    "atmospheric:blood_orange",
+    "atmospheric:blood_orange_eating_0",
+    "atmospheric:blood_orange_eating_1",
+    "atmospheric:blood_orange_eating_2"
+  ],
+  "atmospheric:candied_orange_slices": [
+    "atmospheric:candied_orange_slices",
+    "atmospheric:candied_orange_slices",
+    "atmospheric:candied_orange_slices_eating_0",
+    "atmospheric:candied_orange_slices_eating_1",
+    "atmospheric:candied_orange_slices_eating_2"
+  ],
+  "atmospheric:currant": [
+    "atmospheric:currant",
+    "atmospheric:currant",
+    "atmospheric:currant_eating_0",
+    "atmospheric:currant_eating_1",
+    "atmospheric:currant_eating_2"
+  ],
+  "atmospheric:currant_muffin": [
+    "atmospheric:currant_muffin",
+    "atmospheric:currant_muffin",
+    "atmospheric:currant_muffin_eating_0",
+    "atmospheric:currant_muffin_eating_1",
+    "atmospheric:currant_muffin_eating_2"
+  ],
+  "atmospheric:dragon_fruit": [
+    "atmospheric:dragon_fruit",
+    "atmospheric:dragon_fruit",
+    "atmospheric:dragon_fruit_eating_0",
+    "atmospheric:dragon_fruit_eating_1",
+    "atmospheric:dragon_fruit_eating_2"
+  ],
+  "atmospheric:golden_dragon_fruit": [
+    "atmospheric:golden_dragon_fruit",
+    "atmospheric:golden_dragon_fruit",
+    "atmospheric:golden_dragon_fruit_eating_0",
+    "atmospheric:golden_dragon_fruit_eating_1",
+    "atmospheric:golden_dragon_fruit_eating_2"
+  ],
+  "atmospheric:orange_sorbet": [
+    "atmospheric:orange_sorbet",
+    "atmospheric:orange_sorbet",
+    "atmospheric:orange_sorbet_eating_0",
+    "atmospheric:orange_sorbet_eating_1",
+    "atmospheric:orange_sorbet_eating_2"
+  ],
+  "atmospheric:passion_fruit": [
+    "atmospheric:passion_fruit",
+    "atmospheric:passion_fruit",
+    "atmospheric:passion_fruit_eating_0",
+    "atmospheric:passion_fruit_eating_1",
+    "atmospheric:passion_fruit_eating_2"
+  ],
+  "atmospheric:passion_fruit_sorbet": [
+    "atmospheric:passion_fruit_sorbet",
+    "atmospheric:passion_fruit_sorbet",
+    "atmospheric:passion_fruit_sorbet_eating_0",
+    "atmospheric:passion_fruit_sorbet_eating_1",
+    "atmospheric:passion_fruit_sorbet_eating_2"
+  ],
+  "atmospheric:roasted_yucca_fruit": [
+    "atmospheric:roasted_yucca_fruit",
+    "atmospheric:roasted_yucca_fruit",
+    "atmospheric:roasted_yucca_fruit_eating_0",
+    "atmospheric:roasted_yucca_fruit_eating_1",
+    "atmospheric:roasted_yucca_fruit_eating_2"
+  ],
+  "atmospheric:shimmering_passion_fruit": [
+    "atmospheric:shimmering_passion_fruit",
+    "atmospheric:shimmering_passion_fruit",
+    "atmospheric:shimmering_passion_fruit_eating_0",
+    "atmospheric:shimmering_passion_fruit_eating_1",
+    "atmospheric:shimmering_passion_fruit_eating_2"
+  ],
+  "atmospheric:yucca_fruit": [
+    "atmospheric:yucca_fruit",
+    "atmospheric:yucca_fruit",
+    "atmospheric:yucca_fruit_eating_0",
+    "atmospheric:yucca_fruit_eating_1",
+    "atmospheric:yucca_fruit_eating_2"
+  ],
+  "atmospheric:orange_pudding": [
+    "atmospheric:orange_pudding",
+    "atmospheric:orange_pudding",
+    "atmospheric:orange_pudding_eating_0",
+    "atmospheric:orange_pudding_eating_1",
+    "atmospheric:orange_pudding_eating_2"
+  ]
+}
