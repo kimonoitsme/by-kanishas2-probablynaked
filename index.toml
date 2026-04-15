@@ -111630,6 +111630,11 @@ file = "mods/tfmg-1.0.2f.jar"
 hash = "a789d1519fd4033334d0e217b252c557095b8007922247bfe53ee9db4f76a63d"
 
 [[files]]
+file = "mods/tfmg-virtual-oil-deposit.pw.toml"
+hash = "ebb5e1af9ccc9c10719e4f6a308e28432a129f8099661583834b7acd4fa47d58"
+metafile = true
+
+[[files]]
 file = "mods/the-conjurer-1.20.1-1.1.6.jar"
 hash = "13116af840e2c2a734d36cbd475bdbaf6ee3a26ff7653ea6641667a8ff937480"
 

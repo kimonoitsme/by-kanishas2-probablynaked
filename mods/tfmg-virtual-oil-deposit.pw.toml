@@ -1,0 +1,13 @@
+name = "TFMG: Virtual Oil Deposit"
+filename = "TFMG-Virtual_Oil_Deposit-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iVML54Gn/versions/DQlQ8nCD/TFMG-Virtual_Oil_Deposit-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "b9eb2d72fd7e62bc4368f8610d2c1f9c19a39abc2b22ef2cad4cff6353b77b4c68264ee764c50068c4514a756dd72e432c3b87219a8b672d27d4fe055b898e43"
+
+[update]
+[update.modrinth]
+mod-id = "iVML54Gn"
+version = "DQlQ8nCD"
